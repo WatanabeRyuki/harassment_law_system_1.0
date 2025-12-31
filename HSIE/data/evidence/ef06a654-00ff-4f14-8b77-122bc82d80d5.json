@@ -1,0 +1,109 @@
+{
+  "evidence_id": "ef06a654-00ff-4f14-8b77-122bc82d80d5",
+  "context": {
+    "context_id": "330c9cad-6e41-42c9-8f6d-0920d8701596",
+    "audio_id": "f5dbb10f-72a7-40ed-b4aa-3ee66cde37bb",
+    "session_id": "session_001",
+    "speaker_id": "speaker_0",
+    "audio_path": "/Users/watanaberyuki/Desktop/HSIEフォルダ/imput_demo/001-sibutomo.mp3",
+    "asr_engine": "placeholder",
+    "asr_version": null,
+    "language": "ja",
+    "sampling_rate": null,
+    "duration": null,
+    "utterance_units": [],
+    "created_at": "2025-12-31T17:17:46.060767",
+    "status": "CREATED"
+  },
+  "asr_result": {
+    "asr_id": "f0b45645-2dcb-4c58-acd9-4bb2aa562e4e",
+    "audio_id": "f5dbb10f-72a7-40ed-b4aa-3ee66cde37bb",
+    "language": "ja",
+    "transcript": "無天下のしゃぼん玉石圏なら もう安心天然の保湿成分が含まれるため 肌にうるおよあたえすこやかにたもちますお肌のことでお悩みの方は ぜひ一度無天下しゃぼん玉石圏をお試しくださいおもとめは01,20,00,5,5,9,5まで",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.0,
+        "end_time": 4.0,
+        "text": "無天下のしゃぼん玉石圏なら もう安心",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 1,
+        "start_time": 4.0,
+        "end_time": 11.0,
+        "text": "天然の保湿成分が含まれるため 肌にうるおよあたえすこやかにたもちます",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 2,
+        "start_time": 11.0,
+        "end_time": 17.0,
+        "text": "お肌のことでお悩みの方は ぜひ一度無天下しゃぼん玉石圏をお試しください",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 3,
+        "start_time": 17.0,
+        "end_time": 23.0,
+        "text": "おもとめは01,20,00,5,5,9,5まで",
+        "speaker_id": "speaker_0"
+      }
+    ],
+    "created_at": "2025-12-31T08:17:46.060262Z",
+    "engine_name": "whisper",
+    "model_name": "base"
+  },
+  "utterance_units": [
+    {
+      "utterance_id": "18204e5b-eb03-42c0-abec-a16c9771cdb5",
+      "speaker_id": "speaker_0",
+      "text": "無天下のしゃぼん玉石圏なら もう安心",
+      "start_time": 0.0,
+      "end_time": 4.0,
+      "duration": 4.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 0
+    },
+    {
+      "utterance_id": "dad152ce-d7b7-4b5e-aab5-d6d4fbfd3d27",
+      "speaker_id": "speaker_0",
+      "text": "天然の保湿成分が含まれるため 肌にうるおよあたえすこやかにたもちます",
+      "start_time": 4.0,
+      "end_time": 11.0,
+      "duration": 7.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 1
+    },
+    {
+      "utterance_id": "b5b6f162-d89b-426a-822a-80c003cd8b26",
+      "speaker_id": "speaker_0",
+      "text": "お肌のことでお悩みの方は ぜひ一度無天下しゃぼん玉石圏をお試しください",
+      "start_time": 11.0,
+      "end_time": 17.0,
+      "duration": 6.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 2
+    },
+    {
+      "utterance_id": "cd9fd3c1-f323-48a9-99c9-0fef7aaff2c6",
+      "speaker_id": "speaker_0",
+      "text": "おもとめは01,20,00,5,5,9,5まで",
+      "start_time": 17.0,
+      "end_time": 23.0,
+      "duration": 6.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 3
+    }
+  ],
+  "saved_at": "2025-12-31T08:17:46.061015Z",
+  "version": "v1"
+}

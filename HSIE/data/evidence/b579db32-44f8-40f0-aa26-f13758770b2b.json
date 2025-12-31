@@ -1,0 +1,773 @@
+{
+  "evidence_id": "b579db32-44f8-40f0-aa26-f13758770b2b",
+  "context": {
+    "context_id": "b286dd89-7f01-42e5-be2f-0ffafd0ac924",
+    "audio_id": "8895061c-b349-4df0-b67e-e29e4e67fd79",
+    "session_id": "session_001",
+    "speaker_id": "speaker_0",
+    "audio_path": "/Users/watanaberyuki/Desktop/HSIEフォルダ/imput_demo/会話サンプル.mp3",
+    "asr_engine": "placeholder",
+    "asr_version": null,
+    "language": "ja",
+    "sampling_rate": null,
+    "duration": null,
+    "utterance_units": [],
+    "created_at": "2025-12-31T22:03:49.966371",
+    "status": "CREATED"
+  },
+  "asr_result": {
+    "asr_id": "a8f883ff-af3a-4b0e-8a09-7ee9c2ef3f8a",
+    "audio_id": "8895061c-b349-4df0-b67e-e29e4e67fd79",
+    "language": "ja",
+    "transcript": "ちなみに何か高校後の勢いを見ていくかって思ってないですかそうですね 高校空気の企業とかあとはおってとかの自分で最要件を持った方があけるところっていうふうにちょっと見ていきたいと思っております 具体的な企業名はここではちょっとあまり出せないのですが そういう企業もちょっと色々見てみようかなってふうに考えておりますビジネスシテム見分ける カツ AIを取り込んで最新の開発に立つさわれる企業っていうものは エスタイレ様以外にももしかしたらもっとあるのではないかっていうふうに考えております その上でまあ実際に選抗を受けてみてないといけばもらえたらその上で比較して決めたいっていうのが 現状ですじゃあなんか最短でこれからPMに成りたいときに特別さ中で必要になってくる 絵件とか能力がかかってるなのかと思いますしずれ取りに行くべきものそうですねやはり高客の何を作りたいかの いいかというところが一番必要だと思っていますそれは実務経験よりも自分は必要なもんだと考えていますので実際にエンジニアにならすと思う その上でプロジェクト推進色っていうワクグミであったりそれ自体がプロジェクトにもかかわ マネジメントするという立場ももちろんあると思っています だから自分で開発経験を逃さずともマネジメントに射すさわれる仕事っていうのはちょこちょこたぶん見受けられるんじゃないかな っていうふうに思っていますそのため自分は正直エンジニアに なりたいっていうよりそのプロジェクトメネジアに最短でなる とその上でまあなった上でのエンジニアの仕事としての 理解をその後で深めていけばいいと思っているのでまあ両方の道を考えつっていう形ですね エスタイル様はどちらかといういえば公社でエンジニアになって それが高客の理解を含めてかつ技術な理解を深めてその上で人 マネジメントする立場にプロジェクトマネジアになれるんじゃない かなっていうのが一つとあと他にはプロジェクトマネジア マネジメントももう食とした入ってその上でその後にエンジニアとかかわってく上でその理解をするかつ高客の理解をする このどちらの方向でも可能だと思っていますつまりエスタイル様以外でもかなる可能性があるっていうのが現状ですねそのそれを自分の中で探して さらにその上で比較したいっていうことを考えていますので現状エスタイル様が一番なので小学をしたいっていうその意思です金用としてはその可能性があらるんではいるのでいって取り消しながらないことがちょっと わからないですよ僕も確認してみないと感じてはいかがあるん だけどそれでもいいと思っていますよねだからここに自分が最後までなっているかもってやりきるためにはそうですね正直そんなにない程度に決していなる企業だったら自分は入りたくないっていうのが本でですねそれぐらいの企業だと思っているんで自分よりいい価値を提供できないのにそれでむりやりかこい込んでいるってそんなに人材に 学足してるのかっていう考えるとそういうそれでもしない程を取り消されるんだ",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.0,
+        "end_time": 5.28,
+        "text": "ちなみに何か高校後の勢いを見ていくかって思ってないですか",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 1,
+        "start_time": 5.28,
+        "end_time": 7.72,
+        "text": "そうですね 高校空気の企業とか",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 2,
+        "start_time": 7.72,
+        "end_time": 12.88,
+        "text": "あとはおってとかの自分で最要件を持った方があけるところっていうふうに",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 3,
+        "start_time": 12.88,
+        "end_time": 16.76,
+        "text": "ちょっと見ていきたいと思っております 具体的な企業名はここではちょっと",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 4,
+        "start_time": 16.76,
+        "end_time": 21.76,
+        "text": "あまり出せないのですが そういう企業もちょっと色々見てみようかなって",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 5,
+        "start_time": 21.76,
+        "end_time": 24.8,
+        "text": "ふうに考えております",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 6,
+        "start_time": 24.8,
+        "end_time": 28.68,
+        "text": "ビジネスシテム見分ける カツ AIを取り込んで最新の開発に",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 7,
+        "start_time": 28.68,
+        "end_time": 33.24,
+        "text": "立つさわれる企業っていうものは エスタイレ様以外にももしかしたら",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 8,
+        "start_time": 33.24,
+        "end_time": 37.68,
+        "text": "もっとあるのではないかっていうふうに考えております その上で",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 9,
+        "start_time": 37.68,
+        "end_time": 41.0,
+        "text": "まあ実際に選抗を受けてみてないといけばもらえたら",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 10,
+        "start_time": 41.0,
+        "end_time": 45.84,
+        "text": "その上で比較して決めたいっていうのが 現状です",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 11,
+        "start_time": 51.92,
+        "end_time": 57.120000000000005,
+        "text": "じゃあなんか最短でこれからPMに成りたいときに",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 12,
+        "start_time": 57.12,
+        "end_time": 65.0,
+        "text": "特別さ中で必要になってくる 絵件とか能力がかかってるなのかと思います",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 13,
+        "start_time": 65.0,
+        "end_time": 68.0,
+        "text": "しずれ取りに行くべきもの",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 14,
+        "start_time": 68.0,
+        "end_time": 74.72,
+        "text": "そうですねやはり高客の何を作りたいかの いいかというところが一番必要だと思っています",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 15,
+        "start_time": 74.72,
+        "end_time": 78.52,
+        "text": "それは実務経験よりも自分は必要なもんだと考えていますので",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 16,
+        "start_time": 78.52,
+        "end_time": 83.96,
+        "text": "実際にエンジニアにならすと思う その上でプロジェクト推進色っていう",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 17,
+        "start_time": 83.96,
+        "end_time": 89.44,
+        "text": "ワクグミであったりそれ自体がプロジェクトにもかかわ マネジメントする",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 18,
+        "start_time": 89.44,
+        "end_time": 95.36,
+        "text": "という立場ももちろんあると思っています だから自分で開発経験を",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 19,
+        "start_time": 95.36,
+        "end_time": 98.67999999999999,
+        "text": "逃さずともマネジメントに射すさわれる仕事っていうのは",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 20,
+        "start_time": 98.67999999999999,
+        "end_time": 102.44,
+        "text": "ちょこちょこたぶん見受けられるんじゃないかな っていうふうに思っています",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 21,
+        "start_time": 102.44,
+        "end_time": 107.96,
+        "text": "そのため自分は正直エンジニアに なりたいっていうより",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 22,
+        "start_time": 107.96,
+        "end_time": 111.56,
+        "text": "そのプロジェクトメネジアに最短でなる とその上で",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 23,
+        "start_time": 111.56,
+        "end_time": 117.84,
+        "text": "まあなった上でのエンジニアの仕事としての 理解をその後で深めていけばいいと思っているので",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 24,
+        "start_time": 117.84,
+        "end_time": 122.92,
+        "text": "まあ両方の道を考えつっていう形ですね エスタイル様はどちらかという",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 25,
+        "start_time": 122.92,
+        "end_time": 128.0,
+        "text": "いえば公社でエンジニアになって それが高客の理解を含めてかつ",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 26,
+        "start_time": 128.0,
+        "end_time": 134.0,
+        "text": "技術な理解を深めてその上で人 マネジメントする立場に",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 27,
+        "start_time": 134.0,
+        "end_time": 137.04,
+        "text": "プロジェクトマネジアになれるんじゃない かなって",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 28,
+        "start_time": 137.04,
+        "end_time": 141.44,
+        "text": "いうのが一つとあと他にはプロジェクトマネジア マネジメントも",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 29,
+        "start_time": 141.44,
+        "end_time": 147.79999999999998,
+        "text": "もう食とした入ってその上でその後にエンジニアとかかわってく上でその理解をする",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 30,
+        "start_time": 147.79999999999998,
+        "end_time": 152.04,
+        "text": "かつ高客の理解をする このどちらの方向でも可能だと思っています",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 31,
+        "start_time": 152.04,
+        "end_time": 158.04,
+        "text": "つまりエスタイル様以外でもかなる可能性があるっていうのが現状ですね",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 32,
+        "start_time": 158.04,
+        "end_time": 162.95999999999998,
+        "text": "そのそれを自分の中で探して さらにその上で比較したいっていう",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 33,
+        "start_time": 162.96,
+        "end_time": 167.20000000000002,
+        "text": "ことを考えていますので現状エスタイル様が一番なので",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 34,
+        "start_time": 167.20000000000002,
+        "end_time": 171.96,
+        "text": "小学をしたいっていうその意思です",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 35,
+        "start_time": 171.96,
+        "end_time": 184.96,
+        "text": "金用としてはその可能性があらるんではいるので",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 36,
+        "start_time": 184.96,
+        "end_time": 195.96,
+        "text": "いって取り消しながらないことがちょっと わからないですよ僕も確認してみないと",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 37,
+        "start_time": 195.96,
+        "end_time": 200.6,
+        "text": "感じてはいかがあるん だけどそれでもいいと思っていますよね",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 38,
+        "start_time": 200.6,
+        "end_time": 207.20000000000002,
+        "text": "だからここに自分が最後までなっているかもってやりきるためには",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 39,
+        "start_time": 207.20000000000002,
+        "end_time": 211.84,
+        "text": "そうですね正直そんなにない程度に決していなる企業だったら自分は入りたくない",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 40,
+        "start_time": 211.84,
+        "end_time": 218.32,
+        "text": "っていうのが本でですねそれぐらいの企業だと思っているんで",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 41,
+        "start_time": 218.32,
+        "end_time": 222.08,
+        "text": "自分よりいい価値を提供できないのに",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 42,
+        "start_time": 222.08,
+        "end_time": 230.4,
+        "text": "それでむりやりかこい込んでいるってそんなに人材に 学足してるのかっていう考えると",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 43,
+        "start_time": 230.4,
+        "end_time": 235.52,
+        "text": "そういうそれでもしない程を取り消されるんだ",
+        "speaker_id": "speaker_0"
+      }
+    ],
+    "created_at": "2025-12-31T13:03:49.964930Z",
+    "engine_name": "whisper",
+    "model_name": "base"
+  },
+  "utterance_units": [
+    {
+      "utterance_id": "ef7fa1d8-0414-48e5-ae3f-53c43783414b",
+      "speaker_id": "speaker_0",
+      "text": "ちなみに何か高校後の勢いを見ていくかって思ってないですか",
+      "start_time": 0.0,
+      "end_time": 5.28,
+      "duration": 5.28,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 0
+    },
+    {
+      "utterance_id": "bedb478d-9a9b-4175-9c26-23ac0f51d0ee",
+      "speaker_id": "speaker_0",
+      "text": "そうですね 高校空気の企業とか",
+      "start_time": 5.28,
+      "end_time": 7.72,
+      "duration": 2.4399999999999995,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 1
+    },
+    {
+      "utterance_id": "4dbd937c-6860-4277-a8a5-5ed3317032af",
+      "speaker_id": "speaker_0",
+      "text": "あとはおってとかの自分で最要件を持った方があけるところっていうふうに",
+      "start_time": 7.72,
+      "end_time": 12.88,
+      "duration": 5.160000000000001,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 2
+    },
+    {
+      "utterance_id": "9bcd39cf-6469-4261-bc13-10713db660ca",
+      "speaker_id": "speaker_0",
+      "text": "ちょっと見ていきたいと思っております 具体的な企業名はここではちょっと",
+      "start_time": 12.88,
+      "end_time": 16.76,
+      "duration": 3.880000000000001,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 3
+    },
+    {
+      "utterance_id": "339e3c76-b49d-4739-857c-83c9895f72ee",
+      "speaker_id": "speaker_0",
+      "text": "あまり出せないのですが そういう企業もちょっと色々見てみようかなって ふうに考えております",
+      "start_time": 16.76,
+      "end_time": 24.8,
+      "duration": 8.04,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 4
+    },
+    {
+      "utterance_id": "8597d613-043a-4541-8ede-2dd2fa704ebf",
+      "speaker_id": "speaker_0",
+      "text": "ビジネスシテム見分ける カツ AIを取り込んで最新の開発に",
+      "start_time": 24.8,
+      "end_time": 28.68,
+      "duration": 3.879999999999999,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 5
+    },
+    {
+      "utterance_id": "18fdc8dd-dcd9-4945-831e-37f9759918c7",
+      "speaker_id": "speaker_0",
+      "text": "立つさわれる企業っていうものは エスタイレ様以外にももしかしたら",
+      "start_time": 28.68,
+      "end_time": 33.24,
+      "duration": 4.560000000000002,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 6
+    },
+    {
+      "utterance_id": "a6afac71-17ea-40ca-a05c-83d5979f93c2",
+      "speaker_id": "speaker_0",
+      "text": "もっとあるのではないかっていうふうに考えております その上で まあ実際に選抗を受けてみてないといけばもらえたら",
+      "start_time": 33.24,
+      "end_time": 41.0,
+      "duration": 7.759999999999998,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 7
+    },
+    {
+      "utterance_id": "008b92eb-cd9c-4b5f-a177-0391deeb453f",
+      "speaker_id": "speaker_0",
+      "text": "その上で比較して決めたいっていうのが 現状です",
+      "start_time": 41.0,
+      "end_time": 45.84,
+      "duration": 4.840000000000003,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 8
+    },
+    {
+      "utterance_id": "e3afda5f-f41e-4819-94e3-2dd17a65b9fc",
+      "speaker_id": "speaker_0",
+      "text": "じゃあなんか最短でこれからPMに成りたいときに",
+      "start_time": 51.92,
+      "end_time": 57.120000000000005,
+      "duration": 5.200000000000003,
+      "confidence": null,
+      "pause_before": 6.079999999999998,
+      "pause_level": "LONG",
+      "index_in_session": 9
+    },
+    {
+      "utterance_id": "ef56c65a-af57-42b3-a937-67a3fbc30279",
+      "speaker_id": "speaker_0",
+      "text": "特別さ中で必要になってくる 絵件とか能力がかかってるなのかと思います",
+      "start_time": 57.12,
+      "end_time": 65.0,
+      "duration": 7.880000000000003,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 10
+    },
+    {
+      "utterance_id": "199a5aa2-c0f7-4a95-bf26-dcbbae41cb0c",
+      "speaker_id": "speaker_0",
+      "text": "しずれ取りに行くべきもの",
+      "start_time": 65.0,
+      "end_time": 68.0,
+      "duration": 3.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 11
+    },
+    {
+      "utterance_id": "bb9028b8-e076-4eec-9b3b-629f72859b32",
+      "speaker_id": "speaker_0",
+      "text": "そうですねやはり高客の何を作りたいかの いいかというところが一番必要だと思っています",
+      "start_time": 68.0,
+      "end_time": 74.72,
+      "duration": 6.719999999999999,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 12
+    },
+    {
+      "utterance_id": "0a8f0e35-d0d0-46a8-9f66-dde41b7f46e0",
+      "speaker_id": "speaker_0",
+      "text": "それは実務経験よりも自分は必要なもんだと考えていますので 実際にエンジニアにならすと思う その上でプロジェクト推進色っていう",
+      "start_time": 74.72,
+      "end_time": 83.96,
+      "duration": 9.239999999999995,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 13
+    },
+    {
+      "utterance_id": "bc20615f-d9e7-4079-a872-b9e1f417439d",
+      "speaker_id": "speaker_0",
+      "text": "ワクグミであったりそれ自体がプロジェクトにもかかわ マネジメントする",
+      "start_time": 83.96,
+      "end_time": 89.44,
+      "duration": 5.480000000000004,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 14
+    },
+    {
+      "utterance_id": "c264b456-48ef-4d11-bab9-0d178f56aa21",
+      "speaker_id": "speaker_0",
+      "text": "という立場ももちろんあると思っています だから自分で開発経験を",
+      "start_time": 89.44,
+      "end_time": 95.36,
+      "duration": 5.920000000000002,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 15
+    },
+    {
+      "utterance_id": "10ca4fa2-c3f8-420d-961c-5e32d0f190a9",
+      "speaker_id": "speaker_0",
+      "text": "逃さずともマネジメントに射すさわれる仕事っていうのは",
+      "start_time": 95.36,
+      "end_time": 98.67999999999999,
+      "duration": 3.319999999999993,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 16
+    },
+    {
+      "utterance_id": "e6a92275-9af6-4748-b0e5-8c05f293c6fc",
+      "speaker_id": "speaker_0",
+      "text": "ちょこちょこたぶん見受けられるんじゃないかな っていうふうに思っています",
+      "start_time": 98.67999999999999,
+      "end_time": 102.44,
+      "duration": 3.760000000000005,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 17
+    },
+    {
+      "utterance_id": "d2463360-1388-4915-9161-c74e245c4ca3",
+      "speaker_id": "speaker_0",
+      "text": "そのため自分は正直エンジニアに なりたいっていうより",
+      "start_time": 102.44,
+      "end_time": 107.96,
+      "duration": 5.519999999999996,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 18
+    },
+    {
+      "utterance_id": "9c810ab8-720f-406c-9218-5dee89f6e71a",
+      "speaker_id": "speaker_0",
+      "text": "そのプロジェクトメネジアに最短でなる とその上で まあなった上でのエンジニアの仕事としての 理解をその後で深めていけばいいと思っているので",
+      "start_time": 107.96,
+      "end_time": 117.84,
+      "duration": 9.88000000000001,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 19
+    },
+    {
+      "utterance_id": "a26c023c-4acf-4201-888a-c1e5cca49b88",
+      "speaker_id": "speaker_0",
+      "text": "まあ両方の道を考えつっていう形ですね エスタイル様はどちらかという",
+      "start_time": 117.84,
+      "end_time": 122.92,
+      "duration": 5.079999999999998,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 20
+    },
+    {
+      "utterance_id": "8bb6c5ad-222d-47ee-991b-c5eca4cfe8a4",
+      "speaker_id": "speaker_0",
+      "text": "いえば公社でエンジニアになって それが高客の理解を含めてかつ",
+      "start_time": 122.92,
+      "end_time": 128.0,
+      "duration": 5.079999999999998,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 21
+    },
+    {
+      "utterance_id": "c423dc4d-bc9f-4837-84d2-39125f74f489",
+      "speaker_id": "speaker_0",
+      "text": "技術な理解を深めてその上で人 マネジメントする立場に",
+      "start_time": 128.0,
+      "end_time": 134.0,
+      "duration": 6.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 22
+    },
+    {
+      "utterance_id": "21bc95b4-78f0-426e-b750-a4a84abb280b",
+      "speaker_id": "speaker_0",
+      "text": "プロジェクトマネジアになれるんじゃない かなって いうのが一つとあと他にはプロジェクトマネジア マネジメントも",
+      "start_time": 134.0,
+      "end_time": 141.44,
+      "duration": 7.439999999999998,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 23
+    },
+    {
+      "utterance_id": "3e5a0866-b167-4d31-bfdd-69164ecf3fd7",
+      "speaker_id": "speaker_0",
+      "text": "もう食とした入ってその上でその後にエンジニアとかかわってく上でその理解をする",
+      "start_time": 141.44,
+      "end_time": 147.79999999999998,
+      "duration": 6.359999999999985,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 24
+    },
+    {
+      "utterance_id": "d042d43e-5189-402a-8fba-a06f18b8e4ea",
+      "speaker_id": "speaker_0",
+      "text": "かつ高客の理解をする このどちらの方向でも可能だと思っています",
+      "start_time": 147.79999999999998,
+      "end_time": 152.04,
+      "duration": 4.240000000000009,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 25
+    },
+    {
+      "utterance_id": "d1c28e96-3995-4244-8b70-fd5d7dba3b6d",
+      "speaker_id": "speaker_0",
+      "text": "つまりエスタイル様以外でもかなる可能性があるっていうのが現状ですね",
+      "start_time": 152.04,
+      "end_time": 158.04,
+      "duration": 6.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 26
+    },
+    {
+      "utterance_id": "5cba5f01-0d54-4aaa-b1e4-934ab5ca16ba",
+      "speaker_id": "speaker_0",
+      "text": "そのそれを自分の中で探して さらにその上で比較したいっていう",
+      "start_time": 158.04,
+      "end_time": 162.95999999999998,
+      "duration": 4.9199999999999875,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 27
+    },
+    {
+      "utterance_id": "82756a26-c1c3-4ef8-91e9-c61916c2ced1",
+      "speaker_id": "speaker_0",
+      "text": "ことを考えていますので現状エスタイル様が一番なので 小学をしたいっていうその意思です",
+      "start_time": 162.96,
+      "end_time": 171.96,
+      "duration": 9.0,
+      "confidence": null,
+      "pause_before": 2.842170943040401e-14,
+      "pause_level": "SHORT",
+      "index_in_session": 28
+    },
+    {
+      "utterance_id": "0477313f-3669-43a1-8ab2-15353041c633",
+      "speaker_id": "speaker_0",
+      "text": "金用としてはその可能性があらるんではいるので いって取り消しながらないことがちょっと わからないですよ僕も確認してみないと",
+      "start_time": 171.96,
+      "end_time": 195.96,
+      "duration": 24.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 29
+    },
+    {
+      "utterance_id": "2ca97864-4233-45df-9809-1a73bde13ff5",
+      "speaker_id": "speaker_0",
+      "text": "感じてはいかがあるん だけどそれでもいいと思っていますよね",
+      "start_time": 195.96,
+      "end_time": 200.6,
+      "duration": 4.639999999999986,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 30
+    },
+    {
+      "utterance_id": "27d36cd9-d9b9-4139-9446-5be9f83ea574",
+      "speaker_id": "speaker_0",
+      "text": "だからここに自分が最後までなっているかもってやりきるためには",
+      "start_time": 200.6,
+      "end_time": 207.20000000000002,
+      "duration": 6.600000000000023,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 31
+    },
+    {
+      "utterance_id": "66aa569e-d42b-41be-8685-5e34d17ca31b",
+      "speaker_id": "speaker_0",
+      "text": "そうですね正直そんなにない程度に決していなる企業だったら自分は入りたくない",
+      "start_time": 207.20000000000002,
+      "end_time": 211.84,
+      "duration": 4.639999999999986,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 32
+    },
+    {
+      "utterance_id": "8196eafe-44b5-4294-918e-5c54d688943e",
+      "speaker_id": "speaker_0",
+      "text": "っていうのが本でですねそれぐらいの企業だと思っているんで 自分よりいい価値を提供できないのに",
+      "start_time": 211.84,
+      "end_time": 222.08,
+      "duration": 10.240000000000009,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 33
+    },
+    {
+      "utterance_id": "a2567201-47f6-4532-a16f-7fd98e93b48d",
+      "speaker_id": "speaker_0",
+      "text": "それでむりやりかこい込んでいるってそんなに人材に 学足してるのかっていう考えると",
+      "start_time": 222.08,
+      "end_time": 230.4,
+      "duration": 8.319999999999993,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 34
+    },
+    {
+      "utterance_id": "42a63958-dc1e-4c4d-90d1-199e32e79eae",
+      "speaker_id": "speaker_0",
+      "text": "そういうそれでもしない程を取り消されるんだ",
+      "start_time": 230.4,
+      "end_time": 235.52,
+      "duration": 5.1200000000000045,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 35
+    }
+  ],
+  "saved_at": "2025-12-31T13:03:49.966691Z",
+  "version": "v1"
+}
