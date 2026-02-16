@@ -5,23 +5,34 @@
 🟢 完了済み
 
 企画書
-
+↓
 要件定義書
-
+↓
 基本設計書
-
+↓
 全体 HSIE 詳細設計書
+↓
+エントリーポイント層 設計・実装 完了
+　|-EntoryPoint層(フォルダ)
+     |-エントリーポイント設計書
+     |-エントリーポイントassets
+         |-エントリーポイント詳細設計書 -  フローチャート.pdf
+         |-HSIE エントリーポイントER図 -  フローチャート.pdf
+         |-HSIEController → DB シーケンス図 -  フローチャート.pdf
 
-4.1 エントリーポイント層 設計・実装 完了
+↓
+preprocessEvidence層設計中
+　|-PreprocessEvidence層(フォルダ)
+     |-Preprocessed Evidence詳細設計書
+     |-Preprocessed Evidence JSON出力モデル
+     |-Preprocessed Evidence＿assets
+         |-Preprocessed Evidence コンポーネント図 -  フローチャート
+         |-Preprocessed Evidence ER図 
 
-EntryPoint 層の責務定義
 
-全体フロー図（assets フォルダ内）
-
-HSIEController 実装
-
+実装済みプログラム内容：
+HSIEフォルダ内
 音声入力 → ASR → Evidence(JSON) 生成までの End-to-End 実行確認済み
-
 Evidence は immutable なスナップショットとして保存
 
 🟡 設計完了・実装準備中
