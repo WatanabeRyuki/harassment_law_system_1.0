@@ -36,7 +36,7 @@
 
 ↓
 
-preprocessEvidence層設計完了
+preprocessEvidence層 設計・実装 完了
 
 　|-PreprocessEvidence層(フォルダ)
  
