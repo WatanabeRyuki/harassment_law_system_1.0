@@ -1,0 +1,185 @@
+{
+  "evidence_id": "9718dd02-20da-4a94-ba57-95a99b0c47f7",
+  "context": {
+    "context_id": "470e8e4d-271f-453b-a46a-ab09cb2edbd5",
+    "audio_id": "b40a8020-f9d5-4463-92e8-f7645eee0fa2",
+    "session_id": "session_001",
+    "speaker_id": "speaker_0",
+    "audio_path": "/Users/watanaberyuki/Desktop/HSIEフォルダ/imput_demo/talking_demo3.wav",
+    "asr_engine": "placeholder",
+    "asr_version": null,
+    "language": "ja",
+    "sampling_rate": 44100,
+    "duration": 25.28,
+    "utterance_units": [],
+    "created_at": "2026-03-12T15:27:01.258295",
+    "status": "CREATED"
+  },
+  "asr_result": {
+    "asr_id": "54d95f40-42e7-47ab-bc58-1cc29baa844b",
+    "audio_id": "b40a8020-f9d5-4463-92e8-f7645eee0fa2",
+    "language": "ja",
+    "transcript": "おはよう!今日ちょっと覚めくない?おはよう!うん!朝外に出たらびっくりした!昨日はあんなに扱ったのにねほんとだよね!こうとしまわなくてよかった!今日は帰りに、あったかいものでも食べようかな?いいね!ラメンとかどう?いいね!それじゃあ仕事終わりに行こううん!楽しみにしてる",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.0,
+        "end_time": 4.0,
+        "text": "おはよう!今日ちょっと覚めくない?",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 1,
+        "start_time": 4.0,
+        "end_time": 8.0,
+        "text": "おはよう!うん!朝外に出たらびっくりした!",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 2,
+        "start_time": 8.0,
+        "end_time": 10.0,
+        "text": "昨日はあんなに扱ったのにね",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 3,
+        "start_time": 10.0,
+        "end_time": 14.0,
+        "text": "ほんとだよね!こうとしまわなくてよかった!",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 4,
+        "start_time": 14.0,
+        "end_time": 17.0,
+        "text": "今日は帰りに、あったかいものでも食べようかな?",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 5,
+        "start_time": 17.0,
+        "end_time": 19.0,
+        "text": "いいね!ラメンとかどう?",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 6,
+        "start_time": 19.0,
+        "end_time": 22.0,
+        "text": "いいね!それじゃあ仕事終わりに行こう",
+        "speaker_id": "speaker_0"
+      },
+      {
+        "segment_id": 7,
+        "start_time": 22.0,
+        "end_time": 25.0,
+        "text": "うん!楽しみにしてる",
+        "speaker_id": "speaker_0"
+      }
+    ],
+    "created_at": "2026-03-12T06:27:01.257914Z",
+    "engine_name": "whisper",
+    "model_name": "base"
+  },
+  "utterance_units": [
+    {
+      "utterance_id": "3928317d-8880-45a1-bf91-cbc1797d72e6",
+      "speaker_id": "speaker_0",
+      "text": "おはよう!今日ちょっと覚めくない?",
+      "start_time": 0.0,
+      "end_time": 4.0,
+      "duration": 4.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 0
+    },
+    {
+      "utterance_id": "6176e439-f148-4e32-a648-6d86aa0a3e9e",
+      "speaker_id": "speaker_0",
+      "text": "おはよう!うん!朝外に出たらびっくりした!",
+      "start_time": 4.0,
+      "end_time": 8.0,
+      "duration": 4.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 1
+    },
+    {
+      "utterance_id": "e7068cad-b06b-46e4-9396-c55775a55731",
+      "speaker_id": "speaker_0",
+      "text": "昨日はあんなに扱ったのにね",
+      "start_time": 8.0,
+      "end_time": 10.0,
+      "duration": 2.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 2
+    },
+    {
+      "utterance_id": "75f5d0f8-ee93-4977-b536-6f9baaf4f525",
+      "speaker_id": "speaker_0",
+      "text": "ほんとだよね!こうとしまわなくてよかった!",
+      "start_time": 10.0,
+      "end_time": 14.0,
+      "duration": 4.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 3
+    },
+    {
+      "utterance_id": "0e9da305-3fa0-4096-b4d1-a08f6e0d6b2d",
+      "speaker_id": "speaker_0",
+      "text": "今日は帰りに、あったかいものでも食べようかな?",
+      "start_time": 14.0,
+      "end_time": 17.0,
+      "duration": 3.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 4
+    },
+    {
+      "utterance_id": "984fdc58-2cf8-4360-a4cf-ed49d7f3ebf3",
+      "speaker_id": "speaker_0",
+      "text": "いいね!ラメンとかどう?",
+      "start_time": 17.0,
+      "end_time": 19.0,
+      "duration": 2.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 5
+    },
+    {
+      "utterance_id": "5c3c930f-8c28-4f06-bc18-9c942e4904a8",
+      "speaker_id": "speaker_0",
+      "text": "いいね!それじゃあ仕事終わりに行こう",
+      "start_time": 19.0,
+      "end_time": 22.0,
+      "duration": 3.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 6
+    },
+    {
+      "utterance_id": "67977e3c-663b-4d0d-89fe-01f7f2a5b615",
+      "speaker_id": "speaker_0",
+      "text": "うん!楽しみにしてる",
+      "start_time": 22.0,
+      "end_time": 25.0,
+      "duration": 3.0,
+      "confidence": null,
+      "pause_before": 0.0,
+      "pause_level": "SHORT",
+      "index_in_session": 7
+    }
+  ],
+  "saved_at": "2026-03-12T06:27:01.258538Z",
+  "version": "v1"
+}
