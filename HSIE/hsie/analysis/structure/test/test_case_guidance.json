@@ -1,0 +1,20 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {"speaker_id": "speaker_1","text": "今回の設計について説明してもらえますか。","start_time": 0.0,"end_time": 4.0},
+      {"speaker_id": "speaker_0","text": "はい、今回の設計ではまずユーザー認証機能を中心に構築し、その後に権限管理を追加する形を考えています。","start_time": 5.0,"end_time": 20.0},
+      {"speaker_id": "speaker_1","text": "それだと弱いですね。","start_time": 21.0,"end_time": 23.0},
+      {"speaker_id": "speaker_0","text": "弱いとおっしゃるのは、どの部分でしょうか。セキュリティ面でしょうか、それとも運用面でしょうか。","start_time": 24.0,"end_time": 36.0},
+      {"speaker_id": "speaker_1","text": "両方です。","start_time": 37.0,"end_time": 38.0},
+      {"speaker_id": "speaker_0","text": "なるほど、では具体的にどのような改善が必要かご指摘いただけますでしょうか。","start_time": 39.0,"end_time": 50.0},
+      {"speaker_id": "speaker_1","text": "まず認証を後回しにしているのが問題です。","start_time": 51.0,"end_time": 58.0},
+      {"speaker_id": "speaker_0","text": "確かにその点は考慮不足でした。設計順序を見直します。","start_time": 59.0,"end_time": 68.0},
+      {"speaker_id": "speaker_1","text": "あと、権限管理も甘い。","start_time": 69.0,"end_time": 72.0},
+      {"speaker_id": "speaker_0","text": "ありがとうございます。そこも詳細設計で補強します。","start_time": 73.0,"end_time": 82.0},
+      {"speaker_id": "speaker_1","text": "その方向で進めてください。","start_time": 83.0,"end_time": 87.0},
+      {"speaker_id": "speaker_0","text": "承知しました。修正案をまとめて再度ご報告いたします。","start_time": 88.0,"end_time": 100.0}
+    ]
+  }

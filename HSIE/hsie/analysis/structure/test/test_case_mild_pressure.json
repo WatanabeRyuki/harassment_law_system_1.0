@@ -1,0 +1,32 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {
+        "speaker_id": "speaker_0",
+        "text": "昨日中に終わらせる予定だったのですが",
+        "start_time": 0.0,
+        "end_time": 5.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いや、それはちょっと違うと思う",
+        "start_time": 5.0,
+        "end_time": 7.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "確認に時間がかかってしまって",
+        "start_time": 7.0,
+        "end_time": 10.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "でも結果が出てないのは問題だよ",
+        "start_time": 10.0,
+        "end_time": 13.0
+      }
+    ]
+  }

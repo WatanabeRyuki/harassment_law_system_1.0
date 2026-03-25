@@ -1,0 +1,242 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {
+        "speaker_id": "speaker_0",
+        "text": "今回のプロジェクトの進捗状況についてですが、現在は調査フェーズで",
+        "start_time": 0.0,
+        "end_time": 4.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いや、違うだろ。調査フェーズなんていつまでやってるんだよ。遅すぎるだろ。",
+        "start_time": 4.6,
+        "end_time": 9.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。技術的な課題が見つかりまして、その確認を",
+        "start_time": 9.5,
+        "end_time": 13.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "だから、言い訳はやめろって言ってるだろ。ダメだな、本当に。効率が悪すぎる。",
+        "start_time": 13.2,
+        "end_time": 18.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "もっと早く動けないのか？周りを見てみろよ。お前だけ止まってるんだぞ。",
+        "start_time": 18.2,
+        "end_time": 23.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "改善策として、チーム内での共有フローを見直そうと考えて",
+        "start_time": 24.0,
+        "end_time": 27.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "間違いだらけだよ。フローの問題じゃない、お前の能力の問題だろ。ありえないわ。",
+        "start_time": 27.6,
+        "end_time": 33.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "そもそもやる気あるのか？この前の資料もミスだらけだったし、全然ダメだ。",
+        "start_time": 33.5,
+        "end_time": 38.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "すみません、資料についてはすぐに修正して",
+        "start_time": 39.0,
+        "end_time": 41.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いや、修正とかそういう次元じゃないんだよ。根本的に考え方が甘い。違いますか？",
+        "start_time": 41.6,
+        "end_time": 46.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "はぁ、もういいよ。説明も下手だし、聞いてるだけで時間が無駄になる。",
+        "start_time": 47.0,
+        "end_time": 52.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いいか、明日までに全部やり直せ。できないならもうこの件から外れてもらうからな。",
+        "start_time": 52.5,
+        "end_time": 58.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "あ、あの、明日までだとリソースが少し厳しくて、調整をさせていただければ",
+        "start_time": 59.0,
+        "end_time": 64.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ダメだと言ったらダメなんだよ。何回言わせるんだ？やる気がないなら帰れよ。",
+        "start_time": 64.2,
+        "end_time": 69.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "お前のせいでスケジュールが全部狂ってるんだよ。自覚あるのか？間違いなくお前のせいだぞ。",
+        "start_time": 70.0,
+        "end_time": 76.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "自覚はしております。ですので、早急にキャッチアップするために",
+        "start_time": 77.0,
+        "end_time": 81.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いや、口だけは達者だな。行動で見せろって。見ててイライラするんだよ。",
+        "start_time": 81.2,
+        "end_time": 86.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "普通、この年次でこんなミスするか？ありえないだろ。お前、本当に向いてないんじゃないか？",
+        "start_time": 86.5,
+        "end_time": 93.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "努力はしていますが、至らない点が多いのは事実です。ですので",
+        "start_time": 94.0,
+        "end_time": 98.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "努力なんて誰でもしてるんだよ。結果が出なきゃゴミなんだよ。分かってんの？",
+        "start_time": 98.2,
+        "end_time": 103.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "もう黙ってろ。お前の声聞くだけで不快だわ。こっちは忙しいんだよ。",
+        "start_time": 104.0,
+        "end_time": 109.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "結局、何も進んでない。全部お前の責任。分かったらさっさと席に戻って仕事しろ。",
+        "start_time": 110.0,
+        "end_time": 116.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "わかりました。失礼します。",
+        "start_time": 117.0,
+        "end_time": 119.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ちょっと待て。まだ話終わってないだろ。逃げるのか？本当にダメな奴だな。",
+        "start_time": 119.5,
+        "end_time": 125.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "座れよ。お前のその態度はなんだ？謝罪の言葉もないのか？",
+        "start_time": 125.5,
+        "end_time": 130.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "大変失礼いたしました。申し訳ございません。",
+        "start_time": 131.0,
+        "end_time": 134.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "謝って済むなら警察いらないんだよ。具体的にどう責任取るんだよ、これ。",
+        "start_time": 134.2,
+        "end_time": 139.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いや、答えてみろよ。黙ってたら伝わるとでも思ってるのか？間違いだよ、それは。",
+        "start_time": 140.0,
+        "end_time": 145.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "本日中に修正案をまとめ、関係各所に共有いたします。それでご了承いただければ",
+        "start_time": 146.0,
+        "end_time": 151.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ご了承？お前が判断するなよ。何様なんだよ、本当にありえないわ。",
+        "start_time": 151.2,
+        "end_time": 156.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "はぁ、もう本当に見てられない。レベルが低すぎて話にならない。ダメだダメだ。",
+        "start_time": 156.5,
+        "end_time": 162.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "明日。明日の朝9時までに私の机に出しておけ。一箇所でもミスがあったら承知しないからな。",
+        "start_time": 163.0,
+        "end_time": 170.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "承知いたしました。遅れないように提出いたします。",
+        "start_time": 171.0,
+        "end_time": 174.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いや、その返事だけは立派だよな。中身が伴ってないんだよ。",
+        "start_time": 174.6,
+        "end_time": 179.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "二度と同じようなことするなよ。次は本当にないと思え。わかったか？",
+        "start_time": 180.0,
+        "end_time": 185.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はい、重々承知しております。",
+        "start_time": 186.0,
+        "end_time": 188.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "だったら行動しろ。さっさと行け。",
+        "start_time": 188.2,
+        "end_time": 191.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "失礼いたします。",
+        "start_time": 192.0,
+        "end_time": 194.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ふん、時間の無駄だったわ。ダメな奴は何をやってもダメだな、本当に。",
+        "start_time": 194.5,
+        "end_time": 200.0
+      }
+    ]
+  }

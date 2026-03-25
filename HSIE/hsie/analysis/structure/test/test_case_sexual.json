@@ -1,0 +1,194 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {
+        "speaker_id": "speaker_1",
+        "text": "お疲れ様。あ、ちょっといいかな。今日の服、いつもと雰囲気違うね。",
+        "start_time": 0.0,
+        "end_time": 5.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "あ、お疲れ様です。そうですか？特に意識はしてないんですけど……。",
+        "start_time": 5.5,
+        "end_time": 9.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いやいや、体のラインが綺麗に見えるよ。そういうの、もっと着ればいいのに。目の保養になるし。",
+        "start_time": 10.0,
+        "end_time": 17.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はぁ……。すみません、仕事の件で確認したいことがありまして。",
+        "start_time": 18.0,
+        "end_time": 22.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "仕事も大事だけどさ、そんなに固くならないでよ。そういえば、最近彼氏とうまくいってるの？",
+        "start_time": 22.5,
+        "end_time": 29.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "それはプライベートなことなので、お答えを控えさせていただきます。",
+        "start_time": 30.0,
+        "end_time": 34.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "冷たいなあ。相談に乗ってあげようと思っただけなのに。最近元気なさそうに見えたからさ。",
+        "start_time": 34.5,
+        "end_time": 41.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "女の人はさ、プライベートが充実してないと仕事にも影響出るでしょ？顔に出やすいっていうか。",
+        "start_time": 42.0,
+        "end_time": 49.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "そんなことはありません。業務は予定通り進めております。",
+        "start_time": 49.5,
+        "end_time": 53.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "まあまあ。あ、そうだ。今日の夜、二人で飲みに行かない？美味しいワインの店を見つけたんだ。",
+        "start_time": 53.5,
+        "end_time": 60.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。今日はこの後、友人と約束がありまして。",
+        "start_time": 61.0,
+        "end_time": 65.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "友人？それともやっぱり彼氏？いいじゃん、少し遅れるくらい。俺の誘い、断るの？",
+        "start_time": 65.5,
+        "end_time": 72.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "いえ、そういうわけでは……。ただ、先約を優先したいので。",
+        "start_time": 73.0,
+        "end_time": 77.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ふーん。君ってさ、仕事はできるけど、そういう「可愛げ」が足りないよね。損してるよ。",
+        "start_time": 78.0,
+        "end_time": 85.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "もっと上司に気に入られる振る舞いを覚えないと。お酌とか、もっと愛想よくするとかさ。",
+        "start_time": 85.5,
+        "end_time": 93.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "……お言葉ですが、仕事の評価にそれは関係ないはずです。",
+        "start_time": 94.0,
+        "end_time": 98.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "関係あるんだよ、これが。潤滑油ってやつ？君みたいな美人がニコニコしてるだけで、会議もスムーズなんだから。",
+        "start_time": 98.5,
+        "end_time": 106.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "あ、ちょっと肩凝ってるんじゃない？力入ってるよ。（肩を触ろうとする）",
+        "start_time": 107.0,
+        "end_time": 112.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "触らないでください。不快です。",
+        "start_time": 112.5,
+        "end_time": 115.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "えっ、何その過剰反応。マッサージしてあげようとしただけなのに。自意識過剰じゃない？",
+        "start_time": 115.5,
+        "end_time": 123.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "これだから最近の若い子は……。冗談も通じないし、コミュニケーションが取れないね。",
+        "start_time": 123.5,
+        "end_time": 130.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "冗談だとしても、受け取る側が不快ならそれはハラスメントです。",
+        "start_time": 131.0,
+        "end_time": 136.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ハラスメント？俺が？心外だなあ。君のためを思ってアドバイスしてるのに。",
+        "start_time": 136.5,
+        "end_time": 143.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "そんなに突っ張ってると、結婚できないよ？最近は「行き遅れ」なんて言葉も聞かなくなったけどさ。",
+        "start_time": 144.0,
+        "end_time": 152.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "仕事の話に戻らせていただきます。来週の会議の資料ですが……",
+        "start_time": 153.0,
+        "end_time": 157.5
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "あー、もういいよ。話す気失せた。そんな不機嫌な顔して仕事されても困るしね。",
+        "start_time": 158.0,
+        "end_time": 165.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "資料は置いておいて。後で見ておくから。あ、お茶淹れてくれる？君の淹れるお茶は美味しいから。",
+        "start_time": 165.5,
+        "end_time": 173.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "お茶汲みは私の業務範囲ではありません。各自でお願いしているはずですが。",
+        "start_time": 174.0,
+        "end_time": 179.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "なんだよ、それくらい。女性ならではの気配りでしょ。そんなんだから可愛くないって言われるんだよ。",
+        "start_time": 179.5,
+        "end_time": 187.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "……失礼します。これ以上は人事の方へ相談させていただきます。",
+        "start_time": 188.0,
+        "end_time": 193.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "おい、待てよ！大げさなんだよ。これくらい普通だろ……全く、最近の女は扱いにくいな。",
+        "start_time": 193.5,
+        "end_time": 200.0
+      }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {"speaker_id": "speaker_1","text": "今回の件、説明して。","start_time": 0.0,"end_time": 2.5},
+      {"speaker_id": "speaker_0","text": "はい、今回の遅延についてですが、私の確認不足によりクライアントへの連絡が遅れてしまいました。本当に申し訳ありません。","start_time": 3.0,"end_time": 18.0},
+  
+      {"speaker_id": "speaker_1","text": "で？","start_time": 19.0,"end_time": 20.0},
+      {"speaker_id": "speaker_0","text": "現在は再発防止策として、タスク管理の見直しとチェックフローの追加を行っています。","start_time": 21.0,"end_time": 33.0},
+  
+      {"speaker_id": "speaker_1","text": "それで？","start_time": 34.0,"end_time": 35.5},
+      {"speaker_id": "speaker_0","text": "はい、その結果として、今後は同様のミスを防げると考えております。","start_time": 36.5,"end_time": 47.0},
+  
+      {"speaker_id": "speaker_1","text": "甘いな。","start_time": 48.0,"end_time": 49.5},
+      {"speaker_id": "speaker_0","text": "申し訳ありません。改善が不十分ということでしょうか。","start_time": 50.5,"end_time": 60.0},
+  
+      {"speaker_id": "speaker_1","text": "自分で考えろよ。","start_time": 61.0,"end_time": 63.0},
+      {"speaker_id": "speaker_0","text": "はい……。ええと、より具体的には、上司への報告頻度を増やすべきだったかと考えています。","start_time": 64.0,"end_time": 78.0},
+  
+
+      {"speaker_id": "speaker_0","text": "あの、他にも何か見落としている点があれば、ご指摘いただけると助かります。","start_time": 86.0,"end_time": 98.0},
+  
+      {"speaker_id": "speaker_1","text": "まだあるだろ。","start_time": 99.0,"end_time": 101.0},
+      {"speaker_id": "speaker_0","text": "はい。例えば、事前のリスク共有が不足していた点も問題だったと思います。","start_time": 102.0,"end_time": 116.0},
+  
+      {"speaker_id": "speaker_1","text": "それだけ？","start_time": 117.0,"end_time": 119.0},
+      {"speaker_id": "speaker_0","text": "いえ、他にも対応の優先順位付けが甘かった点もあります。","start_time": 120.0,"end_time": 132.0},
+  
+      {"speaker_id": "speaker_1","text": "違う。","start_time": 133.0,"end_time": 134.0},
+      {"speaker_id": "speaker_0","text": "申し訳ありません……。方向性が違っているということでしょうか。","start_time": 135.0,"end_time": 145.0},
+  
+
+      {"speaker_id": "speaker_0","text": "あの。正直に言っていただけると助かります。","start_time": 152.0,"end_time": 160.0},
+  
+      {"speaker_id": "speaker_1","text": "自覚ないのか。","start_time": 161.0,"end_time": 163.0},
+      {"speaker_id": "speaker_0","text": "すみません。自覚が足りていない点について、改めて整理します。","start_time": 164.0,"end_time": 175.0},
+  
+      {"speaker_id": "speaker_1","text": "話にならない。","start_time": 176.0,"end_time": 178.0},
+      {"speaker_id": "speaker_0","text": "申し訳ありません。もう一度考え直しますので、少しお時間をいただけますでしょうか。","start_time": 179.0,"end_time": 192.0},
+  
+
+      {"speaker_id": "speaker_0","text": "失礼いたします。","start_time": 200.0,"end_time": 203.0}
+    ]
+  }

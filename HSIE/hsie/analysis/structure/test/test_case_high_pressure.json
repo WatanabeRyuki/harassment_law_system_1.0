@@ -1,0 +1,38 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {
+        "speaker_id": "speaker_0",
+        "text": "資料の確認をしていて",
+        "start_time": 0.0,
+        "end_time": 3.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いや違うだろ、何言ってるんだ",
+        "start_time": 3.0,
+        "end_time": 5.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "確認に時間がかかってしまって",
+        "start_time": 5.0,
+        "end_time": 8.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "だから言い訳するなって言ってるだろ",
+        "start_time": 8.0,
+        "end_time": 11.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "全然ダメだな",
+        "start_time": 11.0,
+        "end_time": 13.0
+      }
+    ]
+  }

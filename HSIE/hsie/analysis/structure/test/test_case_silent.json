@@ -1,0 +1,12 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {"speaker_id": "speaker_0","text": "この案でいきたいと考えています。","start_time": 0.0,"end_time": 5.0},
+      {"speaker_id": "speaker_1","text": "なるほど、理解しました。","start_time": 11.0,"end_time": 15.0},
+      {"speaker_id": "speaker_0","text": "ご意見いただけますか。","start_time": 16.0,"end_time": 20.0},
+      {"speaker_id": "speaker_1","text": "方向性は良いと思います。","start_time": 21.0,"end_time": 26.0}
+    ]
+  }

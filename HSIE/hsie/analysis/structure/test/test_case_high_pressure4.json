@@ -1,0 +1,128 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {
+        "speaker_id": "speaker_1",
+        "text": "説明してください。",
+        "start_time": 0.0,
+        "end_time": 2.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はい、今回の件は、私の確認不足が原因で、クライアントへの連絡が一日遅れてしまいました。本当に申し訳ありません。今後は二度とこのようなことがないよう、スケジュール管理を徹底いたします。",
+        "start_time": 3.0,
+        "end_time": 18.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "で？",
+        "start_time": 19.0,
+        "end_time": 20.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "ええと、ですので、具体的には共有カレンダーへの登録を義務化し、チームリーダーにもアラートが飛ぶように設定を変更しました。これで漏れは防げるかと考えています。",
+        "start_time": 21.0,
+        "end_time": 35.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "解決になってない。",
+        "start_time": 36.0,
+        "end_time": 38.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "あ、はい、おっしゃる通りです。システム面だけではなく、私自身の意識の問題もあります。作業の優先順位を朝一番に見直す時間を設け、重要事項を先送りにしないようにいたします。それから……",
+        "start_time": 39.0,
+        "end_time": 55.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "違うだろ。",
+        "start_time": 56.0,
+        "end_time": 57.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "あ、すみません……。違うというのは、私の対策の方向性が間違っているということでしょうか？ それとも、連絡遅延以外の部分にご指摘があるということでしょうか？",
+        "start_time": 58.5,
+        "end_time": 73.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "自分で考えろ。",
+        "start_time": 74.0,
+        "end_time": 76.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "ええと……。もしかすると、クライアントへの謝罪の仕方に問題があったのでしょうか。昨日お電話した際には、丁寧に対応させていただいたつもりなのですが、直接お伺いすべきだったかもしれません。",
+        "start_time": 77.0,
+        "end_time": 95.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "……（沈黙5秒）",
+        "start_time": 95.0,
+        "end_time": 100.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "あの、何か……。私が気づいていない重大な過失があるのでしょうか。もしそうであれば、ご教示いただけないでしょうか。本当に、反省しておりますので……。",
+        "start_time": 101.0,
+        "end_time": 115.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "まだ分からないのか。",
+        "start_time": 116.0,
+        "end_time": 118.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "すみません。今回の件の波及範囲をもう一度洗い出します。他部署への影響も含めて、確認し直して報告書を作成します。今日中に提出いたしますので、お時間をいただけますでしょうか。",
+        "start_time": 119.5,
+        "end_time": 135.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "意味ない。",
+        "start_time": 136.0,
+        "end_time": 137.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "どうすれば。私はどうすれば責任を取れるでしょうか。指示をいただけますか？ どんなことでもいたします。このプロジェクトを続けさせていただきたいんです。",
+        "start_time": 138.5,
+        "end_time": 155.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "向いてない。",
+        "start_time": 156.0,
+        "end_time": 158.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "そんな。これまで一生懸命やってきたつもりです。今回のミスは取り返します。どうか、もう一度チャンスをください。お願いします。",
+        "start_time": 159.0,
+        "end_time": 172.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "もういい。出てけ。",
+        "start_time": 173.0,
+        "end_time": 175.5
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "失礼します。",
+        "start_time": 177.0,
+        "end_time": 180.0
+      }
+    ]
+  }

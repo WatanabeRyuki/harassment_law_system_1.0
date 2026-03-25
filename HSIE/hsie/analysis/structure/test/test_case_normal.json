@@ -1,0 +1,26 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {
+        "speaker_id": "speaker_0",
+        "text": "昨日の件ですが確認しました",
+        "start_time": 0.0,
+        "end_time": 4.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ありがとうございます、問題なさそうですね",
+        "start_time": 4.5,
+        "end_time": 7.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はい、その認識で問題ありません",
+        "start_time": 7.5,
+        "end_time": 10.0
+      }
+    ]
+  }

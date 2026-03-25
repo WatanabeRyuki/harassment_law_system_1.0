@@ -1,0 +1,18 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {"speaker_id": "speaker_0","text": "このデザイン案について説明します。","start_time": 0.0,"end_time": 3.0},
+      {"speaker_id": "speaker_1","text": "うん。","start_time": 3.5,"end_time": 4.0},
+      {"speaker_id": "speaker_0","text": "配色は青をベースにして、信頼感を意識しています。","start_time": 5.0,"end_time": 12.0},
+      {"speaker_id": "speaker_1","text": "いいね。","start_time": 12.5,"end_time": 13.0},
+      {"speaker_id": "speaker_0","text": "フォントは可読性を重視してサンセリフ体にしました。","start_time": 14.0,"end_time": 22.0},
+      {"speaker_id": "speaker_1","text": "OK。","start_time": 22.5,"end_time": 23.0},
+      {"speaker_id": "speaker_0","text": "ただ、少し単調なのでアクセントカラーを追加しています。","start_time": 24.0,"end_time": 32.0},
+      {"speaker_id": "speaker_1","text": "どこに？","start_time": 32.5,"end_time": 34.0},
+      {"speaker_id": "speaker_0","text": "ボタン部分にオレンジを使用しています。","start_time": 35.0,"end_time": 42.0},
+      {"speaker_id": "speaker_1","text": "いいと思う。","start_time": 42.5,"end_time": 44.0}
+    ]
+  }

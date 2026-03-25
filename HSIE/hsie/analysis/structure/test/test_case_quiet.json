@@ -1,0 +1,128 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {
+        "speaker_id": "speaker_1",
+        "text": "今回の対応について説明してもらえますか。",
+        "start_time": 0.0,
+        "end_time": 3.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はい。今回の件は私の確認不足が原因で、クライアントへの連絡が一日遅れてしまいました。大変申し訳ありません。",
+        "start_time": 4.0,
+        "end_time": 18.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "で、その原因は何だと思いますか。",
+        "start_time": 19.0,
+        "end_time": 22.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "タスク管理が不十分だった点と、優先順位の判断が甘かった点だと考えています。",
+        "start_time": 23.0,
+        "end_time": 35.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "なるほど。その認識は合っています。",
+        "start_time": 36.0,
+        "end_time": 39.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "では、再発防止策はどう考えていますか。",
+        "start_time": 40.0,
+        "end_time": 44.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はい、タスクを細分化して進捗を可視化し、重要なものから優先的に処理する仕組みを取り入れようと考えています。",
+        "start_time": 45.0,
+        "end_time": 60.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "それだけで十分でしょうか。",
+        "start_time": 61.0,
+        "end_time": 64.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "いえ、不十分かもしれません。上司への早めの報告や、確認フローの追加も必要だと考えています。",
+        "start_time": 65.0,
+        "end_time": 80.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いいですね。今の考え方は適切だと思います。",
+        "start_time": 81.0,
+        "end_time": 85.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "では、その対策を具体的な行動に落とすとどうなりますか。",
+        "start_time": 86.0,
+        "end_time": 90.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "まず毎朝タスクを整理する時間を設け、優先順位を明確にします。その上で、進捗を日中に一度見直すようにします。",
+        "start_time": 91.0,
+        "end_time": 110.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "それは実行可能そうですね。",
+        "start_time": 111.0,
+        "end_time": 114.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "ちなみに、今回の対応で良かった点はありますか。",
+        "start_time": 115.0,
+        "end_time": 119.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はい、問題発覚後すぐにクライアントへ連絡し、状況説明と謝罪ができた点は良かったと思います。",
+        "start_time": 120.0,
+        "end_time": 135.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "その点は評価できますね。",
+        "start_time": 136.0,
+        "end_time": 139.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "では最後に、今回の学びを一言でまとめてもらえますか。",
+        "start_time": 140.0,
+        "end_time": 144.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "はい、事前の確認と優先順位の判断が結果に大きく影響するため、日々の管理を徹底することが重要だと学びました。",
+        "start_time": 145.0,
+        "end_time": 165.0
+      },
+      {
+        "speaker_id": "speaker_1",
+        "text": "いいまとめです。では今回の件はここまでにしましょう。",
+        "start_time": 166.0,
+        "end_time": 170.0
+      },
+      {
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございました。今後は改善に努めます。",
+        "start_time": 171.0,
+        "end_time": 180.0
+      }
+    ]
+  }

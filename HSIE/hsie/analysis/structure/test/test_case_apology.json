@@ -1,0 +1,13 @@
+{
+    "speakers": [
+      {"speaker_id": "speaker_0"},
+      {"speaker_id": "speaker_1"}
+    ],
+    "utterances": [
+      {"speaker_id": "speaker_0","text": "すみません、少し遅れました。","start_time": 0.0,"end_time": 3.0},
+      {"speaker_id": "speaker_1","text": "大丈夫ですよ。","start_time": 4.0,"end_time": 6.0},
+      {"speaker_id": "speaker_0","text": "申し訳ありません、資料の準備が遅れてしまって。","start_time": 7.0,"end_time": 14.0},
+      {"speaker_id": "speaker_1","text": "気にしないでください。","start_time": 15.0,"end_time": 18.0},
+      {"speaker_id": "speaker_0","text": "ありがとうございます。今から説明いたします。","start_time": 19.0,"end_time": 25.0}
+    ]
+  }
