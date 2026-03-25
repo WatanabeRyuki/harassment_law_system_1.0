@@ -1,3 +1,8 @@
+本プロジェクトは、会話データをもとにハラスメント構造を可視化し、
+証拠保全と事後フィードバックによる行動変容支援を目的としたシステム
+**HSIE（Harassment Structure Index Evidence）**の開発である。
+このシステムは従来の他のモデルでは検知できないハラスメントを独自のロジックを用いて検知することができる世界初の検知システムである。
+
 📌 Project Status（現状）
 
 本プロジェクトは現在、以下の段階まで到達しています。
@@ -77,6 +82,9 @@ HSIEフォルダ内
 
 Evidence は immutable なスナップショットとして保存
 
+
+
+
 🟡 設計完了・実装準備中
 
 4.2 前処理層 設計書
@@ -87,17 +95,19 @@ Evidence は immutable なスナップショットとして保存
 
 EntryPoint 層で生成された Evidence を入力とする設計
 
-🔵 今後実装予定
-
 前処理層（話者分離・再ラベリング・構造正規化）
 
-分析層（A/S/L 分析）
+分析層（S分析：会話構造性分析）
 
-Acoustic / Semantic / Linguistic 各分析モデル
+
+🔵 今後実装予定
+
+分析層（A/L 分析）
+
+A /L 分析モデル
 
 ハラスメント強度指標（HSI / HSIE）算出
 
-Evidence の多段バージョニング（Raw → Preprocessed → Analyzed）
 
 🧠 Architectural Philosophy
 
