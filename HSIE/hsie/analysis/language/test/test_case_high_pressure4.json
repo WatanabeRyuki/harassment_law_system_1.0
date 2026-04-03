@@ -1,0 +1,134 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_004",
+        "description": "責任転嫁（自身のミスの押し付け、事実の歪曲、評価を盾にした脅迫）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "target"},
+          {"speaker_id": "speaker_1", "role": "aggressor"}
+        ],
+        "conversation_duration": 200.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_501",
+            "speaker_id": "speaker_1",
+            "text": "おい、A社のコンペ落ちた件、クライアントからクレーム入ってるぞ。お前の提出した見積もりが甘かったせいだ",
+            "start_time": 0.0,
+            "end_time": 8.5
+          },
+          {
+            "utterance_id": "utt_502",
+            "speaker_id": "speaker_0",
+            "text": "えっ。見積もりについては、先週の段階で課長にご確認いただき、承認をもらったはずですが",
+            "start_time": 10.0,
+            "end_time": 15.5
+          },
+          {
+            "utterance_id": "utt_503",
+            "speaker_id": "speaker_1",
+            "text": "はあ？俺がいつ承認したって？あの時はざっと見ただけで、最終チェックはお前が責任持ってやるって話だっただろうが。俺のせいにする気か？",
+            "start_time": 17.0,
+            "end_time": 28.0
+          },
+          {
+            "utterance_id": "utt_504",
+            "speaker_id": "speaker_0",
+            "text": "いえ、チャットでもこれで問題ないから進めてくれとご返答いただいておりまして",
+            "start_time": 30.0,
+            "end_time": 36.5
+          },
+          {
+            "utterance_id": "utt_505",
+            "speaker_id": "speaker_1",
+            "text": "あのな、文面通りにしか受け取れないのかお前は。あの状況なら本当にこれで大丈夫ですかって念押しするのが担当者の義務だろ。それを怠ったお前の完全なミスだ",
+            "start_time": 38.0,
+            "end_time": 55.0
+          },
+          {
+            "utterance_id": "utt_506",
+            "speaker_id": "speaker_0",
+            "text": "ですが、あの時点でもう締め切りギリギリで、課長の指示通りに急いで出したので",
+            "start_time": 57.0,
+            "end_time": 62.0
+          },
+          {
+            "utterance_id": "utt_507",
+            "speaker_id": "speaker_1",
+            "text": "言い訳ばっかりだな。指示通りにしか動けないならAI以下だぞ。そもそもお前が普段からチンタラ仕事してるからスケジュールが押したんだろうが。原因はお前の遅延行為にあるんだよ",
+            "start_time": 64.0,
+            "end_time": 82.0
+          },
+          {
+            "utterance_id": "utt_508",
+            "speaker_id": "speaker_0",
+            "text": "申し訳ありません。ですが、すべての責任が私にあるというのは",
+            "start_time": 84.0,
+            "end_time": 88.0
+          },
+          {
+            "utterance_id": "utt_509",
+            "speaker_id": "speaker_1",
+            "text": "じゃあ誰の責任だって言うんだよ。俺か？俺が悪いって言いたいのか？いいか、俺はいくつもプロジェクト抱えてて忙しいんだよ。お前みたいに暇じゃないんだ。自分のミスを上司になすりつける気か",
+            "start_time": 90.0,
+            "end_time": 108.0
+          },
+          {
+            "utterance_id": "utt_510",
+            "speaker_id": "speaker_0",
+            "text": "なすりつけるだなんて、そんなつもりはありません。ただ事実として",
+            "start_time": 110.0,
+            "end_time": 114.5
+          },
+          {
+            "utterance_id": "utt_511",
+            "speaker_id": "speaker_1",
+            "text": "事実として、お前が作った資料で落ちた。それが全てだろ。今日の午後の部長への報告会、わかってるな？お前の確認不足でこの事態を招きましたって、ちゃんとお前自身の口から報告しろよ",
+            "start_time": 116.0,
+            "end_time": 135.0
+          },
+          {
+            "utterance_id": "utt_512",
+            "speaker_id": "speaker_0",
+            "text": "私が単独でミスをしたという形で報告するということですか？それは少し",
+            "start_time": 137.0,
+            "end_time": 142.5
+          },
+          {
+            "utterance_id": "utt_513",
+            "speaker_id": "speaker_1",
+            "text": "当たり前だろ。俺を巻き込む気か？もしここで俺の管理責任だなんて言い出したら、お前の今期の評価、どうなるかわかってるよな？俺の査定次第でお前のボーナスなんかどうにでもなるんだぞ",
+            "start_time": 144.0,
+            "end_time": 165.0
+          },
+          {
+            "utterance_id": "utt_514",
+            "speaker_id": "speaker_0",
+            "text": "わかりました。私の確認不足ということにして報告します",
+            "start_time": 167.0,
+            "end_time": 172.0
+          },
+          {
+            "utterance_id": "utt_515",
+            "speaker_id": "speaker_1",
+            "text": "ことにしてじゃねえよ。お前の責任なんだよ。まあ、今回泥を被ってくれるなら、評価の時は少しは温情をかけてやらんこともない。お前のためにも、ここで責任感を見せといたほうがいいんだよ",
+            "start_time": 174.0,
+            "end_time": 192.0
+          },
+          {
+            "utterance_id": "utt_516",
+            "speaker_id": "speaker_0",
+            "text": "はい。承知いたしました",
+            "start_time": 194.0,
+            "end_time": 196.5
+          },
+          {
+            "utterance_id": "utt_517",
+            "speaker_id": "speaker_1",
+            "text": "午後、頼んだからな",
+            "start_time": 197.5,
+            "end_time": 200.0
+          }
+        ]
+      }
+    ]
+  }

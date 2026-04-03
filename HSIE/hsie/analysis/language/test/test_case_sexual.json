@@ -1,0 +1,120 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_015",
+        "description": "セクシュアルハラスメント（執拗な食事への誘い、身体的特徴への言及、立場を利用した交際の示唆）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "target"},
+          {"speaker_id": "speaker_1", "role": "aggressor"}
+        ],
+        "conversation_duration": 200.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_1501",
+            "speaker_id": "speaker_1",
+            "text": "お疲れ様。今日のプレゼン、すごく良かったよ。スーツも新調したのかな？ラインが綺麗に出てて、見違えちゃったよ",
+            "start_time": 0.0,
+            "end_time": 10.5
+          },
+          {
+            "utterance_id": "utt_1502",
+            "speaker_id": "speaker_0",
+            "text": "ありがとうございます。特に新調はしていませんが、無事に終わって良かったです",
+            "start_time": 12.0,
+            "end_time": 18.0
+          },
+          {
+            "utterance_id": "utt_1503",
+            "speaker_id": "speaker_1",
+            "text": "謙遜しなくていいよ。君みたいな華がある子がチームにいると、僕も仕事のモチベーションが上がるんだよね。今夜、お祝いに二人で食事でもどう？",
+            "start_time": 20.0,
+            "end_time": 35.0
+          },
+          {
+            "utterance_id": "utt_1504",
+            "speaker_id": "speaker_0",
+            "text": "お誘いは嬉しいのですが、今日はこの後、別の予定が入っておりまして。失礼させていただきます",
+            "start_time": 37.5,
+            "end_time": 45.0
+          },
+          {
+            "utterance_id": "utt_1505",
+            "speaker_id": "speaker_1",
+            "text": "予定って、彼氏？それとも婚活？君みたいな美人が夜に一人で帰るなんて危ないよ。僕が送っていってあげてもいいんだけどな",
+            "start_time": 47.0,
+            "end_time": 60.5
+          },
+          {
+            "utterance_id": "utt_1506",
+            "speaker_id": "speaker_0",
+            "text": "いえ、友人との約束ですので大丈夫です。お気遣いなく",
+            "start_time": 62.5,
+            "end_time": 67.0
+          },
+          {
+            "utterance_id": "utt_1507",
+            "speaker_id": "speaker_1",
+            "text": "冷たいなあ。上司の厚意をそんな風に断るなんて、損してるよ。僕と仲良くしておけば、次の昇進の推薦だって融通してあげられるのにさ。わかるでしょ？",
+            "start_time": 69.0,
+            "end_time": 85.0
+          },
+          {
+            "utterance_id": "utt_1508",
+            "speaker_id": "speaker_0",
+            "text": "仕事の評価とプライベートは別だと考えています。そのようなお話は困ります",
+            "start_time": 87.5,
+            "end_time": 94.0
+          },
+          {
+            "utterance_id": "utt_1509",
+            "speaker_id": "speaker_1",
+            "text": "固いこと言わないでよ。ちょっとお酒を飲みながら、ゆっくり君の本音を聞きたいだけなんだ。もっとリラックスしてよ。君のそういう隙がないところ、嫌いじゃないけどね",
+            "start_time": 96.0,
+            "end_time": 112.5
+          },
+          {
+            "utterance_id": "utt_1510",
+            "speaker_id": "speaker_1",
+            "text": "（距離を詰める動作の気配）ほら、そんなに怯えないで。ちょっと肩を貸してよ。最近疲れてるんじゃない？マッサージしてあげようか",
+            "start_time": 115.0,
+            "end_time": 130.0
+          },
+          {
+            "utterance_id": "utt_1511",
+            "speaker_id": "speaker_0",
+            "text": "触らないでください！本当に不快です。これ以上続けるなら人事に相談します",
+            "start_time": 132.0,
+            "end_time": 139.5
+          },
+          {
+            "utterance_id": "utt_1512",
+            "speaker_id": "speaker_1",
+            "text": "人事？大げさだなあ。ただのスキンシップじゃないか。君、自意識過剰だよ。僕がその気になれば、君なんていつでもクビにできるんだぞ。分かってて言ってるの？",
+            "start_time": 141.0,
+            "end_time": 158.0
+          },
+          {
+            "utterance_id": "utt_1513",
+            "speaker_id": "speaker_0",
+            "text": "……最低です。失礼します",
+            "start_time": 161.0,
+            "end_time": 164.5
+          },
+          {
+            "utterance_id": "utt_1514",
+            "speaker_id": "speaker_1",
+            "text": "おい、待てよ！話は終わってないだろ。逃げるのか？これからの仕事、どうなるか覚えておけよ。誰もお前の味方なんてしないからな。全く、可愛くない女だ",
+            "start_time": 166.0,
+            "end_time": 185.0
+          },
+          {
+            "utterance_id": "utt_1515",
+            "speaker_id": "speaker_1",
+            "text": "ふん。いい気になりやがって。どうせどこかで泣きを見ることになるんだ。せいぜい今のうちに威勢よくしてろよ",
+            "start_time": 190.0,
+            "end_time": 200.0
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,107 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_014",
+        "description": "業務上のディスカッション（新サービス施策のブレインストーミング、論理的な意見交換、合意形成）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "facilitator"},
+          {"speaker_id": "speaker_1", "role": "participant_a"},
+          {"speaker_id": "speaker_2", "role": "participant_b"}
+        ],
+        "conversation_duration": 200.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_1401",
+            "speaker_id": "speaker_0",
+            "text": "それでは、来期リリースの新サービスについて、ターゲット層の絞り込みを議論しましょう。現状、20代に振り切るか、30代まで広げるかで意見が分かれていますね",
+            "start_time": 0.0,
+            "end_time": 15.0
+          },
+          {
+            "utterance_id": "utt_1402",
+            "speaker_id": "speaker_1",
+            "text": "私は20代に特化すべきだと思います。SNSでの拡散力を考えると、UIや機能を若年層に完全に最適化したほうが、初動のインパクトは強いはずです",
+            "start_time": 18.0,
+            "end_time": 32.0
+          },
+          {
+            "utterance_id": "utt_1403",
+            "speaker_id": "speaker_2",
+            "text": "確かに拡散力は魅力ですが、購買力の観点から少し懸念があります。アンケート調査では、30代のほうが継続利用の意向が15%ほど高かったですよね",
+            "start_time": 35.0,
+            "end_time": 50.0
+          },
+          {
+            "utterance_id": "utt_1404",
+            "speaker_id": "speaker_0",
+            "text": "お二人とも重要な視点です。拡散力と継続性、どちらを優先すべきか。現状のフェーズではどちらが事業目標に合致するでしょうか",
+            "start_time": 52.0,
+            "end_time": 65.0
+          },
+          {
+            "utterance_id": "utt_1405",
+            "speaker_id": "speaker_1",
+            "text": "リリース直後の半年は認知度アップが最優先ですよね。であれば、まずは20代に刺さるエッジの効いた施策を打って、市場での存在感を出すべきではないでしょうか",
+            "start_time": 68.0,
+            "end_time": 85.0
+          },
+          {
+            "utterance_id": "utt_1406",
+            "speaker_id": "speaker_2",
+            "text": "なるほど。それなら、基本機能は20代向けにシンプルにして、30代向けにはオプションプランで付加価値を提供するという、二段階の設計はどうでしょう？",
+            "start_time": 88.0,
+            "end_time": 105.0
+          },
+          {
+            "utterance_id": "utt_1407",
+            "speaker_id": "speaker_0",
+            "text": "良い妥協案ですね。開発工数の面ではどうですか？工数が増えすぎるとリリース日に影響しますが",
+            "start_time": 108.0,
+            "end_time": 118.0
+          },
+          {
+            "utterance_id": "utt_1408",
+            "speaker_id": "speaker_1",
+            "text": "デザインのトーンを変えるだけなら、そこまで大きな負荷にはならないと思います。ロジック部分は共通化できますし",
+            "start_time": 120.0,
+            "end_time": 130.0
+          },
+          {
+            "utterance_id": "utt_1409",
+            "speaker_id": "speaker_2",
+            "text": "そうですね。それならプロトタイプを両方のパターンで作ってみて、ABテストをかけるのが一番確実かもしれませんね",
+            "start_time": 133.0,
+            "end_time": 145.0
+          },
+          {
+            "utterance_id": "utt_1410",
+            "speaker_id": "speaker_0",
+            "text": "ABテスト案、賛成です。では、テストに向けた具体的な検証指標（KPI）を来週までに固めましょう。スピーカー1さんはSNS流入数、スピーカー2さんはLTV予測を担当してもらえますか？",
+            "start_time": 148.0,
+            "end_time": 168.0
+          },
+          {
+            "utterance_id": "utt_1411",
+            "speaker_id": "speaker_1",
+            "text": "了解しました。過去のキャンペーンデータと比較して、予測値を算出しておきます",
+            "start_time": 170.0,
+            "end_time": 178.0
+          },
+          {
+            "utterance_id": "utt_1412",
+            "speaker_id": "speaker_2",
+            "text": "私も競合他社の動向をリサーチして、収益モデルの精度を高めておきます。この方向性で進めば納得感もありますね",
+            "start_time": 180.0,
+            "end_time": 192.0
+          },
+          {
+            "utterance_id": "utt_1413",
+            "speaker_id": "speaker_0",
+            "text": "ありがとうございます。非常に有意義なディスカッションでした。今日の議事録は後ほど共有します。お疲れ様でした",
+            "start_time": 194.0,
+            "end_time": 200.0
+          }
+        ]
+      }
+    ]
+  }

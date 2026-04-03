@@ -1,0 +1,127 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_008",
+        "description": "能力否定（職業適性の否定、給与に見合わない貢献の強調、後輩・新卒との比較による屈辱）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "target"},
+          {"speaker_id": "speaker_1", "role": "aggressor"}
+        ],
+        "conversation_duration": 200.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_801",
+            "speaker_id": "speaker_1",
+            "text": "この進捗状況、本気で言ってる？入社して何年経ったっけ。新卒の子でもこれくらいの分析、半日で終わらせるよ",
+            "start_time": 0.0,
+            "end_time": 10.5
+          },
+          {
+            "utterance_id": "utt_802",
+            "speaker_id": "speaker_0",
+            "text": "申し訳ありません。正確を期すために、過去の類似事例も精査しておりました",
+            "start_time": 12.0,
+            "end_time": 18.0
+          },
+          {
+            "utterance_id": "utt_803",
+            "speaker_id": "speaker_1",
+            "text": "精査ねえ。お前の言う精査って、ただ時間かけてるだけで中身スカスカなんだよ。正直、お前にこの仕事は難しすぎたんじゃない？適性ゼロだよ",
+            "start_time": 20.0,
+            "end_time": 34.0
+          },
+          {
+            "utterance_id": "utt_804",
+            "speaker_id": "speaker_0",
+            "text": "自分なりにスキルアップに努めているのですが、まだ至らない点がありすみません",
+            "start_time": 36.0,
+            "end_time": 42.5
+          },
+          {
+            "utterance_id": "utt_805",
+            "speaker_id": "speaker_1",
+            "text": "スキルアップ？お前みたいなのがいくら努力したって、元のスペックがこれじゃ意味ないんだよ。時間の無駄。会社の経費使って遊んでるようなもんだよ",
+            "start_time": 44.5,
+            "end_time": 58.0
+          },
+          {
+            "utterance_id": "utt_806",
+            "speaker_id": "speaker_1",
+            "text": "お前に払ってる給料、もったいないと思わない？他の有能な若手に回したほうが、どれだけ会社のためになるか。自覚ある？自分が給料泥棒だってこと",
+            "start_time": 60.0,
+            "end_time": 75.0
+          },
+          {
+            "utterance_id": "utt_807",
+            "speaker_id": "speaker_0",
+            "text": "結果を出せるよう、もう一度見直させてください",
+            "start_time": 77.0,
+            "end_time": 81.0
+          },
+          {
+            "utterance_id": "utt_808",
+            "speaker_id": "speaker_1",
+            "text": "見直す？もういいよ。お前が触るたびに状況が悪化するんだよ。お前の存在自体がプロジェクトのリスクなんだ。頼むから何もせず座っててくれないかな。それが一番の貢献だよ",
+            "start_time": 83.0,
+            "end_time": 100.0
+          },
+          {
+            "utterance_id": "utt_809",
+            "speaker_id": "speaker_1",
+            "text": "これ、他の部署の奴らにも見せてやろうか？『うちのベテランが作った最高傑作です』って。みんな笑うだろうな、この程度のクオリティでプロ気取ってるんだから",
+            "start_time": 105.0,
+            "end_time": 120.5
+          },
+          {
+            "utterance_id": "utt_810",
+            "speaker_id": "speaker_0",
+            "text": "そこまで言わなくてもいいじゃないですか。私も必死にやってるんです",
+            "start_time": 122.0,
+            "end_time": 127.0
+          },
+          {
+            "utterance_id": "utt_811",
+            "speaker_id": "speaker_1",
+            "text": "必死？必死にやってこれ？終わってるね。お前の限界ってそんなに低いの？これから先、お前に任せられる仕事なんて一つも無いよ。コピー取りでもしてなよ、それならミスしないだろ",
+            "start_time": 128.5,
+            "end_time": 145.0
+          },
+          {
+            "utterance_id": "utt_812",
+            "speaker_id": "speaker_0",
+            "text": "……わかりました。やり直します",
+            "start_time": 148.0,
+            "end_time": 152.0
+          },
+          {
+            "utterance_id": "utt_813",
+            "speaker_id": "speaker_1",
+            "text": "いや、もういいって。お前には理解できない言葉で説明した僕が悪かったよ。サルでもわかるように説明しなきゃいけなかったね。本当、時間の無駄だったわ",
+            "start_time": 154.0,
+            "end_time": 172.0
+          },
+          {
+            "utterance_id": "utt_814",
+            "speaker_id": "speaker_1",
+            "text": "今後の査定、期待しないでね。成果ゼロ、むしろマイナスなんだから。お前がここにいる理由、僕には全く見当たらないんだよね。恥ずかしくないの？",
+            "start_time": 175.0,
+            "end_time": 192.0
+          },
+          {
+            "utterance_id": "utt_815",
+            "speaker_id": "speaker_0",
+            "text": "失礼します",
+            "start_time": 194.0,
+            "end_time": 196.5
+          },
+          {
+            "utterance_id": "utt_816",
+            "speaker_id": "speaker_1",
+            "text": "逃げるスピードだけは一流だね。仕事もそのくらい速ければよかったのに",
+            "start_time": 197.0,
+            "end_time": 200.0
+          }
+        ]
+      }
+    ]
+  }

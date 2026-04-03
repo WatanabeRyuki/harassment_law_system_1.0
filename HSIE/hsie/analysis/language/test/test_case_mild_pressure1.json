@@ -1,0 +1,113 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_010",
+        "description": "グレーゾーン（無自覚なプライベートへの干渉、過度な親切心の押し付け、価値観の押し付け）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "target"},
+          {"speaker_id": "speaker_1", "role": "aggressor"}
+        ],
+        "conversation_duration": 200.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_1001",
+            "speaker_id": "speaker_1",
+            "text": "お疲れ様！今日も遅くまで頑張ってるね。あ、そういえば先週の合コンの結果どうだった？いい人いたの？",
+            "start_time": 0.0,
+            "end_time": 10.5
+          },
+          {
+            "utterance_id": "utt_1002",
+            "speaker_id": "speaker_0",
+            "text": "あ、お疲れ様です。いえ、特に収穫はなかったです。仕事に戻ってもいいでしょうか",
+            "start_time": 12.0,
+            "end_time": 18.5
+          },
+          {
+            "utterance_id": "utt_1003",
+            "speaker_id": "speaker_1",
+            "text": "えー、またそんなこと言って。君、真面目すぎるんだよ。仕事も大事だけどさ、女性としての幸せも考えなきゃ。若いうちに動かないと後悔するよ、僕は君のためを思って言ってるんだから",
+            "start_time": 20.0,
+            "end_time": 38.0
+          },
+          {
+            "utterance_id": "utt_1004",
+            "speaker_id": "speaker_0",
+            "text": "お気遣いありがとうございます。ですが、今はプロジェクトに集中したいので",
+            "start_time": 40.0,
+            "end_time": 46.5
+          },
+          {
+            "utterance_id": "utt_1005",
+            "speaker_id": "speaker_1",
+            "text": "そういう頑固なところが損してるんだよなあ。僕が若い頃はね、もっと柔軟に先輩のアドバイスを聞いたもんだよ。あ、今度の日曜、僕の友人が主催するBBQあるんだけど、絶対来たほうがいいよ。無理にでも連れて行ってあげたいくらいだ",
+            "start_time": 48.0,
+            "end_time": 70.0
+          },
+          {
+            "utterance_id": "utt_1006",
+            "speaker_id": "speaker_0",
+            "text": "日曜日は少し予定が入っておりまして、難しいと思います",
+            "start_time": 72.0,
+            "end_time": 77.0
+          },
+          {
+            "utterance_id": "utt_1007",
+            "speaker_id": "speaker_1",
+            "text": "予定って、どうせ一人で家でダラダラしてるだけでしょ？それじゃダメだよ。もっと社交性を磨かないと、この仕事も上手くいかないよ。営業成績が伸びないのも、そういう内向的な性格のせいじゃないかな",
+            "start_time": 79.0,
+            "end_time": 98.0
+          },
+          {
+            "utterance_id": "utt_1008",
+            "speaker_id": "speaker_0",
+            "text": "……業務の進め方については、自分なりに工夫しているつもりですが",
+            "start_time": 100.0,
+            "end_time": 106.0
+          },
+          {
+            "utterance_id": "utt_1009",
+            "speaker_id": "speaker_1",
+            "text": "工夫ねえ。でも結果が出てないんだから、僕みたいな経験者の意見を素直に聞くのが近道だよ。君を可愛がってるからこそ、こうして時間を割いて指導してあげてるんだからね",
+            "start_time": 108.0,
+            "end_time": 125.0
+          },
+          {
+            "utterance_id": "utt_1010",
+            "speaker_id": "speaker_1",
+            "text": "あと、最近ちょっと服のセンスも地味じゃない？もう少し明るい色を着れば、印象も変わるし、運気も上がるよ。今度一緒に買い物行って選んであげようか？遠慮しなくていいよ、部下の面倒を見るのは僕の趣味みたいなもんだし",
+            "start_time": 130.0,
+            "end_time": 152.0
+          },
+          {
+            "utterance_id": "utt_1011",
+            "speaker_id": "speaker_0",
+            "text": "お気持ちだけで結構です。プライベートな時間を削ってまでお願いするのは申し訳ないので",
+            "start_time": 154.0,
+            "end_time": 162.0
+          },
+          {
+            "utterance_id": "utt_1012",
+            "speaker_id": "speaker_1",
+            "text": "冷たいなあ。君を一流の社会人に育ててあげようとしてるのにさ。まあいいや、今日の飲み会は来るよね？歓迎会なんだから、主役の君がいないと始まらないよ。お酒飲めないなんて言わずに、一杯くらい付き合いなよ",
+            "start_time": 164.0,
+            "end_time": 185.0
+          },
+          {
+            "utterance_id": "utt_1013",
+            "speaker_id": "speaker_0",
+            "text": "体調が優れないので、今日は失礼させていただきます",
+            "start_time": 187.0,
+            "end_time": 192.0
+          },
+          {
+            "utterance_id": "utt_1014",
+            "speaker_id": "speaker_1",
+            "text": "体調？気合が足りないんだよ。まあいいけどさ、せっかくの好意を無駄にするのは感心しないなあ。また明日、じっくり『教育』してあげるから覚悟しといてね。じゃあ、お疲れ！",
+            "start_time": 193.0,
+            "end_time": 200.0
+          }
+        ]
+      }
+    ]
+  }

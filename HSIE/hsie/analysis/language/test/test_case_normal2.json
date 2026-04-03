@@ -1,0 +1,106 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_012",
+        "description": "適切な業務調整（過重労働の防止、優先順位の整理、心理的安全性の確保）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "target"},
+          {"speaker_id": "speaker_1", "role": "manager"}
+        ],
+        "conversation_duration": 200.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_1201",
+            "speaker_id": "speaker_1",
+            "text": "ちょっといいかな。最近、残業時間が少し増えているみたいだけど、抱えているタスクの状況を一度整理させてほしいんだ。無理はしてないかな？",
+            "start_time": 0.0,
+            "end_time": 12.0
+          },
+          {
+            "utterance_id": "utt_1202",
+            "speaker_id": "speaker_0",
+            "text": "お気遣いありがとうございます。実は、既存の定常業務に加えて、先週から始まった新規プロジェクトの資料作成が重なってしまいまして",
+            "start_time": 14.0,
+            "end_time": 26.5
+          },
+          {
+            "utterance_id": "utt_1203",
+            "speaker_id": "speaker_1",
+            "text": "なるほど。新規プロジェクトの方は確かに今が山場だよね。でも、一人で全部抱え込んでパンクしてしまったら元も子もないよ。具体的にどの作業が一番負担になっている？",
+            "start_time": 28.0,
+            "end_time": 44.0
+          },
+          {
+            "utterance_id": "utt_1204",
+            "speaker_id": "speaker_0",
+            "text": "顧客分析のデータ集計に想定より時間がかかっていて、定常の週次レポートが後回しになっている状況です",
+            "start_time": 46.0,
+            "end_time": 55.0
+          },
+          {
+            "utterance_id": "utt_1205",
+            "speaker_id": "speaker_1",
+            "text": "分かった。それなら、週次レポートのほうは今週だけ佐藤さんに代わってもらうように調整しよう。彼女も今は少し余裕があるみたいだからね。それなら分析に集中できそうかな？",
+            "start_time": 57.0,
+            "end_time": 75.0
+          },
+          {
+            "utterance_id": "utt_1206",
+            "speaker_id": "speaker_0",
+            "text": "本当ですか。佐藤さんに申し訳ないですが、そうしていただけると非常に助かります。分析の精度もしっかり上げられそうです",
+            "start_time": 77.0,
+            "end_time": 88.5
+          },
+          {
+            "utterance_id": "utt_1207",
+            "speaker_id": "speaker_1",
+            "text": "チームなんだから助け合うのは当然だよ。僕の仕事は、君たちが最高のパフォーマンスを出せる環境を整えることだからね。あと、分析の手法で何か詰まっているところはない？",
+            "start_time": 90.0,
+            "end_time": 108.0
+          },
+          {
+            "utterance_id": "utt_1208",
+            "speaker_id": "speaker_0",
+            "text": "実は、新しいツールの使い方がまだ完全に把握できていなくて。マニュアルを読みながら進めているので、少し非効率かもしれません",
+            "start_time": 110.0,
+            "end_time": 122.0
+          },
+          {
+            "utterance_id": "utt_1209",
+            "speaker_id": "speaker_1",
+            "text": "それなら、今日の15時から30分くらい時間取れるかな？僕もそのツールは以前使っていたから、効率的なショートカットやコツを教えられると思うよ",
+            "start_time": 124.0,
+            "end_time": 140.0
+          },
+          {
+            "utterance_id": "utt_1210",
+            "speaker_id": "speaker_0",
+            "text": "ありがとうございます。ぜひお願いします。お忙しい中お時間をいただいてすみません",
+            "start_time": 142.0,
+            "end_time": 149.0
+          },
+          {
+            "utterance_id": "utt_1211",
+            "speaker_id": "speaker_1",
+            "text": "全然構わないよ。むしろ早めに相談してくれて助かったよ。今後は、キャパシティの8割を超えそうだなと感じた時点で早めにアラートを出すようにしてほしい。それがチーム全体の安定につながるからね",
+            "start_time": 151.0,
+            "end_time": 172.0
+          },
+          {
+            "utterance_id": "utt_1212",
+            "speaker_id": "speaker_0",
+            "text": "はい、承知いたしました。これからは一人で抱え込みすぎず、早めにご相談するようにいたします",
+            "start_time": 174.0,
+            "end_time": 183.0
+          },
+          {
+            "utterance_id": "utt_1213",
+            "speaker_id": "speaker_1",
+            "text": "うん、その意気だよ。君の仕事への責任感は高く評価しているけど、健康が第一だからね。今日はなるべく早めに切り上げて、ゆっくり休んで。じゃあ、15時に会議室で待ってるよ",
+            "start_time": 185.0,
+            "end_time": 200.0
+          }
+        ]
+      }
+    ]
+  }

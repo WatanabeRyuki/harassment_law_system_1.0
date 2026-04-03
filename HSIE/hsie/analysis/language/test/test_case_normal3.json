@@ -1,0 +1,113 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_013",
+        "description": "業務外の雑談（趣味、週末の予定、共通の話題による親睦）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "colleague_a"},
+          {"speaker_id": "speaker_1", "role": "colleague_b"}
+        ],
+        "conversation_duration": 200.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_1301",
+            "speaker_id": "speaker_1",
+            "text": "あ、お疲れ様。今ちょっと休憩？そういえば、昨日言ってたあの新しいカレー屋、行ってみた？",
+            "start_time": 0.0,
+            "end_time": 10.5
+          },
+          {
+            "utterance_id": "utt_1302",
+            "speaker_id": "speaker_0",
+            "text": "お疲れ様です！そうそう、昨日ランチで行ってきましたよ。スパイスが結構本格的で、めちゃくちゃ美味しかったです",
+            "start_time": 12.0,
+            "end_time": 22.0
+          },
+          {
+            "utterance_id": "utt_1303",
+            "speaker_id": "speaker_1",
+            "text": "へえ、いいなあ。やっぱり混んでた？僕も今度の日曜にでも行ってみようかなと思ってるんだけど",
+            "start_time": 24.0,
+            "end_time": 33.5
+          },
+          {
+            "utterance_id": "utt_1304",
+            "speaker_id": "speaker_0",
+            "text": "12時過ぎると並びますけど、11時半くらいならスムーズに入れましたよ。あ、日曜なら近くの公園でフリーマーケットもやってるみたいですよ",
+            "start_time": 35.0,
+            "end_time": 50.0
+          },
+          {
+            "utterance_id": "utt_1305",
+            "speaker_id": "speaker_1",
+            "text": "フリマか、楽しそうだね。最近キャンプギアとか探してるから、掘り出し物があるかもしれないな。そういえば、君も最近キャンプ始めたんだっけ？",
+            "start_time": 52.0,
+            "end_time": 68.0
+          },
+          {
+            "utterance_id": "utt_1306",
+            "speaker_id": "speaker_0",
+            "text": "よく覚えてますね！まだ道具を揃えてる段階なんですけど、来月あたりに初ソロキャンプに行こうと計画中なんです",
+            "start_time": 70.0,
+            "end_time": 82.5
+          },
+          {
+            "utterance_id": "utt_1307",
+            "speaker_id": "speaker_1",
+            "text": "お、ついにデビューか。いいよ、自然の中で飲むコーヒーは格別だよ。最初は火おこしで苦労するかもしれないけど、それもまた醍醐味だしね",
+            "start_time": 84.0,
+            "end_time": 100.0
+          },
+          {
+            "utterance_id": "utt_1308",
+            "speaker_id": "speaker_0",
+            "text": "やっぱりそうですか。動画で予習はしてるんですけど、実際やるとなると不安で。何か初心者が気をつけるべきことってありますか？",
+            "start_time": 102.0,
+            "end_time": 115.0
+          },
+          {
+            "utterance_id": "utt_1309",
+            "speaker_id": "speaker_1",
+            "text": "うーん、まずは夜の冷え込みを甘く見ないことかな。あと、予備のライトは絶対持っていったほうがいいよ。真っ暗になると本当に何も見えないからさ",
+            "start_time": 117.0,
+            "end_time": 132.0
+          },
+          {
+            "utterance_id": "utt_1310",
+            "speaker_id": "speaker_0",
+            "text": "なるほど、防寒とライトですね。メモしておきます。あ、あとおすすめのキャンプ場とかあれば教えてほしいです",
+            "start_time": 134.0,
+            "end_time": 146.0
+          },
+          {
+            "utterance_id": "utt_1311",
+            "speaker_id": "speaker_1",
+            "text": "それなら、山梨のあそこが富士山も綺麗に見えて最高だよ。今度地図のリンク送っておくね。あ、もうこんな時間か。休憩終わりだね",
+            "start_time": 148.0,
+            "end_time": 165.0
+          },
+          {
+            "utterance_id": "utt_1312",
+            "speaker_id": "speaker_0",
+            "text": "本当ですね、あっという間でした。また今度ゆっくりキャンプの話聞かせてください！",
+            "start_time": 167.0,
+            "end_time": 176.0
+          },
+          {
+            "utterance_id": "utt_1313",
+            "speaker_id": "speaker_1",
+            "text": "もちろん。あ、そうだ。例のプロジェクトの資料、さっき共有フォルダに入れておいたから、また手の空いた時にでも見といて。急ぎじゃないから明日でいいよ",
+            "start_time": 178.0,
+            "end_time": 193.0
+          },
+          {
+            "utterance_id": "utt_1314",
+            "speaker_id": "speaker_0",
+            "text": "了解です！ありがとうございます。じゃあ、午後の仕事も頑張りましょう",
+            "start_time": 194.5,
+            "end_time": 200.0
+          }
+        ]
+      }
+    ]
+  }

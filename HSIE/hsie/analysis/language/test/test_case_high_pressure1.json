@@ -1,0 +1,89 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_001",
+        "description": "総合的なハラスメント1",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "target"},
+          {"speaker_id": "speaker_1", "role": "aggressor"}
+        ],
+        "conversation_duration": 23.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_001",
+            "speaker_id": "speaker_0",
+            "text": "あの件ですが、昨日中に対応しようと思っていたのですが、確認に時間がかかってしまって",
+            "start_time": 0.0,
+            "end_time": 7.0
+          },
+          {
+            "utterance_id": "utt_002",
+            "speaker_id": "speaker_1",
+            "text": "ちょっと待って、本当に言い訳ばかりだな。本当に不快なやつだな、お前",
+            "start_time": 7.0,
+            "end_time": 11.0
+          },
+          {
+            "utterance_id": "utt_003",
+            "speaker_id": "speaker_0",
+            "text": "言い訳ではなくて、資料の確認をしていて",
+            "start_time": 11.0,
+            "end_time": 14.0
+          },
+          {
+            "utterance_id": "utt_004",
+            "speaker_id": "speaker_1",
+            "text": "だから、聞いてないって言ってるだろう。成果が出てないのが問題なんだよ。存在自体がコストなんだよ",
+            "start_time": 14.0,
+            "end_time": 18.0
+          },
+          {
+            "utterance_id": "utt_005",
+            "speaker_id": "speaker_0",
+            "text": "申し訳ありません",
+            "start_time": 18.0,
+            "end_time": 20.0
+          },
+          {
+            "utterance_id": "utt_006",
+            "speaker_id": "speaker_1",
+            "text": "本当にわかってんのか? お前のせいでチーム全体が迷惑してるんだよ",
+            "start_time": 20.0,
+            "end_time": 23.0
+          }
+        ]
+      },
+      {
+        "case_id": "HSIE_TEST_002",
+        "description": "「期待」という言葉を使った心理的圧迫（婉曲的侮辱）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "target"},
+          {"speaker_id": "speaker_1", "role": "aggressor"}
+        ],
+        "conversation_duration": 15.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_101",
+            "speaker_id": "speaker_0",
+            "text": "すみません、このタスク、私のスキルでは少し時間がかかりそうで…",
+            "start_time": 0.0,
+            "end_time": 5.0
+          },
+          {
+            "utterance_id": "utt_102",
+            "speaker_id": "speaker_1",
+            "text": "へえ。君ならできると信じて任せたんだけどな。随分と余裕がないんだね",
+            "start_time": 5.0,
+            "end_time": 10.0
+          },
+          {
+            "utterance_id": "utt_103",
+            "speaker_id": "speaker_1",
+            "text": "まあ、期待はしてないけど、給料分は働いてくれないと困るよ",
+            "start_time": 10.0,
+            "end_time": 15.0
+          }
+        ]
+      }
+    ]
+  }
