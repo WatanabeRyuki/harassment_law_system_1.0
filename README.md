@@ -74,8 +74,22 @@ Analysis層設計・実装（S完全構築完了）
          　　　|-Structure Aggression Analyzer クラス図 
             
             　|-Structure Aggression Analyzer シーケンス図 
+     
+     |-Language（フォルダ）
 
+          |-Structure Aggression Analyzer  詳細設計書  
+          
+          |-assets(フォルダ)
+         
+         　　　|-Language クラス図 
+            
+            　|-Language シーケンス図 
 
+             
+      |-Analysis Score（フォルダ）
+
+          |-Analysis Score 詳細設計書  
+     
 
 実装済みプログラム内容：
 HSIEフォルダ内
@@ -104,11 +118,7 @@ EntryPoint 層で生成された Evidence を入力とする設計
 
 🔵 今後実装予定
 
-分析層（A/L 分析）
-
-A /L 分析モデル
-
-ハラスメント強度指標（HSI / HSIE）算出
+HSI Result層の設計
 
 
 🧠 Architectural Philosophy
