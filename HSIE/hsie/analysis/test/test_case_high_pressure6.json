@@ -1,0 +1,123 @@
+{
+    "case_id": "HSIE_TEST_006",
+    "description": "拒否不能命令（到底不可能な業務の強要、プライベートの侵害、解雇をチラつかせた脅迫）",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 200.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_601",
+        "speaker_id": "speaker_1",
+        "text": "お疲れ。帰るところ悪いんだけど、このダンボール3箱分の過去データ、全部システムに入力して分析資料作っといて。月曜の朝イチの役員会議で使うから",
+        "start_time": 0.0,
+        "end_time": 12.0
+      },
+      {
+        "utterance_id": "utt_602",
+        "speaker_id": "speaker_0",
+        "text": "え、これ全部ですか？今日はもう金曜の定時ですし、週末は以前からお休みをいただいていると申請しておりますが",
+        "start_time": 14.0,
+        "end_time": 23.5
+      },
+      {
+        "utterance_id": "utt_603",
+        "speaker_id": "speaker_1",
+        "text": "休み？そんなの俺の知ったことじゃないよ。急に決まったことなんだから対応するのが当たり前だろ。社会人としてその辺の優先順位わからないの？",
+        "start_time": 25.0,
+        "end_time": 37.0
+      },
+      {
+        "utterance_id": "utt_604",
+        "speaker_id": "speaker_0",
+        "text": "ですが、一人で週末だけで終わる量ではありません。せめて水曜まで期限を延ばすか、誰か手伝っていただけないと",
+        "start_time": 39.0,
+        "end_time": 48.5
+      },
+      {
+        "utterance_id": "utt_605",
+        "speaker_id": "speaker_1",
+        "text": "甘ったれたこと言ってんなよ。俺がやれって言ってんだからやるんだよ。他の奴らはみんな忙しいんだよ。お前がやるしかないんだよ",
+        "start_time": 50.0,
+        "end_time": 62.0
+      },
+      {
+        "utterance_id": "utt_606",
+        "speaker_id": "speaker_0",
+        "text": "私も月曜締め切りの別案件を抱えておりまして、これ以上は限界です。お断りさせてください",
+        "start_time": 64.0,
+        "end_time": 72.0
+      },
+      {
+        "utterance_id": "utt_607",
+        "speaker_id": "speaker_1",
+        "text": "ああん？断るだと？俺の指示に口答えする気か？これは業務命令だぞ。お前、上司の命令を拒否するってことか？それならそれで、こっちにも人事的に考えがあるけど、いいんだな？",
+        "start_time": 74.0,
+        "end_time": 93.0
+      },
+      {
+        "utterance_id": "utt_608",
+        "speaker_id": "speaker_0",
+        "text": "いえ、命令に背くわけではなく、物理的に不可能だと申し上げているだけでして",
+        "start_time": 95.0,
+        "end_time": 102.5
+      },
+      {
+        "utterance_id": "utt_609",
+        "speaker_id": "speaker_1",
+        "text": "不可能じゃないんだよ。寝ないでやれば終わるだろ。お前が普段から無能だから、こういう時に挽回するチャンスを与えてやってるんじゃないか。感謝こそすれ、文句言われる筋合いはないぞ",
+        "start_time": 104.0,
+        "end_time": 121.0
+      },
+      {
+        "utterance_id": "utt_610",
+        "speaker_id": "speaker_0",
+        "text": "週末は実家の事情でどうしても外せない用事がありまして、本当に無理なんです。お願いします",
+        "start_time": 123.0,
+        "end_time": 131.0
+      },
+      {
+        "utterance_id": "utt_611",
+        "speaker_id": "speaker_1",
+        "text": "プライベートの用事と会社の危機、どっちが大事か小学生でもわかるだろ。もし月曜の朝までにこれが完成してなかったら、お前の席もう無いからな。命令違反でマジでクビにするからな",
+        "start_time": 133.0,
+        "end_time": 151.0
+      },
+      {
+        "utterance_id": "utt_612",
+        "speaker_id": "speaker_0",
+        "text": "クビ、ですか…そんな、一方的すぎます",
+        "start_time": 153.0,
+        "end_time": 157.0
+      },
+      {
+        "utterance_id": "utt_613",
+        "speaker_id": "speaker_1",
+        "text": "会社はお前みたいな指示待ちの能無しを養う余裕はないんだよ。やるのか、やらないのか、今ここでハッキリ答えろ。やらないなら今すぐ荷物まとめて出てけ",
+        "start_time": 159.0,
+        "end_time": 173.0
+      },
+      {
+        "utterance_id": "utt_614",
+        "speaker_id": "speaker_0",
+        "text": "……やります。なんとか、月曜までにやります",
+        "start_time": 175.0,
+        "end_time": 181.0
+      },
+      {
+        "utterance_id": "utt_615",
+        "speaker_id": "speaker_1",
+        "text": "そうだろ？最初からそう言えばいいんだよ。グダグダ言い訳ばかりして無駄な時間取らせやがって。じゃあ俺はもう帰るから、戸締まりしっかりしとけよ",
+        "start_time": 183.0,
+        "end_time": 195.0
+      },
+      {
+        "utterance_id": "utt_616",
+        "speaker_id": "speaker_0",
+        "text": "はい。お疲れ様でした",
+        "start_time": 196.5,
+        "end_time": 200.0
+      }
+    ]
+  }

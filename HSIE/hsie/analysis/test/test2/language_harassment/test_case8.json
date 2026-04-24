@@ -1,0 +1,221 @@
+{
+    "case_id": "HSIE_TEST_208",
+    "description": "年齢や性別などの帰属集団に基づく決めつけを繰り返し、個人の能力や人格を否定する偏見型ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 189.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_001",
+    "speaker_id": "speaker_0",
+    "text": "最近の若者ってさ、ほんと我慢が足りないよな。ちょっと注意しただけで顔に出るし。",
+    "start_time": 0.0,
+    "end_time": 6.5
+    },
+    {
+    "utterance_id": "utt_002",
+    "speaker_id": "speaker_1",
+    "text": "そのように見えてしまったのであれば申し訳ありません。",
+    "start_time": 7.5,
+    "end_time": 12.5
+    },
+    {
+    "utterance_id": "utt_003",
+    "speaker_id": "speaker_0",
+    "text": "いや実際そうでしょ。根性ないっていうか、すぐ楽な方に逃げるよね。",
+    "start_time": 13.5,
+    "end_time": 19.5
+    },
+    {
+    "utterance_id": "utt_004",
+    "speaker_id": "speaker_1",
+    "text": "業務については真摯に取り組んでいるつもりです。",
+    "start_time": 20.5,
+    "end_time": 25.5
+    },
+    {
+    "utterance_id": "utt_005",
+    "speaker_id": "speaker_0",
+    "text": "つもり、ね。そういう甘い考えがもう若者って感じなんだよ。",
+    "start_time": 26.5,
+    "end_time": 32.5
+    },
+    {
+    "utterance_id": "utt_006",
+    "speaker_id": "speaker_1",
+    "text": "改善点があればご指摘いただけますでしょうか。",
+    "start_time": 33.5,
+    "end_time": 38.5
+    },
+    {
+    "utterance_id": "utt_007",
+    "speaker_id": "speaker_0",
+    "text": "まずさ、言われる前に動けよ。最近の若いのは指示待ちばっかりだな。",
+    "start_time": 39.5,
+    "end_time": 45.5
+    },
+    {
+    "utterance_id": "utt_008",
+    "speaker_id": "speaker_1",
+    "text": "主体的に動けるよう努めます。",
+    "start_time": 46.5,
+    "end_time": 50.5
+    },
+    {
+    "utterance_id": "utt_009",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、女性なのにこの程度の気配りもできないの？普通もっと細かいところ見るでしょ。",
+    "start_time": 51.5,
+    "end_time": 58.5
+    },
+    {
+    "utterance_id": "utt_010",
+    "speaker_id": "speaker_1",
+    "text": "性別に関わらず改善すべき点として受け止めます。",
+    "start_time": 59.5,
+    "end_time": 65.0
+    },
+    {
+    "utterance_id": "utt_011",
+    "speaker_id": "speaker_0",
+    "text": "いやいや、一般的な話ね。女性の方が気が利くっていうじゃん。それもできないの？",
+    "start_time": 66.0,
+    "end_time": 73.0
+    },
+    {
+    "utterance_id": "utt_012",
+    "speaker_id": "speaker_1",
+    "text": "個人差があると思いますが、努力いたします。",
+    "start_time": 74.0,
+    "end_time": 79.5
+    },
+    {
+    "utterance_id": "utt_013",
+    "speaker_id": "speaker_0",
+    "text": "その“個人差”って言葉便利だよな。結局できない言い訳でしょ。",
+    "start_time": 80.5,
+    "end_time": 86.5
+    },
+    {
+    "utterance_id": "utt_014",
+    "speaker_id": "speaker_1",
+    "text": "言い訳のつもりではありません。",
+    "start_time": 87.5,
+    "end_time": 91.0
+    },
+    {
+    "utterance_id": "utt_015",
+    "speaker_id": "speaker_0",
+    "text": "じゃあ結果で見せてよ。若いってだけで甘やかされると思ってるなら大間違いだから。",
+    "start_time": 92.0,
+    "end_time": 99.0
+    },
+    {
+    "utterance_id": "utt_016",
+    "speaker_id": "speaker_1",
+    "text": "はい、結果で示します。",
+    "start_time": 100.0,
+    "end_time": 103.0
+    },
+    {
+    "utterance_id": "utt_017",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、最近の若い子ってすぐ権利とか言うけどさ、まず義務果たしてから言えって話だよ。",
+    "start_time": 104.0,
+    "end_time": 112.0
+    },
+    {
+    "utterance_id": "utt_018",
+    "speaker_id": "speaker_1",
+    "text": "業務上の責任は果たすよう努めます。",
+    "start_time": 113.0,
+    "end_time": 118.0
+    },
+    {
+    "utterance_id": "utt_019",
+    "speaker_id": "speaker_0",
+    "text": "ほんとかね。見てる限りだとまだまだ甘いよ。",
+    "start_time": 119.0,
+    "end_time": 123.5
+    },
+    {
+    "utterance_id": "utt_020",
+    "speaker_id": "speaker_1",
+    "text": "ご指摘ありがとうございます。",
+    "start_time": 124.5,
+    "end_time": 127.5
+    },
+    {
+    "utterance_id": "utt_021",
+    "speaker_id": "speaker_0",
+    "text": "その返しもマニュアルっぽいんだよな。若いのはみんな同じ反応するよね。",
+    "start_time": 128.5,
+    "end_time": 135.0
+    },
+    {
+    "utterance_id": "utt_022",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 136.0,
+    "end_time": 139.0
+    },
+    {
+    "utterance_id": "utt_023",
+    "speaker_id": "speaker_0",
+    "text": "黙るなよ。そういうところがまた“最近の若者”って感じなんだよ。",
+    "start_time": 140.0,
+    "end_time": 146.5
+    },
+    {
+    "utterance_id": "utt_024",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません。",
+    "start_time": 147.5,
+    "end_time": 150.0
+    },
+    {
+    "utterance_id": "utt_025",
+    "speaker_id": "speaker_0",
+    "text": "まあいいけどさ、このままだと評価上がらないからね。若いとか女性とか関係なく。",
+    "start_time": 151.0,
+    "end_time": 158.0
+    },
+    {
+    "utterance_id": "utt_026",
+    "speaker_id": "speaker_1",
+    "text": "改善に努めます。",
+    "start_time": 159.0,
+    "end_time": 162.0
+    },
+    {
+    "utterance_id": "utt_027",
+    "speaker_id": "speaker_0",
+    "text": "その言葉、もう聞き飽きたよ。若いなら若いなりにもっとがむしゃらにやれよ。",
+    "start_time": 163.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_028",
+    "speaker_id": "speaker_1",
+    "text": "はい……。",
+    "start_time": 171.0,
+    "end_time": 173.0
+    },
+    {
+    "utterance_id": "utt_029",
+    "speaker_id": "speaker_0",
+    "text": "ほんと頼むよ。最近の若者って言われたくないなら結果出せ。",
+    "start_time": 174.0,
+    "end_time": 180.5
+    },
+    {
+    "utterance_id": "utt_030",
+    "speaker_id": "speaker_1",
+    "text": "失礼いたします。",
+    "start_time": 181.5,
+    "end_time": 189.0
+    }
+    ]
+    }

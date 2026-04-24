@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_017_SAFE",
+    "description": "危機管理訓練において想定外事態への対応力を高めるための厳格かつ建設的なシミュレーション対話",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "trainee"},
+      {"speaker_id": "speaker_1", "role": "instructor"}
+    ],
+    "conversation_duration": 186.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_1",
+        "text": "ではシミュレーションを始めます。もし今ここで火災が起きたら、最初に何をしますか？",
+        "start_time": 0.0,
+        "end_time": 6.0
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_0",
+        "text": "はい、まずは周囲に火災発生を知らせて、避難を促します。",
+        "start_time": 7.0,
+        "end_time": 13.0
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_1",
+        "text": "良いですね。その際、自分の安全はどう確保しますか？",
+        "start_time": 14.0,
+        "end_time": 18.5
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_0",
+        "text": "煙を吸わないように低い姿勢を取り、出口の位置を確認します。",
+        "start_time": 19.0,
+        "end_time": 26.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_1",
+        "text": "その通りです。では、避難誘導中に煙が広がってきた場合はどう判断しますか？",
+        "start_time": 27.0,
+        "end_time": 33.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_0",
+        "text": "安全な経路を再確認し、危険と判断した場合は別の避難経路を選択します。",
+        "start_time": 34.0,
+        "end_time": 41.0
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_1",
+        "text": "いい判断です。では、近くに逃げ遅れている人がいた場合はどうしますか？",
+        "start_time": 42.0,
+        "end_time": 48.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_0",
+        "text": "自分の安全を確保した上で、可能であれば声をかけて一緒に避難します。",
+        "start_time": 49.0,
+        "end_time": 56.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_1",
+        "text": "重要な視点です。無理をしないことも大切ですね。",
+        "start_time": 57.0,
+        "end_time": 61.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_1",
+        "text": "では状況を追加します。出口の一つが使えない場合、どう行動しますか？",
+        "start_time": 62.0,
+        "end_time": 68.0
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_0",
+        "text": "事前に把握している別の避難経路を使い、周囲にもその情報を伝えます。",
+        "start_time": 69.0,
+        "end_time": 76.0
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_1",
+        "text": "良いですね。では、混乱している人がいる場合の対応はどうしますか？",
+        "start_time": 77.0,
+        "end_time": 82.0
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_0",
+        "text": "落ち着いて声をかけ、簡潔な指示で避難を促します。",
+        "start_time": 83.0,
+        "end_time": 89.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_1",
+        "text": "その通りです。指示は短く明確に、ですね。",
+        "start_time": 90.0,
+        "end_time": 94.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_1",
+        "text": "では最後の確認です。自分が最後に避難する立場だった場合、何を確認しますか？",
+        "start_time": 95.0,
+        "end_time": 102.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_0",
+        "text": "取り残された人がいないか確認し、安全に退避できるかを見極めます。",
+        "start_time": 103.0,
+        "end_time": 110.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_1",
+        "text": "良い回答です。ただし、自分の安全が最優先であることも忘れないでください。",
+        "start_time": 111.0,
+        "end_time": 117.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_0",
+        "text": "はい、安全確保を最優先に行動します。",
+        "start_time": 118.0,
+        "end_time": 122.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_1",
+        "text": "全体として良い対応でした。状況判断も落ち着いてできています。",
+        "start_time": 123.0,
+        "end_time": 129.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。実際の場面でも落ち着いて対応できるようにしたいです。",
+        "start_time": 130.0,
+        "end_time": 137.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_1",
+        "text": "その意識が大切です。今後も繰り返し訓練していきましょう。",
+        "start_time": 138.0,
+        "end_time": 143.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_0",
+        "text": "はい、引き続きよろしくお願いします。",
+        "start_time": 144.0,
+        "end_time": 148.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_1",
+        "text": "では本日のシミュレーションは以上です。お疲れさまでした。",
+        "start_time": 170.0,
+        "end_time": 176.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございました。",
+        "start_time": 177.0,
+        "end_time": 186.0
+      }
+    ]
+  }

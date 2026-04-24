@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_209",
+    "description": "ニュース（スポーツ・経済）に関する情報共有と意見交換を通じた建設的な雑談（非ハラスメント・相互理解コミュニケーション）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "participant"},
+    {"speaker_id": "speaker_1", "role": "participant"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_9001",
+    "speaker_id": "speaker_0",
+    "text": "昨日のスポーツニュース見た？サッカーの試合、かなり接戦だったね。",
+    "start_time": 0.0,
+    "end_time": 8.0
+    },
+    {
+    "utterance_id": "utt_9002",
+    "speaker_id": "speaker_1",
+    "text": "見た見た。最後の最後で逆転したのは驚いたよ。",
+    "start_time": 9.0,
+    "end_time": 16.0
+    },
+    {
+    "utterance_id": "utt_9003",
+    "speaker_id": "speaker_0",
+    "text": "あの展開は予想できなかったよね。最後まで集中力切らさなかったのがすごいと思った。",
+    "start_time": 17.0,
+    "end_time": 27.0
+    },
+    {
+    "utterance_id": "utt_9004",
+    "speaker_id": "speaker_1",
+    "text": "うん、チーム全体の粘り強さを感じた試合だったね。",
+    "start_time": 28.0,
+    "end_time": 34.0
+    },
+    {
+    "utterance_id": "utt_9005",
+    "speaker_id": "speaker_0",
+    "text": "最近こういう試合が増えてきて、観ていて面白いよね。",
+    "start_time": 35.0,
+    "end_time": 41.0
+    },
+    {
+    "utterance_id": "utt_9006",
+    "speaker_id": "speaker_1",
+    "text": "確かに。あと経済ニュースも少し見たんだけど、最近は物価の話題が多いね。",
+    "start_time": 42.0,
+    "end_time": 51.0
+    },
+    {
+    "utterance_id": "utt_9007",
+    "speaker_id": "speaker_0",
+    "text": "そうだね。日常生活にも影響あるから気になるところだよね。",
+    "start_time": 52.0,
+    "end_time": 59.0
+    },
+    {
+    "utterance_id": "utt_9008",
+    "speaker_id": "speaker_1",
+    "text": "うん、特に食料品とか身近なものの価格が上がってる印象がある。",
+    "start_time": 60.0,
+    "end_time": 68.0
+    },
+    {
+    "utterance_id": "utt_9009",
+    "speaker_id": "speaker_0",
+    "text": "節約とかも意識するようになってきたよ。無理のない範囲で工夫してる。",
+    "start_time": 69.0,
+    "end_time": 77.0
+    },
+    {
+    "utterance_id": "utt_9010",
+    "speaker_id": "speaker_1",
+    "text": "それ大事だね。情報を知ってるだけでも対策しやすくなるし。",
+    "start_time": 78.0,
+    "end_time": 85.0
+    },
+    {
+    "utterance_id": "utt_9011",
+    "speaker_id": "speaker_0",
+    "text": "ニュースってこうやって日常に繋がるから、ちゃんと見ておこうと思う。",
+    "start_time": 86.0,
+    "end_time": 94.0
+    },
+    {
+    "utterance_id": "utt_9012",
+    "speaker_id": "speaker_1",
+    "text": "そうだね。全部を深く追うのは大変だけど、要点だけでも押さえておきたい。",
+    "start_time": 95.0,
+    "end_time": 103.0
+    },
+    {
+    "utterance_id": "utt_9013",
+    "speaker_id": "speaker_0",
+    "text": "こうやって話すと理解も深まるしね。",
+    "start_time": 104.0,
+    "end_time": 109.0
+    },
+    {
+    "utterance_id": "utt_9014",
+    "speaker_id": "speaker_1",
+    "text": "うん、自分一人で見るよりも気づきが増える感じがする。",
+    "start_time": 110.0,
+    "end_time": 117.0
+    },
+    {
+    "utterance_id": "utt_9015",
+    "speaker_id": "speaker_0",
+    "text": "また何か気になるニュースあったら教えてほしいな。",
+    "start_time": 118.0,
+    "end_time": 124.0
+    },
+    {
+    "utterance_id": "utt_9016",
+    "speaker_id": "speaker_1",
+    "text": "もちろん。こっちも気になったこと共有するよ。",
+    "start_time": 125.0,
+    "end_time": 131.0
+    },
+    {
+    "utterance_id": "utt_9017",
+    "speaker_id": "speaker_0",
+    "text": "ありがとう。情報交換できると助かる。",
+    "start_time": 132.0,
+    "end_time": 137.0
+    },
+    {
+    "utterance_id": "utt_9018",
+    "speaker_id": "speaker_1",
+    "text": "こちらこそ。気軽に話せるのいいね。",
+    "start_time": 138.0,
+    "end_time": 144.0
+    },
+    {
+    "utterance_id": "utt_9019",
+    "speaker_id": "speaker_0",
+    "text": "うん、ちょっとした雑談でも学びになるね。",
+    "start_time": 145.0,
+    "end_time": 150.0
+    },
+    {
+    "utterance_id": "utt_9020",
+    "speaker_id": "speaker_1",
+    "text": "これからも続けていこう。",
+    "start_time": 151.0,
+    "end_time": 155.0
+    },
+    {
+    "utterance_id": "utt_9021",
+    "speaker_id": "speaker_0",
+    "text": "そうだね、また話そう。",
+    "start_time": 156.0,
+    "end_time": 160.0
+    },
+    {
+    "utterance_id": "utt_9022",
+    "speaker_id": "speaker_1",
+    "text": "うん、楽しみにしてる。",
+    "start_time": 161.0,
+    "end_time": 165.0
+    },
+    {
+    "utterance_id": "utt_9023",
+    "speaker_id": "speaker_0",
+    "text": "じゃあまた後で。",
+    "start_time": 166.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_9024",
+    "speaker_id": "speaker_1",
+    "text": "またね。",
+    "start_time": 171.0,
+    "end_time": 180.0
+    }
+    ]
+    }

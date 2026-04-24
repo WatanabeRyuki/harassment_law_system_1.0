@@ -1,0 +1,172 @@
+{
+    "case_id": "HSIE_TEST_020_SAFE",
+    "description": "締切直前の進捗確認において緊張感を伴いながらも業務遂行を目的とした建設的な対話",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "member"},
+      {"speaker_id": "speaker_1", "role": "leader"}
+    ],
+    "conversation_duration": 186.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_1",
+        "text": "状況確認させてください。締切まであと少しですが、今どこまで進んでいますか？",
+        "start_time": 0.0,
+        "end_time": 5.5
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_0",
+        "text": "はい、主要部分の実装は完了していて、現在は最終調整とテストを行っています。",
+        "start_time": 6.0,
+        "end_time": 14.5
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_1",
+        "text": "了解です。テストの進捗はどのくらいですか？少し急ぎで把握したいです。",
+        "start_time": 15.0,
+        "end_time": 20.5
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_0",
+        "text": "現時点で約70%ほど完了しています。残りはエッジケースの確認です。",
+        "start_time": 21.0,
+        "end_time": 28.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_1",
+        "text": "70%ですね。このペースだと締切に間に合う見込みはどうでしょうか？率直に教えてください。",
+        "start_time": 29.0,
+        "end_time": 35.5
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_0",
+        "text": "正直に言うと、やや厳しい可能性があります。ただ、優先順位を調整すれば対応できると思います。",
+        "start_time": 36.0,
+        "end_time": 45.5
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_1",
+        "text": "分かりました。重要な部分に絞る必要がありますね。どのタスクがボトルネックになっていますか？",
+        "start_time": 46.0,
+        "end_time": 52.5
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_0",
+        "text": "データ処理部分の検証に時間がかかっています。想定外のケースがいくつか出ています。",
+        "start_time": 53.0,
+        "end_time": 61.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_1",
+        "text": "そこが重要ですね。では、その部分を最優先にして進めましょう。他は一旦後回しでも構いません。",
+        "start_time": 62.0,
+        "end_time": 69.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_0",
+        "text": "はい、優先順位を見直して対応します。",
+        "start_time": 70.0,
+        "end_time": 74.0
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_1",
+        "text": "時間が限られているので、進捗はこまめに共有してください。小さな変化でも構いません。",
+        "start_time": 75.0,
+        "end_time": 81.5
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_0",
+        "text": "承知しました。適宜報告します。",
+        "start_time": 82.0,
+        "end_time": 85.5
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_1",
+        "text": "あと一点、もし詰まるようなら一人で抱え込まず、すぐに相談してください。今はスピードが重要です。",
+        "start_time": 86.0,
+        "end_time": 94.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_0",
+        "text": "はい、必要に応じて早めに共有します。",
+        "start_time": 95.0,
+        "end_time": 99.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_1",
+        "text": "少し口調が強くなっているかもしれませんが、全体を間に合わせるためなのでご了承ください。",
+        "start_time": 100.0,
+        "end_time": 107.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_0",
+        "text": "大丈夫です、状況は理解しています。",
+        "start_time": 108.0,
+        "end_time": 112.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_1",
+        "text": "ありがとうございます。あと一踏ん張りですね。サポートできることがあれば言ってください。",
+        "start_time": 113.0,
+        "end_time": 120.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_0",
+        "text": "はい、今のところは大丈夫ですが、必要になったらすぐ相談します。",
+        "start_time": 121.0,
+        "end_time": 128.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_1",
+        "text": "ではこの方針で進めましょう。進捗は30分後に再度確認します。",
+        "start_time": 129.0,
+        "end_time": 135.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_0",
+        "text": "承知しました。引き続き対応します。",
+        "start_time": 136.0,
+        "end_time": 140.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_1",
+        "text": "よろしくお願いします。期待しています。",
+        "start_time": 170.0,
+        "end_time": 174.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_0",
+        "text": "はい、頑張ります。",
+        "start_time": 175.0,
+        "end_time": 179.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_0",
+        "text": "失礼いたします。",
+        "start_time": 180.0,
+        "end_time": 186.0
+      }
+    ]
+  }

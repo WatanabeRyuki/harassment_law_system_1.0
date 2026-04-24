@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_207",
+    "description": "ペットや家族の話題を通じた共感と温かい関係構築（非ハラスメント・親和的コミュニケーション）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "participant"},
+    {"speaker_id": "speaker_1", "role": "participant"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_7001",
+    "speaker_id": "speaker_0",
+    "text": "この前、うちの犬が初めてドッグランに行ったんだけど、すごく楽しそうに走り回っててさ。",
+    "start_time": 0.0,
+    "end_time": 9.0
+    },
+    {
+    "utterance_id": "utt_7002",
+    "speaker_id": "speaker_1",
+    "text": "いいね、それ。想像するだけで微笑ましいな。普段から元気な子なの？",
+    "start_time": 10.0,
+    "end_time": 18.0
+    },
+    {
+    "utterance_id": "utt_7003",
+    "speaker_id": "speaker_0",
+    "text": "うん、結構活発でね。家の中でもよく走り回ってるんだけど、外だとさらにテンション上がるみたい。",
+    "start_time": 19.0,
+    "end_time": 29.0
+    },
+    {
+    "utterance_id": "utt_7004",
+    "speaker_id": "speaker_1",
+    "text": "外の広い場所だと開放感あるもんね。他の犬とも仲良くできた？",
+    "start_time": 30.0,
+    "end_time": 37.0
+    },
+    {
+    "utterance_id": "utt_7005",
+    "speaker_id": "speaker_0",
+    "text": "最初はちょっと緊張してたけど、だんだん慣れてきて一緒に遊んでたよ。",
+    "start_time": 38.0,
+    "end_time": 46.0
+    },
+    {
+    "utterance_id": "utt_7006",
+    "speaker_id": "speaker_1",
+    "text": "成長感じるね。そういう瞬間って嬉しいよね。",
+    "start_time": 47.0,
+    "end_time": 53.0
+    },
+    {
+    "utterance_id": "utt_7007",
+    "speaker_id": "speaker_0",
+    "text": "ほんとに。帰りは疲れたのかぐっすり寝てたよ。",
+    "start_time": 54.0,
+    "end_time": 60.0
+    },
+    {
+    "utterance_id": "utt_7008",
+    "speaker_id": "speaker_1",
+    "text": "かわいいなあ。いい一日だったんだろうね。",
+    "start_time": 61.0,
+    "end_time": 66.0
+    },
+    {
+    "utterance_id": "utt_7009",
+    "speaker_id": "speaker_0",
+    "text": "うん、こっちまで癒されたよ。そういえば、この前子供の行事があるって言ってなかった？",
+    "start_time": 67.0,
+    "end_time": 77.0
+    },
+    {
+    "utterance_id": "utt_7010",
+    "speaker_id": "speaker_1",
+    "text": "ああ、運動会があってね。天気も良くて無事に開催できたよ。",
+    "start_time": 78.0,
+    "end_time": 86.0
+    },
+    {
+    "utterance_id": "utt_7011",
+    "speaker_id": "speaker_0",
+    "text": "それはよかったね。どんな競技に出たの？",
+    "start_time": 87.0,
+    "end_time": 93.0
+    },
+    {
+    "utterance_id": "utt_7012",
+    "speaker_id": "speaker_1",
+    "text": "かけっこと玉入れかな。緊張してたみたいだけど、一生懸命やってたよ。",
+    "start_time": 94.0,
+    "end_time": 103.0
+    },
+    {
+    "utterance_id": "utt_7013",
+    "speaker_id": "speaker_0",
+    "text": "いいね、その姿を見るだけで感動しそう。",
+    "start_time": 104.0,
+    "end_time": 109.0
+    },
+    {
+    "utterance_id": "utt_7014",
+    "speaker_id": "speaker_1",
+    "text": "本当にね。小さな成長でもすごく嬉しく感じるんだ。",
+    "start_time": 110.0,
+    "end_time": 117.0
+    },
+    {
+    "utterance_id": "utt_7015",
+    "speaker_id": "speaker_0",
+    "text": "分かる気がする。大切な瞬間だよね。",
+    "start_time": 118.0,
+    "end_time": 123.0
+    },
+    {
+    "utterance_id": "utt_7016",
+    "speaker_id": "speaker_1",
+    "text": "うん、日常の中でもこういうイベントがあると改めて実感する。",
+    "start_time": 124.0,
+    "end_time": 131.0
+    },
+    {
+    "utterance_id": "utt_7017",
+    "speaker_id": "speaker_0",
+    "text": "いい話聞けたよ。ペットも家族も、それぞれ違う形で癒しや喜びをくれるね。",
+    "start_time": 132.0,
+    "end_time": 142.0
+    },
+    {
+    "utterance_id": "utt_7018",
+    "speaker_id": "speaker_1",
+    "text": "本当にそう思う。どちらも大切な存在だね。",
+    "start_time": 143.0,
+    "end_time": 149.0
+    },
+    {
+    "utterance_id": "utt_7019",
+    "speaker_id": "speaker_0",
+    "text": "また機会があったら写真とか見せてほしいな。",
+    "start_time": 150.0,
+    "end_time": 155.0
+    },
+    {
+    "utterance_id": "utt_7020",
+    "speaker_id": "speaker_1",
+    "text": "もちろん。犬の写真もぜひ見せてね。",
+    "start_time": 156.0,
+    "end_time": 162.0
+    },
+    {
+    "utterance_id": "utt_7021",
+    "speaker_id": "speaker_0",
+    "text": "うん、いいの撮れたら共有するよ。",
+    "start_time": 163.0,
+    "end_time": 168.0
+    },
+    {
+    "utterance_id": "utt_7022",
+    "speaker_id": "speaker_1",
+    "text": "楽しみにしてる。",
+    "start_time": 169.0,
+    "end_time": 172.0
+    },
+    {
+    "utterance_id": "utt_7023",
+    "speaker_id": "speaker_0",
+    "text": "またこういう話しよう。",
+    "start_time": 173.0,
+    "end_time": 176.0
+    },
+    {
+    "utterance_id": "utt_7024",
+    "speaker_id": "speaker_1",
+    "text": "ぜひ。またね。",
+    "start_time": 177.0,
+    "end_time": 180.0
+    }
+    ]
+    }

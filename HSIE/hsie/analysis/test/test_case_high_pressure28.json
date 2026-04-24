@@ -1,0 +1,193 @@
+{
+    "case_id": "HSIE_TEST_109",
+    "description": "敬語を用いつつ発話途中の割り込みと長時間の沈黙を組み合わせ、思考停止と自己否定を誘導する構造的ハラスメント",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 190.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_1001",
+        "speaker_id": "speaker_1",
+        "text": "恐れ入りますが、今回の件についてご説明いただけますか。",
+        "start_time": 0.0,
+        "end_time": 4.0
+      },
+      {
+        "utterance_id": "utt_1002",
+        "speaker_id": "speaker_0",
+        "text": "はい、今回の遅延は私の確認不足により発生したものでして、クライアントへの連絡が",
+        "start_time": 5.0,
+        "end_time": 12.0
+      },
+      {
+        "utterance_id": "utt_1003",
+        "speaker_id": "speaker_1",
+        "text": "結論からお願いできますか。",
+        "start_time": 11.5,
+        "end_time": 14.0
+      },
+      {
+        "utterance_id": "utt_1004",
+        "speaker_id": "speaker_0",
+        "text": "失礼いたしました。確認不足が原因です。",
+        "start_time": 15.0,
+        "end_time": 18.5
+      },
+      {
+        "utterance_id": "utt_1005",
+        "speaker_id": "speaker_1",
+        "text": "確認不足、ですか。",
+        "start_time": 19.0,
+        "end_time": 22.0
+      },
+      {
+        "utterance_id": "utt_1006",
+        "speaker_id": "speaker_0",
+        "text": "あの他にも原因がある可能性があります。",
+        "start_time": 27.0,
+        "end_time": 31.0
+      },
+      {
+        "utterance_id": "utt_1007",
+        "speaker_id": "speaker_1",
+        "text": "“可能性”ではなく、断定してください。",
+        "start_time": 30.5,
+        "end_time": 34.0
+      },
+      {
+        "utterance_id": "utt_1008",
+        "speaker_id": "speaker_0",
+        "text": "はい私の判断の甘さも原因です。",
+        "start_time": 35.0,
+        "end_time": 39.0
+      },
+      {
+        "utterance_id": "utt_1009",
+        "speaker_id": "speaker_1",
+        "text": "判断の甘さ、具体的にはどの部分でしょうか。",
+        "start_time": 40.0,
+        "end_time": 45.0
+      },
+      {
+        "utterance_id": "utt_1010",
+        "speaker_id": "speaker_0",
+        "text": "ええと、優先順位の設定が不十分で—",
+        "start_time": 46.0,
+        "end_time": 50.0
+      },
+      {
+        "utterance_id": "utt_1011",
+        "speaker_id": "speaker_1",
+        "text": "不十分、という表現は曖昧ですね。",
+        "start_time": 49.5,
+        "end_time": 53.0
+      },
+      {
+        "utterance_id": "utt_1012",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ございません。",
+        "start_time": 54.0,
+        "end_time": 56.0
+      },
+      {
+        "utterance_id": "utt_1014",
+        "speaker_id": "speaker_0",
+        "text": "あの、具体的には重要タスクを後回しにしてしまった点です。",
+        "start_time": 66.0,
+        "end_time": 72.0
+      },
+      {
+        "utterance_id": "utt_1015",
+        "speaker_id": "speaker_1",
+        "text": "なるほど。では、それが問題だと認識していながら、なぜ実行できなかったのでしょうか。",
+        "start_time": 73.0,
+        "end_time": 81.0
+      },
+      {
+        "utterance_id": "utt_1016",
+        "speaker_id": "speaker_0",
+        "text": "他業務との兼ね合いで対応が遅れ",
+        "start_time": 82.0,
+        "end_time": 86.0
+      },
+      {
+        "utterance_id": "utt_1017",
+        "speaker_id": "speaker_1",
+        "text": "つまり、管理できていなかったということですね。",
+        "start_time": 85.5,
+        "end_time": 90.0
+      },
+      {
+        "utterance_id": "utt_1018",
+        "speaker_id": "speaker_0",
+        "text": "はい。",
+        "start_time": 91.0,
+        "end_time": 92.5
+      },
+      {
+        "utterance_id": "utt_1020",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ございません。",
+        "start_time": 104.0,
+        "end_time": 106.0
+      },
+      {
+        "utterance_id": "utt_1021",
+        "speaker_id": "speaker_1",
+        "text": "謝罪ではなく、改善の根拠をお聞きしています。",
+        "start_time": 107.0,
+        "end_time": 111.0
+      },
+      {
+        "utterance_id": "utt_1022",
+        "speaker_id": "speaker_0",
+        "text": "はい現時点では十分に整理できておりません。",
+        "start_time": 112.0,
+        "end_time": 118.0
+      },
+      {
+        "utterance_id": "utt_1023",
+        "speaker_id": "speaker_1",
+        "text": "整理できていない状態で、この業務を継続するおつもりですか。",
+        "start_time": 119.0,
+        "end_time": 125.0
+      },
+      {
+        "utterance_id": "utt_1024",
+        "speaker_id": "speaker_0",
+        "text": "適切ではないと思います。",
+        "start_time": 126.0,
+        "end_time": 129.0
+      },
+      {
+        "utterance_id": "utt_1025",
+        "speaker_id": "speaker_1",
+        "text": "そうですね。では、その認識でよろしいですね。",
+        "start_time": 130.0,
+        "end_time": 134.0
+      },
+      {
+        "utterance_id": "utt_1026",
+        "speaker_id": "speaker_0",
+        "text": "はい。",
+        "start_time": 135.0,
+        "end_time": 136.5
+      },
+      {
+        "utterance_id": "utt_1027",
+        "speaker_id": "speaker_1",
+        "text": "では、一度整理してから再度ご報告ください。",
+        "start_time": 140.0,
+        "end_time": 145.0
+      },
+      {
+        "utterance_id": "utt_1028",
+        "speaker_id": "speaker_0",
+        "text": "承知いたしました。",
+        "start_time": 146.0,
+        "end_time": 148.0
+      }
+    ]
+  }

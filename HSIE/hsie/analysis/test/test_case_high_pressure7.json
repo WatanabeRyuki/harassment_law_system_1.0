@@ -1,0 +1,123 @@
+{
+    "case_id": "HSIE_TEST_007",
+    "description": "人格否定（存在価値の否定、育ちや性格への攻撃、執拗な自尊心の破壊）",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 200.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_701",
+        "speaker_id": "speaker_1",
+        "text": "またこれか。お前、本当に学習能力っていう概念がないんだな。何度言えばその空っぽの頭に届くんだ？",
+        "start_time": 0.0,
+        "end_time": 10.0
+      },
+      {
+        "utterance_id": "utt_702",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。以後、このようなことがないよう徹底します",
+        "start_time": 12.0,
+        "end_time": 17.5
+      },
+      {
+        "utterance_id": "utt_703",
+        "speaker_id": "speaker_1",
+        "text": "徹底します、ねえ。その言葉、聞き飽きたんだよ。お前さ、自分がどれだけチームの足を引っ張ってる自覚ある？お前が一人いるだけで、全体のレベルが底辺まで下がるんだよ",
+        "start_time": 19.0,
+        "end_time": 35.5
+      },
+      {
+        "utterance_id": "utt_704",
+        "speaker_id": "speaker_0",
+        "text": "ご迷惑をおかけしているのは承知しております。改善に努めます",
+        "start_time": 37.0,
+        "end_time": 42.5
+      },
+      {
+        "utterance_id": "utt_705",
+        "speaker_id": "speaker_1",
+        "text": "努める？無理だよ。だってお前、根本的な人間性が終わってるもん。どういう教育受けてきたらそんなに無責任で厚顔無恥になれるわけ？親の顔が見てみたいよ。まともな教育受けてないんだろ",
+        "start_time": 44.0,
+        "end_time": 62.0
+      },
+      {
+        "utterance_id": "utt_706",
+        "speaker_id": "speaker_0",
+        "text": "親のことは関係ありません。仕事のミスについては私が責任を負います",
+        "start_time": 64.0,
+        "end_time": 71.0
+      },
+      {
+        "utterance_id": "utt_707",
+        "speaker_id": "speaker_1",
+        "text": "口答えだけは一人前だな。お前に責任なんて取れるわけないだろ。存在自体がコスト、生きてるだけで社会の損失なんだよ。お前みたいな欠陥品を雇ってるこの会社がボランティアに見えてきたわ",
+        "start_time": 73.0,
+        "end_time": 92.0
+      },
+      {
+        "utterance_id": "utt_708",
+        "speaker_id": "speaker_0",
+        "text": "そこまで言われる筋合いはありません。業務の指摘をしてください",
+        "start_time": 95.0,
+        "end_time": 100.5
+      },
+      {
+        "utterance_id": "utt_709",
+        "speaker_id": "speaker_1",
+        "text": "業務の指摘以前の問題だって言ってんの。性格が歪んでるから仕事も雑なんだよ。お前のその卑屈な目つき、見てるだけで虫酸が走るんだよね。よくそれで平気な顔して出社できるな",
+        "start_time": 102.0,
+        "end_time": 118.5
+      },
+      {
+        "utterance_id": "utt_710",
+        "speaker_id": "speaker_0",
+        "text": "……（沈黙）",
+        "start_time": 120.0,
+        "end_time": 125.0
+      },
+      {
+        "utterance_id": "utt_711",
+        "speaker_id": "speaker_1",
+        "text": "黙れば済むと思ってんのか。そういうところが本当に気持ち悪いんだよ。お前さ、友達とかいないだろ。こんな性格じゃ誰からも愛されないもんな。可哀想な奴。ま、自業自得だけどな",
+        "start_time": 126.0,
+        "end_time": 145.0
+      },
+      {
+        "utterance_id": "utt_712",
+        "speaker_id": "speaker_0",
+        "text": "退席させていただきます",
+        "start_time": 147.0,
+        "end_time": 149.5
+      },
+      {
+        "utterance_id": "utt_713",
+        "speaker_id": "speaker_1",
+        "text": "逃げるのか。どこまで行ってもクズだな。お前みたいな価値のないゴミ、明日から来なくていいよ。お前がいなくなって悲しむ奴なんて、この世に一人もいないから。わかったか？",
+        "start_time": 150.0,
+        "end_time": 168.0
+      },
+      {
+        "utterance_id": "utt_714",
+        "speaker_id": "speaker_0",
+        "text": "もう、限界です。人事へ報告します",
+        "start_time": 170.0,
+        "end_time": 174.5
+      },
+      {
+        "utterance_id": "utt_715",
+        "speaker_id": "speaker_1",
+        "text": "報告？笑わせるな。被害者面かよ。お前の出来が悪いのが全ての元凶だろ。報告してもいいけどさ、お前の無能さが社内に広まるだけだぞ。誰がそんなゴミの味方をすると思ってるんだ？",
+        "start_time": 176.0,
+        "end_time": 193.0
+      },
+      {
+        "utterance_id": "utt_716",
+        "speaker_id": "speaker_1",
+        "text": "おい、聞いてんのか。返事もしねえのかよ。本当、人として終わってんな。死ぬまで治らないんだろうな、そのゴミみたいな性格",
+        "start_time": 194.0,
+        "end_time": 200.0
+      }
+    ]
+  }

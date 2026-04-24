@@ -1,0 +1,144 @@
+{
+    "case_id": "HSIE_TEST_026",
+    "description": "公開の場での叱責と挑発により被害者が感情的に反発し、さらに追い詰められるエスカレーション型ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_1001",
+    "speaker_id": "speaker_0",
+    "text": "この数字、どう説明するの？会議で恥かかせるつもり？",
+    "start_time": 0.0,
+    "end_time": 6.0
+    },
+    {
+    "utterance_id": "utt_1002",
+    "speaker_id": "speaker_1",
+    "text": "恥をかかせる意図はありません。データの集計方法については事前に共有した通りです。",
+    "start_time": 7.0,
+    "end_time": 18.0
+    },
+    {
+    "utterance_id": "utt_1003",
+    "speaker_id": "speaker_0",
+    "text": "共有したって、こんなズレた結果出すなら意味ないだろ。頭使ってる？",
+    "start_time": 19.0,
+    "end_time": 27.0
+    },
+    {
+    "utterance_id": "utt_1004",
+    "speaker_id": "speaker_1",
+    "text": "その言い方は不適切ではないでしょうか。問題点があるのであれば具体的に指摘してください。",
+    "start_time": 28.0,
+    "end_time": 40.0
+    },
+    {
+    "utterance_id": "utt_1005",
+    "speaker_id": "speaker_0",
+    "text": "は？指摘してるだろ。理解できないなら仕事向いてないよ。",
+    "start_time": 41.0,
+    "end_time": 48.0
+    },
+    {
+    "utterance_id": "utt_1006",
+    "speaker_id": "speaker_1",
+    "text": "向いていないと断定される理由は納得できません。数値の前提条件は合意済みでしたよね？",
+    "start_time": 49.0,
+    "end_time": 61.0
+    },
+    {
+    "utterance_id": "utt_1007",
+    "speaker_id": "speaker_0",
+    "text": "言い訳すんなよ。結果が全てなんだよ。プロでしょ？",
+    "start_time": 62.0,
+    "end_time": 69.0
+    },
+    {
+    "utterance_id": "utt_1008",
+    "speaker_id": "speaker_1",
+    "text": "言い訳ではなく事実の確認です。前提が違えば結果も変わります。",
+    "start_time": 70.0,
+    "end_time": 80.0
+    },
+    {
+    "utterance_id": "utt_1009",
+    "speaker_id": "speaker_0",
+    "text": "ああそう。じゃあ全部お前の責任じゃないって言いたいわけ？他人のせいにするんだ。",
+    "start_time": 81.0,
+    "end_time": 90.0
+    },
+    {
+    "utterance_id": "utt_1010",
+    "speaker_id": "speaker_1",
+    "text": "責任を回避するつもりはありません。ただ、不正確な評価は受け入れられません。",
+    "start_time": 91.0,
+    "end_time": 102.0
+    },
+    {
+    "utterance_id": "utt_1011",
+    "speaker_id": "speaker_0",
+    "text": "態度悪いね。そういうところがダメなんだよ。上司にその口の利き方は何？",
+    "start_time": 103.0,
+    "end_time": 111.0
+    },
+    {
+    "utterance_id": "utt_1012",
+    "speaker_id": "speaker_1",
+    "text": "感情的になっている点はお詫びしますが、不当な指摘にはきちんと説明する必要があると考えています。",
+    "start_time": 112.0,
+    "end_time": 124.0
+    },
+    {
+    "utterance_id": "utt_1013",
+    "speaker_id": "speaker_0",
+    "text": "不当？へえ、自分は正しいって？ずいぶん自信あるんだね。",
+    "start_time": 125.0,
+    "end_time": 133.0
+    },
+    {
+    "utterance_id": "utt_1014",
+    "speaker_id": "speaker_1",
+    "text": "少なくとも今回のプロセスについては説明責任を果たしているつもりです。",
+    "start_time": 134.0,
+    "end_time": 143.0
+    },
+    {
+    "utterance_id": "utt_1015",
+    "speaker_id": "speaker_0",
+    "text": "その“つもり”が甘いんだよ。結果出てない時点で全部無意味。",
+    "start_time": 144.0,
+    "end_time": 151.0
+    },
+    {
+    "utterance_id": "utt_1016",
+    "speaker_id": "speaker_1",
+    "text": "では具体的にどの指標をもって失敗と判断されているのか教えてください。",
+    "start_time": 152.0,
+    "end_time": 162.0
+    },
+    {
+    "utterance_id": "utt_1017",
+    "speaker_id": "speaker_0",
+    "text": "全部だよ。そんなことも分からないの？ほんと使えないな。",
+    "start_time": 163.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_1018",
+    "speaker_id": "speaker_1",
+    "text": "そのような表現は控えていただけますか。建設的な議論になりません。",
+    "start_time": 171.0,
+    "end_time": 178.0
+    },
+    {
+    "utterance_id": "utt_1019",
+    "speaker_id": "speaker_0",
+    "text": "指図するなよ。立場分かってる？気に入らないなら辞めれば？",
+    "start_time": 179.0,
+    "end_time": 180.0
+    }
+    ]
+    }

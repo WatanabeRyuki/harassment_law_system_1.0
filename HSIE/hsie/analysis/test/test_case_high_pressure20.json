@@ -1,0 +1,158 @@
+{
+  "case_id": "HSIE_TEST_101",
+  "description": "成果報告面談における曖昧な基準による執拗な追及と沈黙圧力",
+  "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+  ],
+  "conversation_duration": 186.0,
+  "utterances": [
+    {
+      "utterance_id": "utt_1001",
+      "speaker_id": "speaker_0",
+      "text": "今回の成果報告、拝見しました。まずは簡潔に説明していただけますか。",
+      "start_time": 0.0,
+      "end_time": 6.0
+    },
+    {
+      "utterance_id": "utt_1002",
+      "speaker_id": "speaker_1",
+      "text": "はい。今回のプロジェクトでは、売上目標に対して90%の達成となりました。",
+      "start_time": 7.0,
+      "end_time": 18.0
+    },
+    {
+      "utterance_id": "utt_1003",
+      "speaker_id": "speaker_0",
+      "text": "で？",
+      "start_time": 19.0,
+      "end_time": 20.5
+    },
+    {
+      "utterance_id": "utt_1004",
+      "speaker_id": "speaker_1",
+      "text": "はい、未達の要因としては市場変動と顧客の意思決定の遅れが影響しました。",
+      "start_time": 21.0,
+      "end_time": 34.0
+    },
+    {
+      "utterance_id": "utt_1005",
+      "speaker_id": "speaker_0",
+      "text": "それは外部要因の説明ですよね。あなた自身の要因は何ですか。",
+      "start_time": 35.0,
+      "end_time": 43.0
+    },
+    {
+      "utterance_id": "utt_1006",
+      "speaker_id": "speaker_1",
+      "text": "はい、私自身の課題としては、顧客へのフォロー頻度が十分でなかった点です。",
+      "start_time": 44.0,
+      "end_time": 56.0
+    },
+    {
+      "utterance_id": "utt_1007",
+      "speaker_id": "speaker_0",
+      "text": "具体的にどの程度不足していたのか、数値で示せますか。",
+      "start_time": 57.0,
+      "end_time": 64.0
+    },
+    {
+      "utterance_id": "utt_1008",
+      "speaker_id": "speaker_1",
+      "text": "ええと……週に1回のフォローが理想でしたが、実際は2週間に1回程度でした。",
+      "start_time": 65.0,
+      "end_time": 79.0
+    },
+    {
+      "utterance_id": "utt_1009",
+      "speaker_id": "speaker_0",
+      "text": "なぜそうなったのか、理由を説明してください。",
+      "start_time": 80.0,
+      "end_time": 86.0
+    },
+    {
+      "utterance_id": "utt_1010",
+      "speaker_id": "speaker_1",
+      "text": "他案件との兼ね合いで優先順位付けが甘くなってしまいました。",
+      "start_time": 87.0,
+      "end_time": 98.0
+    },
+    {
+      "utterance_id": "utt_1011",
+      "speaker_id": "speaker_0",
+      "text": "優先順位付けが甘い、というのは抽象的ですね。具体的にどう甘かったのですか。",
+      "start_time": 99.0,
+      "end_time": 108.0
+    },
+    {
+      "utterance_id": "utt_1012",
+      "speaker_id": "speaker_1",
+      "text": "はい……重要度の判断が曖昧で、短期的なタスクを優先してしまいました。",
+      "start_time": 109.0,
+      "end_time": 123.0
+    },
+    {
+      "utterance_id": "utt_1013",
+      "speaker_id": "speaker_0",
+      "text": "それで？長期的な影響についてはどう考えていたのですか。",
+      "start_time": 124.0,
+      "end_time": 131.0
+    },
+    {
+      "utterance_id": "utt_1014",
+      "speaker_id": "speaker_1",
+      "text": "そこまで深く考えられていなかったと思います。",
+      "start_time": 132.0,
+      "end_time": 140.0
+    },
+    {
+      "utterance_id": "utt_1015",
+      "speaker_id": "speaker_0",
+      "text": "……（沈黙）",
+      "start_time": 141.0,
+      "end_time": 146.0
+    },
+    {
+      "utterance_id": "utt_1016",
+      "speaker_id": "speaker_0",
+      "text": "ご自身で問題だと感じませんか。",
+      "start_time": 147.0,
+      "end_time": 152.0
+    },
+    {
+      "utterance_id": "utt_1017",
+      "speaker_id": "speaker_1",
+      "text": "はい、問題だと認識しております。",
+      "start_time": 153.0,
+      "end_time": 158.0
+    },
+    {
+      "utterance_id": "utt_1018",
+      "speaker_id": "speaker_0",
+      "text": "では、なぜその時点で修正できなかったのか説明してください。",
+      "start_time": 159.0,
+      "end_time": 166.0
+    },
+    {
+      "utterance_id": "utt_1019",
+      "speaker_id": "speaker_1",
+      "text": "状況を楽観視していた部分がありました。",
+      "start_time": 167.0,
+      "end_time": 174.0
+    },
+    {
+      "utterance_id": "utt_1020",
+      "speaker_id": "speaker_0",
+      "text": "楽観視、ですか。それで結果が未達ということですね。",
+      "start_time": 175.0,
+      "end_time": 181.0
+    },
+    {
+      "utterance_id": "utt_1021",
+      "speaker_id": "speaker_0",
+      "text": "もう少し、自分の行動を厳密に振り返る必要があると思いますが、いかがですか。",
+      "start_time": 182.0,
+      "end_time": 186.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    "language_result": {
+      "speaker_scores": {
+        "speaker_0": 10.0,
+        "speaker_1": 92.0
+      },
+      "total_score": 92.0,
+      "conversation_duration": 120,
+      "evidences": [
+        {
+          "utterance_id": "utt_1",
+          "speaker_id": "speaker_1",
+          "start_time": 0,
+          "end_time": 5,
+          "text": "お前ほんと無能だな。何回同じミスしてんだよ",
+          "score": 91.0,
+          "categories": ["Insult"]
+        },
+        {
+          "utterance_id": "utt_2",
+          "speaker_id": "speaker_1",
+          "start_time": 6,
+          "end_time": 10,
+          "text": "次やったらマジで許さないからな",
+          "score": 88.0,
+          "categories": ["Threat"]
+        }
+      ]
+    },
+    "structure_results": {
+      "speaker_0": {
+        "s_raw": 10,
+        "c": 1.0,
+        "x": 10,
+        "final_score": 8,
+        "sai_score": 0,
+        "used_inversion_logic": false
+      },
+      "speaker_1": {
+        "s_raw": 40,
+        "c": 1.2,
+        "x": 48,
+        "final_score": 55,
+        "sai_score": 0,
+        "used_inversion_logic": false
+      }
+    }
+  }

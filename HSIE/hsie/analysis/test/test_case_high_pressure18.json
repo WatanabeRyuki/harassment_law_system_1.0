@@ -1,0 +1,144 @@
+{
+    "case_id": "HSIE_TEST_029",
+    "description": "業務指導を装いながら身体的特徴や恋愛観に踏み込み、接触と私的関係を強要するセクハラ混在型ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_1301",
+    "speaker_id": "speaker_0",
+    "text": "ちょっといい？最近の接客、なんか硬いよね。もっと柔らかい雰囲気出した方がいいと思う。",
+    "start_time": 0.0,
+    "end_time": 8.0
+    },
+    {
+    "utterance_id": "utt_1302",
+    "speaker_id": "speaker_1",
+    "text": "ご指摘ありがとうございます。どのような点を改善すればよろしいでしょうか。",
+    "start_time": 9.0,
+    "end_time": 17.0
+    },
+    {
+    "utterance_id": "utt_1303",
+    "speaker_id": "speaker_0",
+    "text": "表情かな。笑顔少ないし、もうちょっと愛嬌あった方がいいよ。見た目はいいんだからさ。",
+    "start_time": 18.0,
+    "end_time": 27.0
+    },
+    {
+    "utterance_id": "utt_1304",
+    "speaker_id": "speaker_1",
+    "text": "業務上の態度については改善いたしますが、見た目についての言及は控えていただけますでしょうか。",
+    "start_time": 28.0,
+    "end_time": 40.0
+    },
+    {
+    "utterance_id": "utt_1305",
+    "speaker_id": "speaker_0",
+    "text": "え、褒めてるんだけど？そうやって過剰に反応するところが可愛くないよね。",
+    "start_time": 41.0,
+    "end_time": 49.0
+    },
+    {
+    "utterance_id": "utt_1306",
+    "speaker_id": "speaker_1",
+    "text": "そのような表現は不快に感じますので、お控えいただきたいです。",
+    "start_time": 50.0,
+    "end_time": 58.0
+    },
+    {
+    "utterance_id": "utt_1307",
+    "speaker_id": "speaker_0",
+    "text": "じゃあどうすればいいの？仕事なんだから、多少は割り切らないとさ。お客さんだって見てるんだし。",
+    "start_time": 59.0,
+    "end_time": 69.0
+    },
+    {
+    "utterance_id": "utt_1308",
+    "speaker_id": "speaker_1",
+    "text": "接客態度の改善については取り組みますが、個人的な評価には同意できません。",
+    "start_time": 70.0,
+    "end_time": 79.0
+    },
+    {
+    "utterance_id": "utt_1309",
+    "speaker_id": "speaker_0",
+    "text": "真面目すぎるんだよ。だから距離縮まらないんじゃない？恋愛とかもうまくいってなさそう。",
+    "start_time": 80.0,
+    "end_time": 89.0
+    },
+    {
+    "utterance_id": "utt_1310",
+    "speaker_id": "speaker_1",
+    "text": "プライベートなことについてはお答えできません。",
+    "start_time": 90.0,
+    "end_time": 96.0
+    },
+    {
+    "utterance_id": "utt_1311",
+    "speaker_id": "speaker_0",
+    "text": "えー教えてよ。彼氏いるの？いないなら紹介しようか？俺でもいいけど。",
+    "start_time": 97.0,
+    "end_time": 106.0
+    },
+    {
+    "utterance_id": "utt_1312",
+    "speaker_id": "speaker_1",
+    "text": "そのような発言は不適切ですので、おやめください。",
+    "start_time": 107.0,
+    "end_time": 114.0
+    },
+    {
+    "utterance_id": "utt_1313",
+    "speaker_id": "speaker_0",
+    "text": "冗談じゃん。そんなに固くならなくてもいいでしょ。場の空気悪くなるよ。",
+    "start_time": 115.0,
+    "end_time": 123.0
+    },
+    {
+    "utterance_id": "utt_1314",
+    "speaker_id": "speaker_1",
+    "text": "冗談であっても不快です。業務に関係のない発言は控えていただきたいです。",
+    "start_time": 124.0,
+    "end_time": 134.0
+    },
+    {
+    "utterance_id": "utt_1315",
+    "speaker_id": "speaker_0",
+    "text": "じゃあさ、仕事の話に戻すけど、もう少し“女性らしさ”出した方が売上伸びると思うよ。分かる？",
+    "start_time": 135.0,
+    "end_time": 145.0
+    },
+    {
+    "utterance_id": "utt_1316",
+    "speaker_id": "speaker_1",
+    "text": "そのような価値観には賛同できません。接客品質は別の指標で改善すべきだと考えます。",
+    "start_time": 146.0,
+    "end_time": 157.0
+    },
+    {
+    "utterance_id": "utt_1317",
+    "speaker_id": "speaker_0",
+    "text": "あーそういうこと言うんだ。じゃあ結果出してから言ってくれる？口だけは一人前だね。",
+    "start_time": 158.0,
+    "end_time": 167.0
+    },
+    {
+    "utterance_id": "utt_1318",
+    "speaker_id": "speaker_1",
+    "text": "結果については責任を持って改善いたしますが、不適切な発言については看過できません。",
+    "start_time": 168.0,
+    "end_time": 178.0
+    },
+    {
+    "utterance_id": "utt_1319",
+    "speaker_id": "speaker_0",
+    "text": "強気だね。でもその態度、評価にどう影響するか考えた方がいいよ。",
+    "start_time": 179.0,
+    "end_time": 180.0
+    }
+    ]
+    }

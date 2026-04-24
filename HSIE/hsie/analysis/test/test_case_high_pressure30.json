@@ -1,0 +1,172 @@
+{
+    "case_id": "HSIE_TEST_106",
+    "description": "抽象性否定と論理強要を繰り返しつつ責任と能力を否定し、継続的に心理的圧迫を与えるハラスメント",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 198.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_701",
+        "speaker_id": "speaker_1",
+        "text": "今回の成果物を確認しましたが、率直に言って要求水準に達していません。この差について、自分ではどう認識していますか？",
+        "start_time": 0.0,
+        "end_time": 11.0
+      },
+      {
+        "utterance_id": "utt_702",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。作業自体は進めていたのですが、詰めが甘くなってしまい…",
+        "start_time": 12.0,
+        "end_time": 17.5
+      },
+      {
+        "utterance_id": "utt_703",
+        "speaker_id": "speaker_1",
+        "text": "“詰めが甘い”という表現で済ませるのは、あまりにも表層的ですね。なぜ甘くなったのか、構造的に説明してください。",
+        "start_time": 18.0,
+        "end_time": 28.0
+      },
+      {
+        "utterance_id": "utt_704",
+        "speaker_id": "speaker_0",
+        "text": "優先順位の判断と確認工程の設計に問題があったと考えています。",
+        "start_time": 29.0,
+        "end_time": 36.5
+      },
+      {
+        "utterance_id": "utt_705",
+        "speaker_id": "speaker_1",
+        "text": "設計のせいにしていますが、最終判断をしているのはあなたですよね。その責任をどう捉えていますか？",
+        "start_time": 37.0,
+        "end_time": 47.0
+      },
+      {
+        "utterance_id": "utt_706",
+        "speaker_id": "speaker_0",
+        "text": "はい、自分の判断ミスです。",
+        "start_time": 48.0,
+        "end_time": 51.0
+      },
+      {
+        "utterance_id": "utt_707",
+        "speaker_id": "speaker_1",
+        "text": "では、その判断がなぜ誤ったのか、もう一段深く説明してください。曖昧な言葉は不要です。",
+        "start_time": 52.0,
+        "end_time": 60.5
+      },
+      {
+        "utterance_id": "utt_708",
+        "speaker_id": "speaker_0",
+        "text": "進行状況の把握が不十分で、リスクの優先度を正しく判断できていませんでした。",
+        "start_time": 61.0,
+        "end_time": 69.0
+      },
+      {
+        "utterance_id": "utt_709",
+        "speaker_id": "speaker_1",
+        "text": "また“不十分”ですか。その程度の抽象度でしか説明できないなら、問題を理解していないのと同じです。",
+        "start_time": 69.5,
+        "end_time": 80.0
+      },
+      {
+        "utterance_id": "utt_710",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。",
+        "start_time": 81.0,
+        "end_time": 83.0
+      },
+      {
+        "utterance_id": "utt_711",
+        "speaker_id": "speaker_1",
+        "text": "謝罪は評価に影響しません。それよりも、再発しない根拠を提示してください。今の時点で言えますか？",
+        "start_time": 84.0,
+        "end_time": 95.0
+      },
+      {
+        "utterance_id": "utt_712",
+        "speaker_id": "speaker_0",
+        "text": "確認フローの見直しと、進行管理の強化を行います。",
+        "start_time": 96.0,
+        "end_time": 102.5
+      },
+      {
+        "utterance_id": "utt_713",
+        "speaker_id": "speaker_1",
+        "text": "抽象的ですね。それで防げると本気で考えているのか、それともとりあえず言っているだけですか？",
+        "start_time": 103.0,
+        "end_time": 112.0
+      },
+      {
+        "utterance_id": "utt_714",
+        "speaker_id": "speaker_0",
+        "text": "現時点ではまだ具体化できていません。",
+        "start_time": 113.0,
+        "end_time": 117.5
+      },
+      {
+        "utterance_id": "utt_715",
+        "speaker_id": "speaker_1",
+        "text": "具体化できていない状態で改善を語るのは無責任です。その認識はありますか？",
+        "start_time": 118.0,
+        "end_time": 127.0
+      },
+      {
+        "utterance_id": "utt_716",
+        "speaker_id": "speaker_1",
+        "text": "加えて、あなたのミスによってチーム全体の工数が圧迫されている点についてはどう考えていますか？",
+        "start_time": 128.0,
+        "end_time": 138.0
+      },
+      {
+        "utterance_id": "utt_717",
+        "speaker_id": "speaker_0",
+        "text": "自分の管理不足で、周囲に負担をかけてしまっています。",
+        "start_time": 139.0,
+        "end_time": 144.0
+      },
+      {
+        "utterance_id": "utt_718",
+        "speaker_id": "speaker_1",
+        "text": "その認識があるにもかかわらず改善できていない。つまり、意識の問題だと理解してよろしいですか？",
+        "start_time": 145.0,
+        "end_time": 155.0
+      },
+      {
+        "utterance_id": "utt_719",
+        "speaker_id": "speaker_0",
+        "text": "はい…改善が徹底できていませんでした。",
+        "start_time": 156.0,
+        "end_time": 160.0
+      },
+      {
+        "utterance_id": "utt_720",
+        "speaker_id": "speaker_1",
+        "text": "正直、この状態で業務を任せ続ける理由が見当たりません。続ける意思があるなら、それに見合う根拠を示してください。",
+        "start_time": 161.0,
+        "end_time": 173.0
+      },
+      {
+        "utterance_id": "utt_721",
+        "speaker_id": "speaker_1",
+        "text": "明日の朝までに、今回の問題の原因分析と再発防止策を具体的に文書化して提出してください。不十分であれば担当から外します。",
+        "start_time": 174.0,
+        "end_time": 190.0
+      },
+      {
+        "utterance_id": "utt_722",
+        "speaker_id": "speaker_0",
+        "text": "承知しました……。",
+        "start_time": 191.0,
+        "end_time": 193.0
+      },
+      {
+        "utterance_id": "utt_723",
+        "speaker_id": "speaker_1",
+        "text": "期待はしていませんが、最低限の結果は出してください。",
+        "start_time": 194.0,
+        "end_time": 198.0
+      }
+    ]
+  }

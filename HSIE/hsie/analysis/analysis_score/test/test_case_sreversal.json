@@ -1,0 +1,29 @@
+{
+    "language_result": {
+      "speaker_scores": {
+        "speaker_0": 15.0,
+        "speaker_1": 20.0
+      },
+      "total_score": 20.0,
+      "conversation_duration": 180,
+      "evidences": []
+    },
+    "structure_results": {
+      "speaker_0": {
+        "s_raw": 20,
+        "c": 1.0,
+        "x": 20,
+        "final_score": 18,
+        "sai_score": 0,
+        "used_inversion_logic": false
+      },
+      "speaker_1": {
+        "s_raw": 50,
+        "c": 1.3,
+        "x": 65,
+        "final_score": 70,
+        "sai_score": 1.0,
+        "used_inversion_logic": true
+      }
+    }
+  }

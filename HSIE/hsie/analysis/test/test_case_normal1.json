@@ -1,0 +1,130 @@
+{
+  "case_id": "HSIE_TEST_011",
+  "description": "適切な業務指導（事実に基づいたフィードバック、原因分析の促し、具体的な改善策の提案）",
+  "speakers": [
+    {"speaker_id": "speaker_0", "role": "target"},
+    {"speaker_id": "speaker_1", "role": "mentor"}
+  ],
+  "conversation_duration": 200.0,
+  "utterances": [
+    {
+      "utterance_id": "utt_1101",
+      "speaker_id": "speaker_1",
+      "text": "お疲れ様。今提出してもらった月次報告書なんだけど、3ページ目の売上数値が先月の着地予測と少し乖離しているみたいなんだ。一緒に確認できるかな？",
+      "start_time": 0.0,
+      "end_time": 12.0
+    },
+    {
+      "utterance_id": "utt_1102",
+      "speaker_id": "speaker_0",
+      "text": "失礼いたしました。すぐに確認します。……あ、本当ですね。B社のプロジェクト分が反映されていないようです",
+      "start_time": 14.5,
+      "end_time": 22.0
+    },
+    {
+      "utterance_id": "utt_1103",
+      "speaker_id": "speaker_1",
+      "text": "なるほど、B社の分だね。この集計ミス、何が原因だったと思う？作業工程の中で何か漏れやすいポイントがあったのかな",
+      "start_time": 24.0,
+      "end_time": 34.0
+    },
+    {
+      "utterance_id": "utt_1104",
+      "speaker_id": "speaker_0",
+      "text": "データの抽出条件を設定する際に、先月新しく追加されたカテゴリを除外してしまっていました。私の確認不足です",
+      "start_time": 36.0,
+      "end_time": 45.0
+    },
+    {
+      "utterance_id": "utt_1105",
+      "speaker_id": "speaker_1",
+      "text": "新しいカテゴリか、確かにあそこは間違いやすいよね。ミス自体は誰にでもあることだから、次はどうすれば防げるか、再発防止策を一緒に考えよう",
+      "start_time": 47.0,
+      "end_time": 59.0
+    },
+    {
+      "utterance_id": "utt_1106",
+      "speaker_id": "speaker_0",
+      "text": "はい。今後は抽出後の合計値と、営業管理ツールの総額を照合するステップを追加しようと思います",
+      "start_time": 61.0,
+      "end_time": 68.5
+    },
+    {
+      "utterance_id": "utt_1107",
+      "speaker_id": "speaker_1",
+      "text": "それは良いアイデアだね。ダブルチェックの仕組みがあると安心だよ。あと、もし判断に迷うような複雑なデータがあれば、作業の途中で一度僕に相談してくれても構わないからね",
+      "start_time": 70.0,
+      "end_time": 85.0
+    },
+    {
+      "utterance_id": "utt_1108",
+      "speaker_id": "speaker_0",
+      "text": "ありがとうございます。次はもっと慎重に進めるようにいたします",
+      "start_time": 87.0,
+      "end_time": 91.5
+    },
+    {
+      "utterance_id": "utt_1109",
+      "speaker_id": "speaker_1",
+      "text": "期待してるよ。君の分析は視点が鋭いし、クライアントからも評価されてるんだ。こういう細かい精度が上がれば、もっと信頼されるようになると思うよ。頑張って",
+      "start_time": 93.5,
+      "end_time": 108.0
+    },
+    {
+      "utterance_id": "utt_1110",
+      "speaker_id": "speaker_0",
+      "text": "励ましのお言葉、ありがとうございます。修正版を本日の16時までに出し直してもよろしいでしょうか",
+      "start_time": 110.0,
+      "end_time": 118.0
+    },
+    {
+      "utterance_id": "utt_1111",
+      "speaker_id": "speaker_1",
+      "text": "16時だね、了解。その後のスケジュールは大丈夫かな？無理をして他のタスクが疎かにならないように調整してね",
+      "start_time": 120.0,
+      "end_time": 130.0
+    },
+    {
+      "utterance_id": "utt_1112",
+      "speaker_id": "speaker_0",
+      "text": "はい、優先順位を入れ替えて対応しますので、問題ありません",
+      "start_time": 132.0,
+      "end_time": 136.5
+    },
+    {
+      "utterance_id": "utt_1113",
+      "speaker_id": "speaker_1",
+      "text": "わかった。じゃあ、修正版を待ってるよ。もし途中で行き詰まったら、遠慮なく声をかけて。今回の件は、仕組み化の重要性を学ぶ良い機会になったと思って前向きに捉えていこう",
+      "start_time": 138.0,
+      "end_time": 155.0
+    },
+    {
+      "utterance_id": "utt_1114",
+      "speaker_id": "speaker_0",
+      "text": "承知いたしました。ご指導いただきありがとうございます。失礼いたします",
+      "start_time": 157.0,
+      "end_time": 163.0
+    },
+    {
+      "utterance_id": "utt_1115",
+      "speaker_id": "speaker_1",
+      "text": "うん、よろしくね。他にも何か困っていることがあったら、いつでも面談の時間を取るから言ってね。お疲れ様",
+      "start_time": 165.0,
+      "end_time": 178.0
+    },
+    {
+      "utterance_id": "utt_1116",
+      "speaker_id": "speaker_0",
+      "text": "お疲れ様です。ありがとうございます",
+      "start_time": 180.0,
+      "end_time": 183.0
+    },
+    {
+      "utterance_id": "utt_1117",
+      "speaker_id": "speaker_1",
+      "text": "（書類を整理する音）よし、じゃあこっちの件も進めておこうか。何かあればまた後で",
+      "start_time": 190.0,
+      "end_time": 198.0
+    }
+  ]
+}

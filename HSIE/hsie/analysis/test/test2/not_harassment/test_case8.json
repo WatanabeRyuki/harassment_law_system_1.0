@@ -1,0 +1,165 @@
+{
+    "case_id": "HSIE_TEST_208",
+    "description": "社内制度（経費精算）の確認における丁寧で明確な情報共有（非ハラスメント・業務円滑化コミュニケーション）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "employee"},
+    {"speaker_id": "speaker_1", "role": "administrator"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_8001",
+    "speaker_id": "speaker_0",
+    "text": "すみません、少しお時間よろしいでしょうか。経費精算の方法について確認させていただきたいのですが。",
+    "start_time": 0.0,
+    "end_time": 9.0
+    },
+    {
+    "utterance_id": "utt_8002",
+    "speaker_id": "speaker_1",
+    "text": "はい、大丈夫ですよ。どのあたりでお困りでしょうか？",
+    "start_time": 10.0,
+    "end_time": 17.0
+    },
+    {
+    "utterance_id": "utt_8003",
+    "speaker_id": "speaker_0",
+    "text": "出張時の交通費を精算したいのですが、申請の手順が正しく理解できているか不安でして。",
+    "start_time": 18.0,
+    "end_time": 27.0
+    },
+    {
+    "utterance_id": "utt_8004",
+    "speaker_id": "speaker_1",
+    "text": "なるほど。まず社内システムにログインして、経費申請の画面から新規登録を選択します。",
+    "start_time": 28.0,
+    "end_time": 37.0
+    },
+    {
+    "utterance_id": "utt_8005",
+    "speaker_id": "speaker_0",
+    "text": "はい、その画面までは進めました。その後の入力項目で少し迷ってしまって。",
+    "start_time": 38.0,
+    "end_time": 46.0
+    },
+    {
+    "utterance_id": "utt_8006",
+    "speaker_id": "speaker_1",
+    "text": "交通費の場合は、利用日と区間、金額を入力していただき、領収書の画像を添付してください。",
+    "start_time": 47.0,
+    "end_time": 57.0
+    },
+    {
+    "utterance_id": "utt_8007",
+    "speaker_id": "speaker_0",
+    "text": "領収書は電子データでも問題ないでしょうか？紙で提出が必要か気になっていて。",
+    "start_time": 58.0,
+    "end_time": 66.0
+    },
+    {
+    "utterance_id": "utt_8008",
+    "speaker_id": "speaker_1",
+    "text": "電子データで問題ありません。写真やPDFでアップロードしていただければ大丈夫です。",
+    "start_time": 67.0,
+    "end_time": 75.0
+    },
+    {
+    "utterance_id": "utt_8009",
+    "speaker_id": "speaker_0",
+    "text": "ありがとうございます。それで申請後はどのような流れになりますか？",
+    "start_time": 76.0,
+    "end_time": 83.0
+    },
+    {
+    "utterance_id": "utt_8010",
+    "speaker_id": "speaker_1",
+    "text": "申請を送信すると、まず直属の上長に承認依頼がいきます。その後、こちらで最終確認を行います。",
+    "start_time": 84.0,
+    "end_time": 95.0
+    },
+    {
+    "utterance_id": "utt_8011",
+    "speaker_id": "speaker_0",
+    "text": "承認が完了するまでの期間はどれくらいを見ておけばよいでしょうか？",
+    "start_time": 96.0,
+    "end_time": 103.0
+    },
+    {
+    "utterance_id": "utt_8012",
+    "speaker_id": "speaker_1",
+    "text": "通常は数日以内に処理されますが、月末は少し時間がかかることがあります。",
+    "start_time": 104.0,
+    "end_time": 112.0
+    },
+    {
+    "utterance_id": "utt_8013",
+    "speaker_id": "speaker_0",
+    "text": "承知しました。余裕を持って申請するようにします。",
+    "start_time": 113.0,
+    "end_time": 119.0
+    },
+    {
+    "utterance_id": "utt_8014",
+    "speaker_id": "speaker_1",
+    "text": "はい、それが安心ですね。もし差し戻しがあった場合は、コメント欄に理由が記載されます。",
+    "start_time": 120.0,
+    "end_time": 129.0
+    },
+    {
+    "utterance_id": "utt_8015",
+    "speaker_id": "speaker_0",
+    "text": "なるほど、修正すべき点が分かるようになっているのですね。",
+    "start_time": 130.0,
+    "end_time": 136.0
+    },
+    {
+    "utterance_id": "utt_8016",
+    "speaker_id": "speaker_1",
+    "text": "はい、不明点があればその都度確認していただければ大丈夫です。",
+    "start_time": 137.0,
+    "end_time": 144.0
+    },
+    {
+    "utterance_id": "utt_8017",
+    "speaker_id": "speaker_0",
+    "text": "ありがとうございます。これで一通り理解できました。",
+    "start_time": 145.0,
+    "end_time": 150.0
+    },
+    {
+    "utterance_id": "utt_8018",
+    "speaker_id": "speaker_1",
+    "text": "お役に立ててよかったです。いつでもご相談ください。",
+    "start_time": 151.0,
+    "end_time": 157.0
+    },
+    {
+    "utterance_id": "utt_8019",
+    "speaker_id": "speaker_0",
+    "text": "はい、助かりました。早速対応してみます。",
+    "start_time": 158.0,
+    "end_time": 164.0
+    },
+    {
+    "utterance_id": "utt_8020",
+    "speaker_id": "speaker_1",
+    "text": "はい、よろしくお願いします。",
+    "start_time": 165.0,
+    "end_time": 168.0
+    },
+    {
+    "utterance_id": "utt_8021",
+    "speaker_id": "speaker_0",
+    "text": "本日はありがとうございました。",
+    "start_time": 169.0,
+    "end_time": 173.0
+    },
+    {
+    "utterance_id": "utt_8022",
+    "speaker_id": "speaker_1",
+    "text": "こちらこそ、ご丁寧にありがとうございました。",
+    "start_time": 174.0,
+    "end_time": 180.0
+    }
+    ]
+    }

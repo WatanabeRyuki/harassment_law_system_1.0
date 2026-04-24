@@ -1,0 +1,193 @@
+{
+    "case_id": "HSIE_TEST_014_SAFE",
+    "description": "意見対立時における感情の高まりを伴いつつも論点に集中した建設的ディスカッション",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "participant_A"},
+      {"speaker_id": "speaker_1", "role": "participant_B"}
+    ],
+    "conversation_duration": 187.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_0",
+        "text": "この施策はリスクが高すぎると思います。今の段階で実行するのは早いです。",
+        "start_time": 0.0,
+        "end_time": 6.0
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_1",
+        "text": "いや、むしろ今だからこそやるべきです。市場のタイミングを逃します。",
+        "start_time": 7.0,
+        "end_time": 13.0
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_0",
+        "text": "タイミングは重要ですが、検証不足のまま進めるのは危険です！",
+        "start_time": 14.0,
+        "end_time": 20.0
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_1",
+        "text": "検証を待っていたら機会損失になります！そのリスクも考えるべきです！",
+        "start_time": 21.0,
+        "end_time": 27.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_0",
+        "text": "分かっています！ただ、失敗した場合の影響が大きすぎると言っているんです！",
+        "start_time": 28.0,
+        "end_time": 35.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_1",
+        "text": "そのリスクは織り込み済みです！小さく試して改善する方が現実的です！",
+        "start_time": 36.0,
+        "end_time": 42.0
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_0",
+        "text": "小さく試すと言いますが、その設計がまだ曖昧ですよね！",
+        "start_time": 43.0,
+        "end_time": 49.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_1",
+        "text": "そこはこれから詰めればいい！まず動かないと見えないこともある！",
+        "start_time": 50.0,
+        "end_time": 56.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_0",
+        "text": "動く前に整理すべきポイントがあると言っています！順序が逆です！",
+        "start_time": 57.0,
+        "end_time": 63.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_1",
+        "text": "順序にこだわりすぎて機会を逃す方が問題です！スピードも重要です！",
+        "start_time": 64.0,
+        "end_time": 70.0
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_0",
+        "text": "スピードだけで判断するのは危険です！品質も同じくらい重要です！",
+        "start_time": 71.0,
+        "end_time": 77.0
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_1",
+        "text": "だからこそ、小さく回して品質を上げると言っているんです！",
+        "start_time": 78.0,
+        "end_time": 84.0
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_0",
+        "text": "その“小さく”の定義が曖昧なんです！どこまでが許容範囲ですか！",
+        "start_time": 85.0,
+        "end_time": 91.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_1",
+        "text": "いい指摘です！そこは確かに具体化が必要ですね！",
+        "start_time": 92.0,
+        "end_time": 97.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_0",
+        "text": "例えば、影響範囲を限定したテストから始める必要があると思います！",
+        "start_time": 98.0,
+        "end_time": 105.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_1",
+        "text": "それなら賛成です！一部ユーザーでの検証から始める形ですね！",
+        "start_time": 106.0,
+        "end_time": 112.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_0",
+        "text": "はい、それならリスクを抑えつつスピードも担保できます！",
+        "start_time": 113.0,
+        "end_time": 119.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_1",
+        "text": "いいですね！それでいきましょう！",
+        "start_time": 120.0,
+        "end_time": 123.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_0",
+        "text": "では、対象範囲と評価指標を整理します。",
+        "start_time": 124.0,
+        "end_time": 130.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_1",
+        "text": "こちらは実行スケジュールとリソースを詰めます。",
+        "start_time": 131.0,
+        "end_time": 136.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_0",
+        "text": "さきほどは強く言ってしまいすみません。ただ、リスクはしっかり見ておきたくて。",
+        "start_time": 137.0,
+        "end_time": 145.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_1",
+        "text": "いえ、重要な指摘でした。おかげで具体化できました。",
+        "start_time": 146.0,
+        "end_time": 151.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。良い形にまとまったと思います。",
+        "start_time": 152.0,
+        "end_time": 157.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_1",
+        "text": "はい、お互いの視点が活きましたね。",
+        "start_time": 158.0,
+        "end_time": 162.0
+      },
+      {
+        "utterance_id": "utt_025",
+        "speaker_id": "speaker_0",
+        "text": "ではこの方針で進めましょう。",
+        "start_time": 170.0,
+        "end_time": 174.0
+      },
+      {
+        "utterance_id": "utt_026",
+        "speaker_id": "speaker_1",
+        "text": "了解です。進めます。",
+        "start_time": 175.0,
+        "end_time": 187.0
+      }
+    ]
+  }

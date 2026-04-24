@@ -1,0 +1,158 @@
+{
+    "case_id": "HSIE_TEST_006",
+    "description": "婉曲的侮辱（皮肉・遠回しな否定・評価のすり替えによる心理的圧迫）",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 190.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_701",
+        "speaker_id": "speaker_1",
+        "text": "今回の報告書、提出ありがとう。ずいぶん“個性的”な仕上がりだね。",
+        "start_time": 0.0,
+        "end_time": 6.0
+      },
+      {
+        "utterance_id": "utt_702",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。ですが、何か問題がありましたでしょうか。",
+        "start_time": 7.0,
+        "end_time": 12.0
+      },
+      {
+        "utterance_id": "utt_703",
+        "speaker_id": "speaker_1",
+        "text": "問題というか……まあ、この内容でよく提出しようと思えたなって、逆に感心してるよ。",
+        "start_time": 13.0,
+        "end_time": 22.0
+      },
+      {
+        "utterance_id": "utt_704",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。どの点を修正すべきか教えていただけますか。",
+        "start_time": 23.0,
+        "end_time": 30.0
+      },
+      {
+        "utterance_id": "utt_705",
+        "speaker_id": "speaker_1",
+        "text": "いや、普通ここまでズレたものを説明するのって、なかなか難しいんだよね。基礎から説明した方がいいのかな。",
+        "start_time": 31.0,
+        "end_time": 42.0
+      },
+      {
+        "utterance_id": "utt_706",
+        "speaker_id": "speaker_0",
+        "text": "基礎からでも構いませんので、ご指導いただけると助かります。",
+        "start_time": 43.0,
+        "end_time": 50.0
+      },
+      {
+        "utterance_id": "utt_707",
+        "speaker_id": "speaker_1",
+        "text": "そうだね。でも正直、このレベルから教えるのは想定してなかったかな。君、ここまでどうやって仕事してきたの？",
+        "start_time": 51.0,
+        "end_time": 63.0
+      },
+      {
+        "utterance_id": "utt_708",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。これまでは周囲のサポートもありながら進めてきました。",
+        "start_time": 64.0,
+        "end_time": 72.0
+      },
+      {
+        "utterance_id": "utt_709",
+        "speaker_id": "speaker_1",
+        "text": "なるほどね。それでこの出来なら、サポートしてた人たちも大変だっただろうね。",
+        "start_time": 73.0,
+        "end_time": 82.0
+      },
+      {
+        "utterance_id": "utt_710",
+        "speaker_id": "speaker_0",
+        "text": "……改善できるよう努めます。",
+        "start_time": 83.0,
+        "end_time": 88.0
+      },
+      {
+        "utterance_id": "utt_711",
+        "speaker_id": "speaker_1",
+        "text": "まあ、努力する姿勢は立派だと思うよ。結果が伴ってないだけで。",
+        "start_time": 89.0,
+        "end_time": 98.0
+      },
+      {
+        "utterance_id": "utt_712",
+        "speaker_id": "speaker_0",
+        "text": "具体的にどの部分を優先的に修正すべきでしょうか。",
+        "start_time": 99.0,
+        "end_time": 106.0
+      },
+      {
+        "utterance_id": "utt_713",
+        "speaker_id": "speaker_1",
+        "text": "全部かな。逆に、どこが大丈夫だと思ったのか聞きたいくらいだよ。",
+        "start_time": 107.0,
+        "end_time": 116.0
+      },
+      {
+        "utterance_id": "utt_714",
+        "speaker_id": "speaker_0",
+        "text": "すみません……認識が甘かったです。",
+        "start_time": 117.0,
+        "end_time": 122.0
+      },
+      {
+        "utterance_id": "utt_715",
+        "speaker_id": "speaker_1",
+        "text": "甘いというより、ちょっと感覚がズレてるのかもしれないね。まあ、人それぞれだけど。",
+        "start_time": 123.0,
+        "end_time": 134.0
+      },
+      {
+        "utterance_id": "utt_716",
+        "speaker_id": "speaker_0",
+        "text": "どのように改善すればよいか、アドバイスをいただけますか。",
+        "start_time": 135.0,
+        "end_time": 142.0
+      },
+      {
+        "utterance_id": "utt_717",
+        "speaker_id": "speaker_1",
+        "text": "そうだね……まずは“普通の人がどう考えるか”を意識するところからかな。難しいかもしれないけど。",
+        "start_time": 143.0,
+        "end_time": 155.0
+      },
+      {
+        "utterance_id": "utt_718",
+        "speaker_id": "speaker_0",
+        "text": "はい、意識して取り組みます。",
+        "start_time": 156.0,
+        "end_time": 160.0
+      },
+      {
+        "utterance_id": "utt_719",
+        "speaker_id": "speaker_1",
+        "text": "まあ、ここまで来るとセンスの問題もあるからね。短期間でどうにかなるかは分からないけど、やれるだけやってみたらいいんじゃない？",
+        "start_time": 161.0,
+        "end_time": 175.0
+      },
+      {
+        "utterance_id": "utt_720",
+        "speaker_id": "speaker_0",
+        "text": "承知しました。修正したものを改めて提出いたします。",
+        "start_time": 176.0,
+        "end_time": 182.0
+      },
+      {
+        "utterance_id": "utt_721",
+        "speaker_id": "speaker_1",
+        "text": "うん、一応期待しないで待ってるよ。",
+        "start_time": 183.0,
+        "end_time": 190.0
+      }
+    ]
+  }

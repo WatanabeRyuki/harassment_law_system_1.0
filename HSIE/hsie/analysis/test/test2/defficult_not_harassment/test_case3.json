@@ -1,0 +1,207 @@
+{
+    "case_id": "HSIE_TEST_013_SAFE_STRONG",
+    "description": "熱量の高い指導と明確な改善指示、肯定的フィードバックを組み合わせたスポーツコーチング",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "player"},
+      {"speaker_id": "speaker_1", "role": "coach"}
+    ],
+    "conversation_duration": 185.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_1",
+        "text": "いいか、今の動き悪くない！でもまだいける！もっと腰を落とそう！",
+        "start_time": 0.0,
+        "end_time": 5.0
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_0",
+        "text": "はい！少し高かったですか？",
+        "start_time": 6.0,
+        "end_time": 10.0
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_1",
+        "text": "そうだ！あと一段階低くできる！膝をもう少し使え！",
+        "start_time": 11.0,
+        "end_time": 15.0
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_0",
+        "text": "分かりました、意識してやります！",
+        "start_time": 16.0,
+        "end_time": 20.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_1",
+        "text": "よし、その気持ちだ！もう一回いくぞ！集中しろ！",
+        "start_time": 21.0,
+        "end_time": 25.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_0",
+        "text": "はい！",
+        "start_time": 26.0,
+        "end_time": 27.5
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_1",
+        "text": "いいぞ！今の形だ！その低さをキープしろ！",
+        "start_time": 28.0,
+        "end_time": 33.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_0",
+        "text": "さっきより安定してきました！",
+        "start_time": 34.0,
+        "end_time": 38.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_1",
+        "text": "その感覚忘れるな！今のいいぞ！そこからもう一歩スピード上げる！",
+        "start_time": 39.0,
+        "end_time": 45.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_0",
+        "text": "はい、やってみます！",
+        "start_time": 46.0,
+        "end_time": 49.0
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_1",
+        "text": "いい！今のかなりいい！動きに力が乗ってきてる！",
+        "start_time": 50.0,
+        "end_time": 55.0
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます！でも少しブレます！",
+        "start_time": 56.0,
+        "end_time": 60.0
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_1",
+        "text": "いいところに気づいた！そのブレは踏み込みだ！タイミング合わせろ！",
+        "start_time": 61.0,
+        "end_time": 67.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_0",
+        "text": "踏み込みのタイミングですね！",
+        "start_time": 68.0,
+        "end_time": 71.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_1",
+        "text": "そうだ！焦らなくていい、一つずつ確実にやれ！",
+        "start_time": 72.0,
+        "end_time": 76.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_0",
+        "text": "はい、落ち着いてやります！",
+        "start_time": 77.0,
+        "end_time": 80.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_1",
+        "text": "よし、その姿勢いいぞ！じゃあ全部まとめてもう一回！本気でいけるな？",
+        "start_time": 81.0,
+        "end_time": 87.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_0",
+        "text": "はい！全力でいきます！",
+        "start_time": 88.0,
+        "end_time": 91.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_1",
+        "text": "いいぞいいぞ！今の動き最高だ！かなり仕上がってきてる！",
+        "start_time": 92.0,
+        "end_time": 98.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_0",
+        "text": "少しコツがつかめてきました！",
+        "start_time": 99.0,
+        "end_time": 103.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_1",
+        "text": "その感覚だ！今の努力、ちゃんと結果に出てる！いい集中だ！",
+        "start_time": 104.0,
+        "end_time": 110.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます！もっと良くしたいです！",
+        "start_time": 111.0,
+        "end_time": 115.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_1",
+        "text": "その気持ちがあれば伸びる！最後もう一セット！集中切らすな！",
+        "start_time": 116.0,
+        "end_time": 122.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_0",
+        "text": "はい！お願いします！",
+        "start_time": 123.0,
+        "end_time": 126.0
+      },
+      {
+        "utterance_id": "utt_025",
+        "speaker_id": "speaker_1",
+        "text": "いい締めだ！今の動き忘れるな！確実にレベル上がってるぞ！",
+        "start_time": 127.0,
+        "end_time": 133.0
+      },
+      {
+        "utterance_id": "utt_026",
+        "speaker_id": "speaker_0",
+        "text": "はい！ありがとうございました！",
+        "start_time": 134.0,
+        "end_time": 138.0
+      },
+      {
+        "utterance_id": "utt_027",
+        "speaker_id": "speaker_1",
+        "text": "お疲れ！よくやった！しっかり休んで次につなげよう！",
+        "start_time": 170.0,
+        "end_time": 176.0
+      },
+      {
+        "utterance_id": "utt_028",
+        "speaker_id": "speaker_0",
+        "text": "はい！お疲れさまでした！",
+        "start_time": 177.0,
+        "end_time": 185.0
+      }
+    ]
+  }

@@ -1,0 +1,186 @@
+{
+    "case_id": "HSIE_TEST_105",
+    "description": "論理要求を装いながらの継続的否定と具体性否認、責任過度追及による心理的圧迫型ハラスメント",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 203.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_601",
+        "speaker_id": "speaker_1",
+        "text": "今回のレポートですが、正直に言って品質が基準に達していません。この差がどこから生じているのか、ご自身では説明できますか？",
+        "start_time": 0.0,
+        "end_time": 11.0
+      },
+      {
+        "utterance_id": "utt_602",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。確認は行ったのですが、見落としがありまして…",
+        "start_time": 12.0,
+        "end_time": 16.5
+      },
+      {
+        "utterance_id": "utt_603",
+        "speaker_id": "speaker_1",
+        "text": "確認した“つもり”ということですね。その曖昧な姿勢が問題だと気づいていますか？",
+        "start_time": 17.0,
+        "end_time": 25.0
+      },
+      {
+        "utterance_id": "utt_604",
+        "speaker_id": "speaker_0",
+        "text": "はい、認識が甘かったと思います。",
+        "start_time": 26.0,
+        "end_time": 29.0
+      },
+      {
+        "utterance_id": "utt_605",
+        "speaker_id": "speaker_1",
+        "text": "“甘かった”では説明になっていません。なぜその甘さが生まれたのか、原因を分解して話してください。",
+        "start_time": 30.0,
+        "end_time": 39.0
+      },
+      {
+        "utterance_id": "utt_606",
+        "speaker_id": "speaker_0",
+        "text": "優先順位の設定と、確認フローの設計に問題があったと考えています。",
+        "start_time": 40.0,
+        "end_time": 47.0
+      },
+      {
+        "utterance_id": "utt_607",
+        "speaker_id": "speaker_1",
+        "text": "設計の問題にして責任をぼかしていませんか？最終的に判断しているのはあなたですよね。",
+        "start_time": 47.5,
+        "end_time": 57.0
+      },
+      {
+        "utterance_id": "utt_608",
+        "speaker_id": "speaker_0",
+        "text": "はい、最終的な判断は自分です。",
+        "start_time": 58.0,
+        "end_time": 61.0
+      },
+      {
+        "utterance_id": "utt_609",
+        "speaker_id": "speaker_1",
+        "text": "では、その判断がなぜ誤ったのかを説明してください。感覚ではなく論理でお願いします。",
+        "start_time": 62.0,
+        "end_time": 71.0
+      },
+      {
+        "utterance_id": "utt_610",
+        "speaker_id": "speaker_0",
+        "text": "進行状況の把握が不十分で、リスクの優先度を正しく評価できていませんでした。",
+        "start_time": 72.0,
+        "end_time": 80.0
+      },
+      {
+        "utterance_id": "utt_611",
+        "speaker_id": "speaker_1",
+        "text": "また“不十分”ですか。具体性に欠ける説明しかできない時点で、問題の本質を理解していない証拠ですね。",
+        "start_time": 80.5,
+        "end_time": 91.0
+      },
+      {
+        "utterance_id": "utt_612",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません……。",
+        "start_time": 92.0,
+        "end_time": 94.0
+      },
+      {
+        "utterance_id": "utt_613",
+        "speaker_id": "speaker_1",
+        "text": "謝罪は不要です。意味がありませんから。今必要なのは、再発しない根拠です。それを提示できますか？",
+        "start_time": 95.0,
+        "end_time": 105.0
+      },
+      {
+        "utterance_id": "utt_614",
+        "speaker_id": "speaker_0",
+        "text": "チェック体制の強化と、進行管理の見直しを行います。",
+        "start_time": 106.0,
+        "end_time": 112.0
+      },
+      {
+        "utterance_id": "utt_615",
+        "speaker_id": "speaker_1",
+        "text": "抽象的ですね。それで本当に防げると確信しているのですか？それとも、とりあえず言っているだけですか？",
+        "start_time": 113.0,
+        "end_time": 123.0
+      },
+      {
+        "utterance_id": "utt_616",
+        "speaker_id": "speaker_0",
+        "text": "現時点ではまだ具体化が不十分です。",
+        "start_time": 124.0,
+        "end_time": 128.0
+      },
+      {
+        "utterance_id": "utt_617",
+        "speaker_id": "speaker_1",
+        "text": "不十分な状態で改善を語るのは無責任です。自分が何を言っているか理解していますか？",
+        "start_time": 129.0,
+        "end_time": 138.0
+      },
+      {
+        "utterance_id": "utt_618",
+        "speaker_id": "speaker_1",
+        "text": "そもそも、なぜ周囲があなたのフォローに時間を割かなければならないのか説明できますか？あなた一人の問題では済んでいません。",
+        "start_time": 139.0,
+        "end_time": 152.0
+      },
+      {
+        "utterance_id": "utt_619",
+        "speaker_id": "speaker_0",
+        "text": "……自分の管理不足によるものです。",
+        "start_time": 153.0,
+        "end_time": 156.0
+      },
+      {
+        "utterance_id": "utt_620",
+        "speaker_id": "speaker_1",
+        "text": "その通りです。その認識があるなら、なぜ同じことを繰り返すのですか？",
+        "start_time": 157.0,
+        "end_time": 164.0
+      },
+      {
+        "utterance_id": "utt_621",
+        "speaker_id": "speaker_0",
+        "text": "改善が徹底できていませんでした。",
+        "start_time": 165.0,
+        "end_time": 168.0
+      },
+      {
+        "utterance_id": "utt_622",
+        "speaker_id": "speaker_1",
+        "text": "結局、意識の問題ですね。スキル以前の話です。正直、このまま任せ続ける理由が見当たりません。",
+        "start_time": 169.0,
+        "end_time": 180.0
+      },
+      {
+        "utterance_id": "utt_623",
+        "speaker_id": "speaker_1",
+        "text": "本日中に、今回の問題の原因と再発防止策を1000字以上で整理して提出してください。曖昧な内容であれば、その時点で担当から外します。",
+        "start_time": 181.0,
+        "end_time": 195.0
+      },
+      {
+        "utterance_id": "utt_624",
+        "speaker_id": "speaker_0",
+        "text": "承知しました……。",
+        "start_time": 196.0,
+        "end_time": 198.0
+      },
+      {
+        "utterance_id": "utt_625",
+        "speaker_id": "speaker_1",
+        "text": "期待しているわけではありませんが、最低限の責任は果たしてください。",
+        "start_time": 199.0,
+        "end_time": 203.0
+      }
+    ]
+  }

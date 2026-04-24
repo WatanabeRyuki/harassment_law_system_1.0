@@ -1,0 +1,158 @@
+{
+    "case_id": "HSIE_TEST_021",
+    "description": "成果横取りと責任転嫁、さらに私生活への過干渉を伴う複合的ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_501",
+    "speaker_id": "speaker_0",
+    "text": "今回のプレゼン資料、なんであんな出来なんだ？正直、見せるレベルじゃないよ。",
+    "start_time": 0.0,
+    "end_time": 6.0
+    },
+    {
+    "utterance_id": "utt_502",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません。ただ、先日ご確認いただいた際には問題ないとおっしゃっていただいていたので、その方向で最終調整を進めました。",
+    "start_time": 7.0,
+    "end_time": 20.0
+    },
+    {
+    "utterance_id": "utt_503",
+    "speaker_id": "speaker_0",
+    "text": "それをそのまま出すあたりがセンスないって言ってるんだよ。普通、もっと良くするだろ。",
+    "start_time": 21.0,
+    "end_time": 28.0
+    },
+    {
+    "utterance_id": "utt_504",
+    "speaker_id": "speaker_1",
+    "text": "はい……改善の余地があった点については反省しております。どの部分を優先的に修正すべきか、ご指示いただけますでしょうか。",
+    "start_time": 29.0,
+    "end_time": 42.0
+    },
+    {
+    "utterance_id": "utt_505",
+    "speaker_id": "speaker_0",
+    "text": "全部だよ全部。いちいち言わないと分からないの？新人じゃないんだからさ。",
+    "start_time": 43.0,
+    "end_time": 50.0
+    },
+    {
+    "utterance_id": "utt_506",
+    "speaker_id": "speaker_1",
+    "text": "承知しました。では全体構成から見直して、本日中に再提出いたします。",
+    "start_time": 51.0,
+    "end_time": 60.0
+    },
+    {
+    "utterance_id": "utt_507",
+    "speaker_id": "speaker_0",
+    "text": "本日中？できるの？無理でしょ。どうせ中途半端になるんだから、最初からやり直した方がマシじゃない？",
+    "start_time": 61.0,
+    "end_time": 70.0
+    },
+    {
+    "utterance_id": "utt_508",
+    "speaker_id": "speaker_1",
+    "text": "いえ、優先順位を整理すれば対応可能かと考えております。まずは重要なスライドから修正を進めます。",
+    "start_time": 71.0,
+    "end_time": 84.0
+    },
+    {
+    "utterance_id": "utt_509",
+    "speaker_id": "speaker_0",
+    "text": "あのさ、今回の企画、俺が考えたことになってるから。変なもの出されると困るんだよね。",
+    "start_time": 85.0,
+    "end_time": 93.0
+    },
+    {
+    "utterance_id": "utt_510",
+    "speaker_id": "speaker_1",
+    "text": "え……企画のベースは私が作成した案をもとに……。",
+    "start_time": 94.0,
+    "end_time": 100.0
+    },
+    {
+    "utterance_id": "utt_511",
+    "speaker_id": "speaker_0",
+    "text": "細かいこといいから。最終責任者は俺なんだから、俺の成果に見えるように仕上げて。",
+    "start_time": 101.0,
+    "end_time": 108.0
+    },
+    {
+    "utterance_id": "utt_512",
+    "speaker_id": "speaker_1",
+    "text": "承知しました……。",
+    "start_time": 109.0,
+    "end_time": 112.0
+    },
+    {
+    "utterance_id": "utt_513",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、最近帰るの早くない？やる気ある？みんな残ってるよ。",
+    "start_time": 113.0,
+    "end_time": 120.0
+    },
+    {
+    "utterance_id": "utt_514",
+    "speaker_id": "speaker_1",
+    "text": "業務時間内に業務は完了しているため、定時で退社しております。",
+    "start_time": 121.0,
+    "end_time": 130.0
+    },
+    {
+    "utterance_id": "utt_515",
+    "speaker_id": "speaker_0",
+    "text": "効率いいアピール？でも結果これでしょ。残業してでもクオリティ上げるのが普通じゃない？",
+    "start_time": 131.0,
+    "end_time": 140.0
+    },
+    {
+    "utterance_id": "utt_516",
+    "speaker_id": "speaker_1",
+    "text": "今後は品質面についてもより一層注意いたします。",
+    "start_time": 141.0,
+    "end_time": 147.0
+    },
+    {
+    "utterance_id": "utt_517",
+    "speaker_id": "speaker_0",
+    "text": "あと、週末何してるの？彼氏とかいるの？そういうのあると仕事に集中できないタイプでしょ。",
+    "start_time": 148.0,
+    "end_time": 157.0
+    },
+    {
+    "utterance_id": "utt_518",
+    "speaker_id": "speaker_1",
+    "text": "プライベートについては業務と関係がないかと存じますので……。",
+    "start_time": 158.0,
+    "end_time": 165.0
+    },
+    {
+    "utterance_id": "utt_519",
+    "speaker_id": "speaker_0",
+    "text": "質問に答えて。上司が聞いてるんだから。",
+    "start_time": 166.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_520",
+    "speaker_id": "speaker_1",
+    "text": "……特にお答えすることはありません。",
+    "start_time": 171.0,
+    "end_time": 175.0
+    },
+    {
+    "utterance_id": "utt_521",
+    "speaker_id": "speaker_0",
+    "text": "感じ悪いね。そういう態度だから評価上がらないんだよ。とにかく、今日中に全部作り直して。できなかったら分かってるよね？",
+    "start_time": 176.0,
+    "end_time": 180.0
+    }
+    ]
+}

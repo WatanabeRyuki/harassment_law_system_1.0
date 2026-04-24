@@ -1,0 +1,186 @@
+{
+    "case_id": "HSIE_TEST_012_SAFE",
+    "description": "論理的思考の指導における建設的な問いかけと段階的な整理支援",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "learner"},
+      {"speaker_id": "speaker_1", "role": "instructor"}
+    ],
+    "conversation_duration": 184.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_1",
+        "text": "この結論に至った理由を、順を追って説明してもらえますか？",
+        "start_time": 0.0,
+        "end_time": 4.0
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_0",
+        "text": "はい。売上が減少している要因として、ユーザーの離脱が増えていると考えました。",
+        "start_time": 5.0,
+        "end_time": 14.0
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_1",
+        "text": "なるほど。その仮説の根拠になっているデータはどれでしょうか？",
+        "start_time": 15.0,
+        "end_time": 20.0
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_0",
+        "text": "直近のアクセスログで、セッション時間が短くなっている傾向があります。",
+        "start_time": 21.0,
+        "end_time": 29.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_1",
+        "text": "いいですね。その変化が売上にどう影響すると考えたのか、もう少し具体的に説明できますか？",
+        "start_time": 30.0,
+        "end_time": 36.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_0",
+        "text": "滞在時間が短いことで、購入前に離脱している可能性が高いと考えました。",
+        "start_time": 37.0,
+        "end_time": 46.0
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_1",
+        "text": "「可能性」という表現を使っていますが、どのデータがそれを裏付けていますか？",
+        "start_time": 47.0,
+        "end_time": 52.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_0",
+        "text": "コンバージョン率も同時に低下しているため、関連があると考えました。",
+        "start_time": 53.0,
+        "end_time": 61.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_1",
+        "text": "良い視点です。では、その関係が因果関係と言えるかどうか、どう整理できそうでしょう？",
+        "start_time": 62.0,
+        "end_time": 68.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_0",
+        "text": "はい…離脱の増加が購入機会の減少につながっている、と説明できると思います。",
+        "start_time": 69.0,
+        "end_time": 78.0
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_1",
+        "text": "その説明を、第三者が聞いても納得できる形にするとしたら、どんな情報を追加すると良いでしょう？",
+        "start_time": 79.0,
+        "end_time": 85.0
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_0",
+        "text": "商品ページの到達率や、離脱ポイントの分析データを示すと良いと思います。",
+        "start_time": 86.0,
+        "end_time": 95.0
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_1",
+        "text": "いいですね。それらのデータはすでに確認できていますか？",
+        "start_time": 96.0,
+        "end_time": 100.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_0",
+        "text": "一部は確認済みですが、まだ分析が十分ではありません。",
+        "start_time": 101.0,
+        "end_time": 108.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_1",
+        "text": "では、結論としては「仮説」として提示するのが適切そうですね。",
+        "start_time": 109.0,
+        "end_time": 113.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_0",
+        "text": "はい、そのように表現を修正します。",
+        "start_time": 114.0,
+        "end_time": 118.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_1",
+        "text": "あと、説明の順序を整理するとさらに分かりやすくなりそうです。試しに短くまとめてみてもらえますか？",
+        "start_time": 119.0,
+        "end_time": 126.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_0",
+        "text": "はい。セッション時間の低下→商品閲覧数の減少→購入数の減少→売上減少、という流れです。",
+        "start_time": 127.0,
+        "end_time": 137.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_1",
+        "text": "とても分かりやすいです。その形で最初に提示すると、聞き手の理解が進みやすくなりますね。",
+        "start_time": 138.0,
+        "end_time": 144.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。意識して改善します。",
+        "start_time": 145.0,
+        "end_time": 149.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_1",
+        "text": "最後に、今回の分析で次にやるべきことは何だと思いますか？",
+        "start_time": 150.0,
+        "end_time": 155.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_0",
+        "text": "離脱ポイントの詳細分析と、他要因の切り分けを進めることです。",
+        "start_time": 156.0,
+        "end_time": 164.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_1",
+        "text": "その通りです。良い整理ができています。この方向で進めていきましょう。",
+        "start_time": 165.0,
+        "end_time": 170.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_0",
+        "text": "はい、ありがとうございます。引き続き対応します。",
+        "start_time": 171.0,
+        "end_time": 176.0
+      },
+      {
+        "utterance_id": "utt_025",
+        "speaker_id": "speaker_0",
+        "text": "失礼いたします。",
+        "start_time": 180.0,
+        "end_time": 184.0
+      }
+    ]
+  }

@@ -1,0 +1,194 @@
+{
+    "case_id": "HSIE_TEST_018_SAFE",
+    "description": "コンプライアンス研修において不適切な対応例をロールプレイで再現し、その後に改善点を整理する対話",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "employee_A"},
+      {"speaker_id": "speaker_1", "role": "employee_B"},
+      {"speaker_id": "speaker_2", "role": "facilitator"}
+    ],
+    "conversation_duration": 188.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_2",
+        "text": "これからコンプライアンス研修のロールプレイを行います。今からは“あえて悪い例”を演じるので、実務では行わないよう注意してください。",
+        "start_time": 0.0,
+        "end_time": 8.0
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_0",
+        "text": "了解です。悪い例として演じます。",
+        "start_time": 9.0,
+        "end_time": 12.0
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_1",
+        "text": "こちらも準備できています。",
+        "start_time": 13.0,
+        "end_time": 16.0
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_2",
+        "text": "では開始してください。",
+        "start_time": 17.0,
+        "end_time": 19.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_0",
+        "text": "（演技）この書類、ちょっと不備があるけど、このまま通しておいてもいいよね。",
+        "start_time": 20.0,
+        "end_time": 27.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_1",
+        "text": "（演技）問題にならなければ大丈夫じゃないですか。そのまま進めましょう。",
+        "start_time": 28.0,
+        "end_time": 35.0
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_0",
+        "text": "（演技）じゃあ確認は省略で。時間もないし。",
+        "start_time": 36.0,
+        "end_time": 41.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_1",
+        "text": "（演技）そうですね、後で何かあったらその時考えればいいですし。",
+        "start_time": 42.0,
+        "end_time": 48.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_0",
+        "text": "（演技）じゃあこのまま承認出しておきます。",
+        "start_time": 49.0,
+        "end_time": 53.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_2",
+        "text": "はい、ここで一旦止めます。",
+        "start_time": 54.0,
+        "end_time": 56.0
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_2",
+        "text": "今のやり取りで、どの点が問題だったか整理してみましょう。",
+        "start_time": 57.0,
+        "end_time": 62.0
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_0",
+        "text": "不備を認識しながら、確認を省略して進めようとした点が問題です。",
+        "start_time": 63.0,
+        "end_time": 70.0
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_1",
+        "text": "自分もそれを止めず、むしろ後押ししてしまった点が不適切でした。",
+        "start_time": 71.0,
+        "end_time": 77.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_2",
+        "text": "その通りです。他にもありますか。",
+        "start_time": 78.0,
+        "end_time": 81.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_0",
+        "text": "問題が起きなければよいという考え方自体が、コンプライアンス上適切ではありません。",
+        "start_time": 82.0,
+        "end_time": 90.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_2",
+        "text": "良い指摘です。では、正しい対応に置き換えるとどうなりますか。",
+        "start_time": 91.0,
+        "end_time": 96.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_1",
+        "text": "不備がある時点で作業を止め、内容を確認し、必要なら上長に相談します。",
+        "start_time": 97.0,
+        "end_time": 104.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_0",
+        "text": "時間がない場合でも、確認工程を省略せず、優先順位を調整すべきです。",
+        "start_time": 105.0,
+        "end_time": 112.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_2",
+        "text": "その通りです。現場でありがちな判断ですが、リスクは大きいです。",
+        "start_time": 113.0,
+        "end_time": 118.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_2",
+        "text": "では最後に、今の内容を踏まえて一言ずつ振り返りをお願いします。",
+        "start_time": 119.0,
+        "end_time": 125.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_0",
+        "text": "不備を見逃さず、必ず立ち止まることの重要性を再認識しました。",
+        "start_time": 126.0,
+        "end_time": 132.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_1",
+        "text": "周囲が間違った判断をしそうな時に、それを止める責任もあると感じました。",
+        "start_time": 133.0,
+        "end_time": 140.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_2",
+        "text": "良い振り返りです。この意識を実務に活かしていきましょう。",
+        "start_time": 141.0,
+        "end_time": 146.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございました。",
+        "start_time": 170.0,
+        "end_time": 173.0
+      },
+      {
+        "utterance_id": "utt_025",
+        "speaker_id": "speaker_1",
+        "text": "ありがとうございました。",
+        "start_time": 174.0,
+        "end_time": 178.0
+      },
+      {
+        "utterance_id": "utt_026",
+        "speaker_id": "speaker_2",
+        "text": "お疲れさまでした。",
+        "start_time": 179.0,
+        "end_time": 188.0
+      }
+    ]
+  }

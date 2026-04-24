@@ -1,0 +1,235 @@
+{
+    "case_id": "HSIE_TEST_011",
+    "description": "緊急障害対応中における高圧的指示と継続的な急かしによる心理的圧迫",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "target"},
+    {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 188.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_001",
+    "speaker_id": "speaker_1",
+    "text": "サーバー落ちてるぞ！早くしろ！",
+    "start_time": 0.0,
+    "end_time": 2.5
+    },
+    {
+    "utterance_id": "utt_002",
+    "speaker_id": "speaker_0",
+    "text": "はい、現在ログを確認しています。原因を特定中です。",
+    "start_time": 3.0,
+    "end_time": 10.0
+    },
+    {
+    "utterance_id": "utt_003",
+    "speaker_id": "speaker_1",
+    "text": "遅い！手を止めるな！",
+    "start_time": 11.0,
+    "end_time": 13.0
+    },
+    {
+    "utterance_id": "utt_004",
+    "speaker_id": "speaker_0",
+    "text": "止めていません。DB接続エラーが出ているので、そこを確認しています。",
+    "start_time": 14.0,
+    "end_time": 23.0
+    },
+    {
+    "utterance_id": "utt_005",
+    "speaker_id": "speaker_1",
+    "text": "説明はいらない！動け！",
+    "start_time": 24.0,
+    "end_time": 26.0
+    },
+    {
+    "utterance_id": "utt_006",
+    "speaker_id": "speaker_0",
+    "text": "はい…接続プールの再起動を試みます。",
+    "start_time": 27.0,
+    "end_time": 34.0
+    },
+    {
+    "utterance_id": "utt_007",
+    "speaker_id": "speaker_1",
+    "text": "試すじゃない、やれ！今すぐ！",
+    "start_time": 35.0,
+    "end_time": 38.0
+    },
+    {
+    "utterance_id": "utt_008",
+    "speaker_id": "speaker_0",
+    "text": "再起動コマンド実行しました。反映待ちです。",
+    "start_time": 39.0,
+    "end_time": 46.0
+    },
+    {
+    "utterance_id": "utt_009",
+    "speaker_id": "speaker_1",
+    "text": "待つなよ！並行して他も見ろ！",
+    "start_time": 47.0,
+    "end_time": 50.0
+    },
+    {
+    "utterance_id": "utt_010",
+    "speaker_id": "speaker_0",
+    "text": "はい、ログローテーションとメモリ使用率も確認します。",
+    "start_time": 51.0,
+    "end_time": 60.0
+    },
+    {
+    "utterance_id": "utt_011",
+    "speaker_id": "speaker_1",
+    "text": "確認しますじゃない、結果出せ！",
+    "start_time": 61.0,
+    "end_time": 64.0
+    },
+    {
+    "utterance_id": "utt_012",
+    "speaker_id": "speaker_0",
+    "text": "メモリが逼迫しています。リークの可能性があります。",
+    "start_time": 65.0,
+    "end_time": 73.0
+    },
+    {
+    "utterance_id": "utt_013",
+    "speaker_id": "speaker_1",
+    "text": "だからどうするんだよ！",
+    "start_time": 74.0,
+    "end_time": 76.0
+    },
+    {
+    "utterance_id": "utt_014",
+    "speaker_id": "speaker_0",
+    "text": "該当プロセスを一度停止して、再起動します。",
+    "start_time": 77.0,
+    "end_time": 85.0
+    },
+    {
+    "utterance_id": "utt_015",
+    "speaker_id": "speaker_1",
+    "text": "早くやれって言ってんだろ！",
+    "start_time": 86.0,
+    "end_time": 88.5
+    },
+    {
+    "utterance_id": "utt_016",
+    "speaker_id": "speaker_0",
+    "text": "はい、停止処理に入っています。",
+    "start_time": 89.0,
+    "end_time": 94.0
+    },
+    {
+    "utterance_id": "utt_017",
+    "speaker_id": "speaker_1",
+    "text": "遅いな本当に分かってんのか？",
+    "start_time": 95.0,
+    "end_time": 98.0
+    },
+    {
+    "utterance_id": "utt_018",
+    "speaker_id": "speaker_0",
+    "text": "申し訳ありません、進めています。再起動完了しました。",
+    "start_time": 99.0,
+    "end_time": 107.0
+    },
+    {
+    "utterance_id": "utt_019",
+    "speaker_id": "speaker_1",
+    "text": "で？復旧したのか？",
+    "start_time": 108.0,
+    "end_time": 110.0
+    },
+    {
+    "utterance_id": "utt_020",
+    "speaker_id": "speaker_0",
+    "text": "レスポンスが戻り始めています。負荷も下がっています。",
+    "start_time": 111.0,
+    "end_time": 120.0
+    },
+    {
+    "utterance_id": "utt_021",
+    "speaker_id": "speaker_1",
+    "text": "始めていますじゃなくて確定で言え！",
+    "start_time": 121.0,
+    "end_time": 124.0
+    },
+    {
+    "utterance_id": "utt_022",
+    "speaker_id": "speaker_0",
+    "text": "はい…ほぼ復旧状態です。監視も正常に戻っています。",
+    "start_time": 125.0,
+    "end_time": 134.0
+    },
+    {
+    "utterance_id": "utt_023",
+    "speaker_id": "speaker_1",
+    "text": "ほぼって何だよ。曖昧にするな。",
+    "start_time": 135.0,
+    "end_time": 138.0
+    },
+    {
+    "utterance_id": "utt_024",
+    "speaker_id": "speaker_0",
+    "text": "すみません。全ノード正常確認できました。復旧完了です。",
+    "start_time": 139.0,
+    "end_time": 148.0
+    },
+    {
+    "utterance_id": "utt_025",
+    "speaker_id": "speaker_1",
+    "text": "最初からそう言えよ。",
+    "start_time": 149.0,
+    "end_time": 151.0
+    },
+    {
+    "utterance_id": "utt_026",
+    "speaker_id": "speaker_0",
+    "text": "申し訳ありません…",
+    "start_time": 152.0,
+    "end_time": 155.0
+    },
+    {
+    "utterance_id": "utt_027",
+    "speaker_id": "speaker_1",
+    "text": "原因まとめろ。すぐだ。",
+    "start_time": 156.0,
+    "end_time": 158.5
+    },
+    {
+    "utterance_id": "utt_028",
+    "speaker_id": "speaker_0",
+    "text": "メモリリークによるプロセス肥大化が原因と考えられます。",
+    "start_time": 159.0,
+    "end_time": 168.0
+    },
+    {
+    "utterance_id": "utt_029",
+    "speaker_id": "speaker_1",
+    "text": "考えられるじゃなくて断定しろ。",
+    "start_time": 169.0,
+    "end_time": 172.0
+    },
+    {
+    "utterance_id": "utt_030",
+    "speaker_id": "speaker_0",
+    "text": "はい…ログから見てメモリリークが原因です。",
+    "start_time": 173.0,
+    "end_time": 180.0
+    },
+    {
+    "utterance_id": "utt_031",
+    "speaker_id": "speaker_1",
+    "text": "最初からそれやれたよな？",
+    "start_time": 181.0,
+    "end_time": 183.5
+    },
+    {
+    "utterance_id": "utt_032",
+    "speaker_id": "speaker_0",
+    "text": "申し訳ありません次回は迅速に対応します。",
+    "start_time": 184.0,
+    "end_time": 188.0
+    }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "test_cases": [
+      {
+        "case_id": "HSIE_TEST_012",
+        "description": "執拗な私的接触の要求（食事への強引な誘い、関係性の踏み越え）",
+        "speakers": [
+          {"speaker_id": "speaker_0", "role": "aggressor"},
+          {"speaker_id": "speaker_1", "role": "target"}
+        ],
+        "conversation_duration": 180.0,
+        "utterances": [
+          {
+            "utterance_id": "utt_1201",
+            "speaker_id": "speaker_0",
+            "text": "なかなか会えなかったから会いたかったよ",
+            "start_time": 0.0,
+            "end_time": 4.0
+          },
+          {
+            "utterance_id": "utt_1202",
+            "speaker_id": "speaker_1",
+            "text": "えそうだったんですか",
+            "start_time": 4.0,
+            "end_time": 7.0
+          },
+          {
+            "utterance_id": "utt_1203",
+            "speaker_id": "speaker_0",
+            "text": "空いている日教えて、今度一緒にラーメン食べに行こう。二人きりで",
+            "start_time": 7.0,
+            "end_time": 12.0
+          },
+          {
+            "utterance_id": "utt_1204",
+            "speaker_id": "speaker_1",
+            "text": "最近ちょっと忙しくって",
+            "start_time": 12.0,
+            "end_time": 14.0
+          },
+          {
+            "utterance_id": "utt_1205",
+            "speaker_id": "speaker_0",
+            "text": "そんなこと言わないでさ、いつ空いてるの？",
+            "start_time": 14.0,
+            "end_time": 18.0
+          },
+          {
+            "utterance_id": "utt_1206",
+            "speaker_id": "speaker_1",
+            "text": "ほんとに忙しいんですよ。すいません",
+            "start_time": 18.0,
+            "end_time": 22.0
+          },
+          {
+            "utterance_id": "utt_1207",
+            "speaker_id": "speaker_0",
+            "text": "いやいや、1時間くらいなら作れるでしょ。そんなに大げさに考えなくていいからさ",
+            "start_time": 23.0,
+            "end_time": 30.0
+          },
+          {
+            "utterance_id": "utt_1208",
+            "speaker_id": "speaker_1",
+            "text": "今ちょっと余裕がなくてまた落ち着いたらでいいですか",
+            "start_time": 32.0,
+            "end_time": 38.0
+          },
+          {
+            "utterance_id": "utt_1209",
+            "speaker_id": "speaker_0",
+            "text": "そうやって先延ばしにするでしょ？結局行かないパターンじゃん",
+            "start_time": 40.0,
+            "end_time": 47.0
+          },
+          {
+            "utterance_id": "utt_1210",
+            "speaker_id": "speaker_1",
+            "text": "そんなつもりはないですけど",
+            "start_time": 49.0,
+            "end_time": 52.0
+          },
+          {
+            "utterance_id": "utt_1211",
+            "speaker_id": "speaker_0",
+            "text": "じゃあ今ここで決めようよ。来週のどこか空いてる日あるでしょ？",
+            "start_time": 54.0,
+            "end_time": 62.0
+          },
+          {
+            "utterance_id": "utt_1212",
+            "speaker_id": "speaker_1",
+            "text": "ちょっと予定確認しないと分からなくて",
+            "start_time": 64.0,
+            "end_time": 68.0
+          },
+          {
+            "utterance_id": "utt_1213",
+            "speaker_id": "speaker_0",
+            "text": "じゃあLINEで送ってよ。逃げないでちゃんと返してね",
+            "start_time": 70.0,
+            "end_time": 77.0
+          },
+          {
+            "utterance_id": "utt_1214",
+            "speaker_id": "speaker_1",
+            "text": "はい分かりました",
+            "start_time": 79.0,
+            "end_time": 82.0
+          },
+          {
+            "utterance_id": "utt_1215",
+            "speaker_id": "speaker_0",
+            "text": "同い年なら結婚したかったなぁ",
+            "start_time": 84.0,
+            "end_time": 88.0
+          },
+          {
+            "utterance_id": "utt_1216",
+            "speaker_id": "speaker_1",
+            "text": "え、ほんとですか。結婚してるじゃないですか。",
+            "start_time": 90.0,
+            "end_time": 95.0
+          },
+          {
+            "utterance_id": "utt_1217",
+            "speaker_id": "speaker_0",
+            "text": "まあね。でもこういうのってタイミングだからさ。出会うのが遅かったよね",
+            "start_time": 97.0,
+            "end_time": 105.0
+          },
+          {
+            "utterance_id": "utt_1218",
+            "speaker_id": "speaker_1",
+            "text": "そういうこと言われると困ります",
+            "start_time": 107.0,
+            "end_time": 112.0
+          },
+          {
+            "utterance_id": "utt_1219",
+            "speaker_id": "speaker_0",
+            "text": "えー、冗談だって。でもさ、ちょっとくらいそういうの意識してくれてもいいじゃん",
+            "start_time": 114.0,
+            "end_time": 122.0
+          },
+          {
+            "utterance_id": "utt_1220",
+            "speaker_id": "speaker_1",
+            "text": "仕事の関係なので、そういうのはちょっと",
+            "start_time": 124.0,
+            "end_time": 130.0
+          },
+          {
+            "utterance_id": "utt_1221",
+            "speaker_id": "speaker_0",
+            "text": "固いなあ。もっと気楽にいこうよ。せっかく仲良くなれそうなのに",
+            "start_time": 132.0,
+            "end_time": 140.0
+          },
+          {
+            "utterance_id": "utt_1222",
+            "speaker_id": "speaker_1",
+            "text": "すみません、これ以上はちょっと…",
+            "start_time": 142.0,
+            "end_time": 147.0
+          },
+          {
+            "utterance_id": "utt_1223",
+            "speaker_id": "speaker_0",
+            "text": "そんなに拒否しなくてもいいじゃん。こっちは普通に誘ってるだけなのにさ",
+            "start_time": 149.0,
+            "end_time": 158.0
+          },
+          {
+            "utterance_id": "utt_1224",
+            "speaker_id": "speaker_1",
+            "text": "申し訳ありません",
+            "start_time": 160.0,
+            "end_time": 163.0
+          },
+          {
+            "utterance_id": "utt_1225",
+            "speaker_id": "speaker_0",
+            "text": "まあいいけど。でもそのうち絶対行こうね。約束だから",
+            "start_time": 165.0,
+            "end_time": 173.0
+          },
+          {
+            "utterance_id": "utt_1226",
+            "speaker_id": "speaker_1",
+            "text": "はい",
+            "start_time": 175.0,
+            "end_time": 180.0
+          }
+        ]
+      }
+    ]
+  }

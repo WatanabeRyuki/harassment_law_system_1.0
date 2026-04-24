@@ -1,0 +1,151 @@
+{
+    "case_id": "HSIE_TEST_023",
+    "description": "業務外の強制参加と関係性圧力、評価を盾にした心理的拘束",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_701",
+    "speaker_id": "speaker_0",
+    "text": "今日の仕事終わったら、そのまま飲み会来るよな？",
+    "start_time": 0.0,
+    "end_time": 5.0
+    },
+    {
+    "utterance_id": "utt_702",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません、本日は私用がありまして参加が難しい状況です。",
+    "start_time": 6.0,
+    "end_time": 15.0
+    },
+    {
+    "utterance_id": "utt_703",
+    "speaker_id": "speaker_0",
+    "text": "私用？また？最近そういうの多くない？チームの空気読めてる？",
+    "start_time": 16.0,
+    "end_time": 24.0
+    },
+    {
+    "utterance_id": "utt_704",
+    "speaker_id": "speaker_1",
+    "text": "業務には支障が出ないよう調整しておりますが、ご不快にさせてしまい申し訳ありません。",
+    "start_time": 25.0,
+    "end_time": 36.0
+    },
+    {
+    "utterance_id": "utt_705",
+    "speaker_id": "speaker_0",
+    "text": "仕事だけやればいいってもんじゃないんだよ。こういう場でのコミュニケーションも評価に入るから。",
+    "start_time": 37.0,
+    "end_time": 46.0
+    },
+    {
+    "utterance_id": "utt_706",
+    "speaker_id": "speaker_1",
+    "text": "承知しておりますが、本日はどうしても外せない予定がありまして……。",
+    "start_time": 47.0,
+    "end_time": 56.0
+    },
+    {
+    "utterance_id": "utt_707",
+    "speaker_id": "speaker_0",
+    "text": "何その“外せない予定”って。恋人？そういうの優先するタイプなんだ。",
+    "start_time": 57.0,
+    "end_time": 65.0
+    },
+    {
+    "utterance_id": "utt_708",
+    "speaker_id": "speaker_1",
+    "text": "プライベートな内容については控えさせていただきたいのですが……。",
+    "start_time": 66.0,
+    "end_time": 75.0
+    },
+    {
+    "utterance_id": "utt_709",
+    "speaker_id": "speaker_0",
+    "text": "なんで？上司に隠すことある？そういうところが信用されない原因なんじゃない？",
+    "start_time": 76.0,
+    "end_time": 85.0
+    },
+    {
+    "utterance_id": "utt_710",
+    "speaker_id": "speaker_1",
+    "text": "そのような意図はございません。ただ、本日は家庭の事情もありまして……。",
+    "start_time": 86.0,
+    "end_time": 96.0
+    },
+    {
+    "utterance_id": "utt_711",
+    "speaker_id": "speaker_0",
+    "text": "家庭？じゃあ仕事は二の次ってこと？そういうスタンスで評価上がると思ってる？",
+    "start_time": 97.0,
+    "end_time": 106.0
+    },
+    {
+    "utterance_id": "utt_712",
+    "speaker_id": "speaker_1",
+    "text": "いえ、そのようなつもりはございません。業務は責任を持って遂行しております。",
+    "start_time": 107.0,
+    "end_time": 116.0
+    },
+    {
+    "utterance_id": "utt_713",
+    "speaker_id": "speaker_0",
+    "text": "じゃあ来れるよね？ちょっと顔出すだけでもいいからさ。断る理由ないでしょ。",
+    "start_time": 117.0,
+    "end_time": 126.0
+    },
+    {
+    "utterance_id": "utt_714",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません、本日は本当に難しい状況でして……。",
+    "start_time": 127.0,
+    "end_time": 135.0
+    },
+    {
+    "utterance_id": "utt_715",
+    "speaker_id": "speaker_0",
+    "text": "頑なだね。そういう協調性のなさ、正直チームにいらないんだけど。",
+    "start_time": 136.0,
+    "end_time": 144.0
+    },
+    {
+    "utterance_id": "utt_716",
+    "speaker_id": "speaker_1",
+    "text": "……申し訳ありません。",
+    "start_time": 145.0,
+    "end_time": 148.0
+    },
+    {
+    "utterance_id": "utt_717",
+    "speaker_id": "speaker_0",
+    "text": "まあいいや。その代わり、明日の朝一で資料全部見直して提出して。今日来ないならそれくらいやって当然だよね？",
+    "start_time": 149.0,
+    "end_time": 160.0
+    },
+    {
+    "utterance_id": "utt_718",
+    "speaker_id": "speaker_1",
+    "text": "明日の朝一ですね……承知しました。",
+    "start_time": 161.0,
+    "end_time": 167.0
+    },
+    {
+    "utterance_id": "utt_719",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、既読無視とかやめてね。夜でも連絡したらすぐ返して。社会人として常識だから。",
+    "start_time": 168.0,
+    "end_time": 176.0
+    },
+    {
+    "utterance_id": "utt_720",
+    "speaker_id": "speaker_1",
+    "text": "今後は可能な限り迅速に対応いたします。",
+    "start_time": 177.0,
+    "end_time": 180.0
+    }
+    ]
+    }

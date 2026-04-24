@@ -1,0 +1,165 @@
+{
+    "case_id": "HSIE_TEST_206",
+    "description": "季節の変わり目における体調への配慮と気遣いを含む穏やかな対話（非ハラスメント・思いやりコミュニケーション）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "participant"},
+    {"speaker_id": "speaker_1", "role": "participant"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_6001",
+    "speaker_id": "speaker_0",
+    "text": "最近、朝晩ちょっと冷えるようになってきたね。季節が変わってきた感じがする。",
+    "start_time": 0.0,
+    "end_time": 8.0
+    },
+    {
+    "utterance_id": "utt_6002",
+    "speaker_id": "speaker_1",
+    "text": "ほんとだね。昼間はまだ暖かいのに、夜になると急に気温下がるから服装迷うよ。",
+    "start_time": 9.0,
+    "end_time": 17.0
+    },
+    {
+    "utterance_id": "utt_6003",
+    "speaker_id": "speaker_0",
+    "text": "わかる。油断すると体調崩しそうでちょっと気をつけてる。",
+    "start_time": 18.0,
+    "end_time": 25.0
+    },
+    {
+    "utterance_id": "utt_6004",
+    "speaker_id": "speaker_1",
+    "text": "そうだね、この時期って体調管理難しいよね。何か対策してる？",
+    "start_time": 26.0,
+    "end_time": 33.0
+    },
+    {
+    "utterance_id": "utt_6005",
+    "speaker_id": "speaker_0",
+    "text": "とりあえず羽織れるもの持ち歩くようにしてるのと、なるべく温かい飲み物飲むようにしてるかな。",
+    "start_time": 34.0,
+    "end_time": 44.0
+    },
+    {
+    "utterance_id": "utt_6006",
+    "speaker_id": "speaker_1",
+    "text": "いいね。体を冷やさないの大事だよね。自分も最近は寝る前に少しストレッチするようにしてる。",
+    "start_time": 45.0,
+    "end_time": 55.0
+    },
+    {
+    "utterance_id": "utt_6007",
+    "speaker_id": "speaker_0",
+    "text": "それ良さそう。血行も良くなりそうだし、睡眠の質も上がりそうだね。",
+    "start_time": 56.0,
+    "end_time": 64.0
+    },
+    {
+    "utterance_id": "utt_6008",
+    "speaker_id": "speaker_1",
+    "text": "うん、少しだけでもやると違う気がするよ。無理しない程度に続けてる。",
+    "start_time": 65.0,
+    "end_time": 72.0
+    },
+    {
+    "utterance_id": "utt_6009",
+    "speaker_id": "speaker_0",
+    "text": "無理しないって大事だよね。続けることのほうが重要だし。",
+    "start_time": 73.0,
+    "end_time": 80.0
+    },
+    {
+    "utterance_id": "utt_6010",
+    "speaker_id": "speaker_1",
+    "text": "そうそう。あと食事も意識して、なるべくバランス良く取るようにしてるよ。",
+    "start_time": 81.0,
+    "end_time": 89.0
+    },
+    {
+    "utterance_id": "utt_6011",
+    "speaker_id": "speaker_0",
+    "text": "えらいなあ。忙しいとつい偏りがちになるから見習いたい。",
+    "start_time": 90.0,
+    "end_time": 97.0
+    },
+    {
+    "utterance_id": "utt_6012",
+    "speaker_id": "speaker_1",
+    "text": "いやいや、できる範囲でだよ。完璧じゃなくてもいいと思ってる。",
+    "start_time": 98.0,
+    "end_time": 105.0
+    },
+    {
+    "utterance_id": "utt_6013",
+    "speaker_id": "speaker_0",
+    "text": "その考え方いいね。気負いすぎない方が続くしね。",
+    "start_time": 106.0,
+    "end_time": 113.0
+    },
+    {
+    "utterance_id": "utt_6014",
+    "speaker_id": "speaker_1",
+    "text": "うん。それに体調崩したら元も子もないし、予防が一番だと思ってる。",
+    "start_time": 114.0,
+    "end_time": 122.0
+    },
+    {
+    "utterance_id": "utt_6015",
+    "speaker_id": "speaker_0",
+    "text": "確かに。ちょっとした意識で変わるならやっておきたいよね。",
+    "start_time": 123.0,
+    "end_time": 130.0
+    },
+    {
+    "utterance_id": "utt_6016",
+    "speaker_id": "speaker_1",
+    "text": "あと、疲れてるなって感じたら早めに休むのも大事だよね。",
+    "start_time": 131.0,
+    "end_time": 138.0
+    },
+    {
+    "utterance_id": "utt_6017",
+    "speaker_id": "speaker_0",
+    "text": "うん、無理して悪化するよりいい判断だと思う。",
+    "start_time": 139.0,
+    "end_time": 145.0
+    },
+    {
+    "utterance_id": "utt_6018",
+    "speaker_id": "speaker_1",
+    "text": "お互いこの時期は気をつけて過ごそう。",
+    "start_time": 146.0,
+    "end_time": 151.0
+    },
+    {
+    "utterance_id": "utt_6019",
+    "speaker_id": "speaker_0",
+    "text": "そうだね。体調第一でいこう。",
+    "start_time": 152.0,
+    "end_time": 157.0
+    },
+    {
+    "utterance_id": "utt_6020",
+    "speaker_id": "speaker_1",
+    "text": "ありがとう。気遣ってもらえると安心するよ。",
+    "start_time": 158.0,
+    "end_time": 164.0
+    },
+    {
+    "utterance_id": "utt_6021",
+    "speaker_id": "speaker_0",
+    "text": "こちらこそ。無理しないようにね。",
+    "start_time": 165.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_6022",
+    "speaker_id": "speaker_1",
+    "text": "うん、気をつける。また元気に過ごそう。",
+    "start_time": 171.0,
+    "end_time": 180.0
+    }
+    ]
+    }

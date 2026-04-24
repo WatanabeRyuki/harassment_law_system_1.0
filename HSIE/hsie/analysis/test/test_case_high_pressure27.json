@@ -1,0 +1,186 @@
+{
+    "case_id": "HSIE_TEST_107",
+    "description": "割り込みと発話遮断を繰り返し、謝罪ループに追い込む会話構造型ハラスメント",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 170.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_801",
+        "speaker_id": "speaker_1",
+        "text": "今回の件、説明できる？簡潔に。",
+        "start_time": 0.0,
+        "end_time": 3.0
+      },
+      {
+        "utterance_id": "utt_802",
+        "speaker_id": "speaker_0",
+        "text": "はい、今回の遅延は私の確認不足で",
+        "start_time": 4.0,
+        "end_time": 7.0
+      },
+      {
+        "utterance_id": "utt_803",
+        "speaker_id": "speaker_1",
+        "text": "いや長い。結論から。",
+        "start_time": 6.5,
+        "end_time": 8.5
+      },
+      {
+        "utterance_id": "utt_804",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません、原因は確認不足です。",
+        "start_time": 9.0,
+        "end_time": 12.0
+      },
+      {
+        "utterance_id": "utt_805",
+        "speaker_id": "speaker_1",
+        "text": "それ前も聞いたよね。同じこと繰り返してる自覚ある？",
+        "start_time": 12.5,
+        "end_time": 18.0
+      },
+      {
+        "utterance_id": "utt_806",
+        "speaker_id": "speaker_0",
+        "text": "はい…あります。申し訳ありません。",
+        "start_time": 19.0,
+        "end_time": 22.0
+      },
+      {
+        "utterance_id": "utt_807",
+        "speaker_id": "speaker_1",
+        "text": "で、改善は？あ、抽象的なのいらないから。",
+        "start_time": 23.0,
+        "end_time": 27.0
+      },
+      {
+        "utterance_id": "utt_808",
+        "speaker_id": "speaker_0",
+        "text": "はい、チェック体制を強化し",
+        "start_time": 28.0,
+        "end_time": 31.0
+      },
+      {
+        "utterance_id": "utt_809",
+        "speaker_id": "speaker_1",
+        "text": "それ“強化”って何？毎回その言い方だよね。",
+        "start_time": 30.5,
+        "end_time": 35.0
+      },
+      {
+        "utterance_id": "utt_810",
+        "speaker_id": "speaker_0",
+        "text": "ええと…確認回数を増やして",
+        "start_time": 36.0,
+        "end_time": 40.0
+      },
+      {
+        "utterance_id": "utt_811",
+        "speaker_id": "speaker_1",
+        "text": "回数の問題じゃないでしょ。",
+        "start_time": 39.5,
+        "end_time": 42.0
+      },
+      {
+        "utterance_id": "utt_812",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません",
+        "start_time": 43.0,
+        "end_time": 45.0
+      },
+      {
+        "utterance_id": "utt_813",
+        "speaker_id": "speaker_1",
+        "text": "で？次。",
+        "start_time": 46.0,
+        "end_time": 47.5
+      },
+      {
+        "utterance_id": "utt_814",
+        "speaker_id": "speaker_0",
+        "text": "はい…事前の共有を徹底して",
+        "start_time": 48.0,
+        "end_time": 52.0
+      },
+      {
+        "utterance_id": "utt_815",
+        "speaker_id": "speaker_1",
+        "text": "それも聞いた。",
+        "start_time": 51.5,
+        "end_time": 53.0
+      },
+      {
+        "utterance_id": "utt_816",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。",
+        "start_time": 54.0,
+        "end_time": 56.0
+      },
+      {
+        "utterance_id": "utt_817",
+        "speaker_id": "speaker_1",
+        "text": "さっきからさ、全部“それっぽいこと”しか言ってないの気づいてる？",
+        "start_time": 57.0,
+        "end_time": 63.0
+      },
+      {
+        "utterance_id": "utt_818",
+        "speaker_id": "speaker_0",
+        "text": "はい。",
+        "start_time": 64.0,
+        "end_time": 65.5
+      },
+      {
+        "utterance_id": "utt_819",
+        "speaker_id": "speaker_1",
+        "text": "じゃあなんで続けてるの？止める判断なかった？",
+        "start_time": 66.0,
+        "end_time": 72.0
+      },
+      {
+        "utterance_id": "utt_820",
+        "speaker_id": "speaker_0",
+        "text": "ありませんでした。",
+        "start_time": 73.0,
+        "end_time": 75.0
+      },
+      {
+        "utterance_id": "utt_821",
+        "speaker_id": "speaker_1",
+        "text": "だよね。だから今こうなってるんだよ。",
+        "start_time": 76.0,
+        "end_time": 80.0
+      },
+      {
+        "utterance_id": "utt_822",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。",
+        "start_time": 81.0,
+        "end_time": 83.0
+      },
+      {
+        "utterance_id": "utt_823",
+        "speaker_id": "speaker_1",
+        "text": "もういいよ。今の状態で何言っても変わらないでしょ。",
+        "start_time": 84.0,
+        "end_time": 90.0
+      },
+      {
+        "utterance_id": "utt_824",
+        "speaker_id": "speaker_0",
+        "text": "はい。",
+        "start_time": 91.0,
+        "end_time": 92.5
+      },
+      {
+        "utterance_id": "utt_825",
+        "speaker_id": "speaker_1",
+        "text": "一回全部見直して。話はそれから。",
+        "start_time": 93.0,
+        "end_time": 98.0
+      }
+    ]
+  }

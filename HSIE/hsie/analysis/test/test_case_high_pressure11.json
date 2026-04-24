@@ -1,0 +1,158 @@
+{
+    "case_id": "HSIE_TEST_022",
+    "description": "曖昧な指示と過剰な期待を押し付けた上での人格否定と威圧的コントロール",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_601",
+    "speaker_id": "speaker_0",
+    "text": "この企画書、なんか違うんだよね。",
+    "start_time": 0.0,
+    "end_time": 4.0
+    },
+    {
+    "utterance_id": "utt_602",
+    "speaker_id": "speaker_1",
+    "text": "どの点がご意図と異なっていたでしょうか。方向性を修正いたしますのでご指摘いただけますと助かります。",
+    "start_time": 5.0,
+    "end_time": 16.0
+    },
+    {
+    "utterance_id": "utt_603",
+    "speaker_id": "speaker_0",
+    "text": "いや、そういうのじゃなくてさ、読めば分かるでしょ普通。",
+    "start_time": 17.0,
+    "end_time": 22.0
+    },
+    {
+    "utterance_id": "utt_604",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません……。もう少し具体的に教えていただけると修正しやすいのですが。",
+    "start_time": 23.0,
+    "end_time": 33.0
+    },
+    {
+    "utterance_id": "utt_605",
+    "speaker_id": "speaker_0",
+    "text": "そういう“指示待ち”の姿勢がダメなんだよ。自分で考えられないの？",
+    "start_time": 34.0,
+    "end_time": 42.0
+    },
+    {
+    "utterance_id": "utt_606",
+    "speaker_id": "speaker_1",
+    "text": "考えた上で作成したのですが、認識にズレがあったようで……。",
+    "start_time": 43.0,
+    "end_time": 52.0
+    },
+    {
+    "utterance_id": "utt_607",
+    "speaker_id": "speaker_0",
+    "text": "ズレ？それってつまりセンスがないってことだよね。",
+    "start_time": 53.0,
+    "end_time": 59.0
+    },
+    {
+    "utterance_id": "utt_608",
+    "speaker_id": "speaker_1",
+    "text": "改善できるよう努めます。どの部分から優先的に見直すべきでしょうか。",
+    "start_time": 60.0,
+    "end_time": 69.0
+    },
+    {
+    "utterance_id": "utt_609",
+    "speaker_id": "speaker_0",
+    "text": "全部って言ってるじゃん。構成も甘いし、内容も薄いし、正直何がしたいのか分からない。",
+    "start_time": 70.0,
+    "end_time": 79.0
+    },
+    {
+    "utterance_id": "utt_610",
+    "speaker_id": "speaker_1",
+    "text": "承知しました。目的の明確化と構成の再設計を行います。",
+    "start_time": 80.0,
+    "end_time": 88.0
+    },
+    {
+    "utterance_id": "utt_611",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、なんでこんな基本的なこともできないの？学生でももう少しマシなもの作るよ。",
+    "start_time": 89.0,
+    "end_time": 98.0
+    },
+    {
+    "utterance_id": "utt_612",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません……。至らない点が多く、反省しております。",
+    "start_time": 99.0,
+    "end_time": 106.0
+    },
+    {
+    "utterance_id": "utt_613",
+    "speaker_id": "speaker_0",
+    "text": "反省って言えば済むと思ってる？結果出せないなら意味ないよ。",
+    "start_time": 107.0,
+    "end_time": 114.0
+    },
+    {
+    "utterance_id": "utt_614",
+    "speaker_id": "speaker_1",
+    "text": "結果でお返しできるよう、修正を急ぎます。",
+    "start_time": 115.0,
+    "end_time": 121.0
+    },
+    {
+    "utterance_id": "utt_615",
+    "speaker_id": "speaker_0",
+    "text": "今日中に全部直して持ってきて。終電でもいいから。できるよね？",
+    "start_time": 122.0,
+    "end_time": 130.0
+    },
+    {
+    "utterance_id": "utt_616",
+    "speaker_id": "speaker_1",
+    "text": "本日中……はい、可能な限り対応いたします。",
+    "start_time": 131.0,
+    "end_time": 138.0
+    },
+    {
+    "utterance_id": "utt_617",
+    "speaker_id": "speaker_0",
+    "text": "“可能な限り”じゃなくて“やる”んだよ。言い訳いらないから。",
+    "start_time": 139.0,
+    "end_time": 146.0
+    },
+    {
+    "utterance_id": "utt_618",
+    "speaker_id": "speaker_1",
+    "text": "承知しました。やり遂げます。",
+    "start_time": 147.0,
+    "end_time": 151.0
+    },
+    {
+    "utterance_id": "utt_619",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、最近顔色悪くない？ちゃんと寝てる？まあ仕事できない原因そこかもね。",
+    "start_time": 152.0,
+    "end_time": 161.0
+    },
+    {
+    "utterance_id": "utt_620",
+    "speaker_id": "speaker_1",
+    "text": "体調管理には気をつけておりますが、ご心配をおかけし申し訳ありません。",
+    "start_time": 162.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_621",
+    "speaker_id": "speaker_0",
+    "text": "まあいいや。とにかく次も同じレベルだったら評価下げるから。覚悟しておいて。",
+    "start_time": 171.0,
+    "end_time": 180.0
+    }
+    ]
+    }

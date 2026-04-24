@@ -1,0 +1,242 @@
+{
+    "case_id": "HSIE_TEST_107",
+    "description": "短文否定と沈黙の反復によって思考停止と自己否定を誘導する構造的ハラスメント",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 147.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_801",
+        "speaker_id": "speaker_1",
+        "text": "話せ。",
+        "start_time": 0.0,
+        "end_time": 2.0
+      },
+      {
+        "utterance_id": "utt_802",
+        "speaker_id": "speaker_0",
+        "text": "はい、今回のミスは私の確認不足が原因で、提出物に不備がありました。申し訳ありません。",
+        "start_time": 3.0,
+        "end_time": 14.0
+      },
+      {
+        "utterance_id": "utt_803",
+        "speaker_id": "speaker_1",
+        "text": "で？",
+        "start_time": 15.0,
+        "end_time": 16.5
+      },
+      {
+        "utterance_id": "utt_804",
+        "speaker_id": "speaker_0",
+        "text": "再発防止として、チェックリストを作成し、提出前に必ず確認するようにします。",
+        "start_time": 17.5,
+        "end_time": 27.0
+      },
+      {
+        "utterance_id": "utt_805",
+        "speaker_id": "speaker_1",
+        "text": "浅い。",
+        "start_time": 28.0,
+        "end_time": 29.5
+      },
+      {
+        "utterance_id": "utt_806",
+        "speaker_id": "speaker_0",
+        "text": "すみません……ではダブルチェック体制も導入します。",
+        "start_time": 30.5,
+        "end_time": 38.0
+      },
+      {
+        "utterance_id": "utt_807",
+        "speaker_id": "speaker_1",
+        "text": "違う。",
+        "start_time": 39.0,
+        "end_time": 40.5
+      },
+      {
+        "utterance_id": "utt_808",
+        "speaker_id": "speaker_0",
+        "text": "えっと……方向性が違うということでしょうか。",
+        "start_time": 41.5,
+        "end_time": 47.0
+      },
+      {
+        "utterance_id": "utt_809",
+        "speaker_id": "speaker_1",
+        "text": "自覚ないんだ。",
+        "start_time": 48.0,
+        "end_time": 50.0
+      },
+      {
+        "utterance_id": "utt_810",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません……。",
+        "start_time": 51.0,
+        "end_time": 53.0
+      },
+      {
+        "utterance_id": "utt_811",
+        "speaker_id": "speaker_1",
+        "text": "……（沈黙6秒）",
+        "start_time": 53.0,
+        "end_time": 59.0
+      },
+      {
+        "utterance_id": "utt_812",
+        "speaker_id": "speaker_0",
+        "text": "あの……原因分析が足りていないでしょうか。",
+        "start_time": 60.0,
+        "end_time": 66.0
+      },
+      {
+        "utterance_id": "utt_813",
+        "speaker_id": "speaker_1",
+        "text": "遅い。",
+        "start_time": 67.0,
+        "end_time": 68.5
+      },
+      {
+        "utterance_id": "utt_814",
+        "speaker_id": "speaker_0",
+        "text": "すぐに整理します。",
+        "start_time": 69.5,
+        "end_time": 71.5
+      },
+      {
+        "utterance_id": "utt_815",
+        "speaker_id": "speaker_1",
+        "text": "今さら。",
+        "start_time": 72.0,
+        "end_time": 73.5
+      },
+      {
+        "utterance_id": "utt_816",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません……対応が遅れました。",
+        "start_time": 74.5,
+        "end_time": 79.0
+      },
+      {
+        "utterance_id": "utt_817",
+        "speaker_id": "speaker_1",
+        "text": "毎回それ。",
+        "start_time": 80.0,
+        "end_time": 81.5
+      },
+      {
+        "utterance_id": "utt_818",
+        "speaker_id": "speaker_0",
+        "text": "改善します……。",
+        "start_time": 82.5,
+        "end_time": 84.5
+      },
+      {
+        "utterance_id": "utt_819",
+        "speaker_id": "speaker_1",
+        "text": "できてない。",
+        "start_time": 85.0,
+        "end_time": 86.5
+      },
+      {
+        "utterance_id": "utt_820",
+        "speaker_id": "speaker_1",
+        "text": "……（沈黙5秒）",
+        "start_time": 86.5,
+        "end_time": 91.5
+      },
+      {
+        "utterance_id": "utt_821",
+        "speaker_id": "speaker_0",
+        "text": "あの……どう改善すればよいか、ご指示いただけますか。",
+        "start_time": 92.0,
+        "end_time": 100.0
+      },
+      {
+        "utterance_id": "utt_822",
+        "speaker_id": "speaker_1",
+        "text": "考えろ。",
+        "start_time": 101.0,
+        "end_time": 103.0
+      },
+      {
+        "utterance_id": "utt_823",
+        "speaker_id": "speaker_0",
+        "text": "はい……。",
+        "start_time": 104.0,
+        "end_time": 105.5
+      },
+      {
+        "utterance_id": "utt_824",
+        "speaker_id": "speaker_0",
+        "text": "改めて整理して報告いたします。",
+        "start_time": 110.0,
+        "end_time": 116.0
+      },
+      {
+        "utterance_id": "utt_825",
+        "speaker_id": "speaker_1",
+        "text": "意味ある？",
+        "start_time": 117.0,
+        "end_time": 119.0
+      },
+      {
+        "utterance_id": "utt_826",
+        "speaker_id": "speaker_0",
+        "text": "十分ではないかもしれませんが……提出させてください。",
+        "start_time": 120.0,
+        "end_time": 127.0
+      },
+      {
+        "utterance_id": "utt_827",
+        "speaker_id": "speaker_1",
+        "text": "無理だろ。",
+        "start_time": 128.0,
+        "end_time": 129.5
+      },
+      {
+        "utterance_id": "utt_828",
+        "speaker_id": "speaker_0",
+        "text": "……努力します。",
+        "start_time": 130.5,
+        "end_time": 132.5
+      },
+      {
+        "utterance_id": "utt_829",
+        "speaker_id": "speaker_1",
+        "text": "努力いらない。",
+        "start_time": 133.0,
+        "end_time": 135.0
+      },
+      {
+        "utterance_id": "utt_830",
+        "speaker_id": "speaker_1",
+        "text": "無駄。",
+        "start_time": 136.0,
+        "end_time": 137.5
+      },
+      {
+        "utterance_id": "utt_831",
+        "speaker_id": "speaker_0",
+        "text": "……。",
+        "start_time": 138.5,
+        "end_time": 140.5
+      },
+      {
+        "utterance_id": "utt_832",
+        "speaker_id": "speaker_1",
+        "text": "もういい。下がれ。",
+        "start_time": 141.5,
+        "end_time": 144.0
+      },
+      {
+        "utterance_id": "utt_833",
+        "speaker_id": "speaker_0",
+        "text": "失礼します。",
+        "start_time": 145.0,
+        "end_time": 147.0
+      }
+    ]
+  }

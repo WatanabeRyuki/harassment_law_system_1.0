@@ -1,0 +1,151 @@
+{
+    "case_id": "HSIE_TEST_205",
+    "description": "プログラミングに関する純粋な技術的質問と丁寧な知識共有（非ハラスメント・教育的対話）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "learner"},
+    {"speaker_id": "speaker_1", "role": "supporter"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_5001",
+    "speaker_id": "speaker_0",
+    "text": "ちょっと聞きたいんだけど、Pythonでリストの中身を一つずつ処理する方法ってどう書くのが一般的かな？",
+    "start_time": 0.0,
+    "end_time": 9.0
+    },
+    {
+    "utterance_id": "utt_5002",
+    "speaker_id": "speaker_1",
+    "text": "いい質問だね。基本的にはfor文を使うのがシンプルで分かりやすいよ。",
+    "start_time": 10.0,
+    "end_time": 17.0
+    },
+    {
+    "utterance_id": "utt_5003",
+    "speaker_id": "speaker_0",
+    "text": "やっぱりfor文なんだね。具体的にはどんな書き方になるの？",
+    "start_time": 18.0,
+    "end_time": 25.0
+    },
+    {
+    "utterance_id": "utt_5004",
+    "speaker_id": "speaker_1",
+    "text": "例えば、numbersっていうリストがあったら、for n in numbers: って書いて、その中で処理を書く感じだね。",
+    "start_time": 26.0,
+    "end_time": 38.0
+    },
+    {
+    "utterance_id": "utt_5005",
+    "speaker_id": "speaker_0",
+    "text": "なるほど、シンプルで分かりやすいね。インデックスも使いたい場合はどうするの？",
+    "start_time": 39.0,
+    "end_time": 47.0
+    },
+    {
+    "utterance_id": "utt_5006",
+    "speaker_id": "speaker_1",
+    "text": "その場合はenumerateを使うと便利だよ。インデックスと要素を同時に取り出せる。",
+    "start_time": 48.0,
+    "end_time": 56.0
+    },
+    {
+    "utterance_id": "utt_5007",
+    "speaker_id": "speaker_0",
+    "text": "ああ、enumerateってそういう使い方なんだ。なんとなく見たことはあったけど理解できてなかった。",
+    "start_time": 57.0,
+    "end_time": 66.0
+    },
+    {
+    "utterance_id": "utt_5008",
+    "speaker_id": "speaker_1",
+    "text": "よくあるよ。慣れるとすごく便利だから、ぜひ使ってみてほしい。",
+    "start_time": 67.0,
+    "end_time": 74.0
+    },
+    {
+    "utterance_id": "utt_5009",
+    "speaker_id": "speaker_0",
+    "text": "ありがとう。あと、リストの中身を条件で絞りたいときってどう書くのがいいのかな？",
+    "start_time": 75.0,
+    "end_time": 84.0
+    },
+    {
+    "utterance_id": "utt_5010",
+    "speaker_id": "speaker_1",
+    "text": "それならリスト内包表記がよく使われるね。コードがコンパクトになるよ。",
+    "start_time": 85.0,
+    "end_time": 93.0
+    },
+    {
+    "utterance_id": "utt_5011",
+    "speaker_id": "speaker_0",
+    "text": "リスト内包表記ってちょっと難しそうなイメージあるんだけど。",
+    "start_time": 94.0,
+    "end_time": 100.0
+    },
+    {
+    "utterance_id": "utt_5012",
+    "speaker_id": "speaker_1",
+    "text": "最初はそう感じるかもね。でも基本はシンプルで、for文を一行にまとめたような形だよ。",
+    "start_time": 101.0,
+    "end_time": 110.0
+    },
+    {
+    "utterance_id": "utt_5013",
+    "speaker_id": "speaker_0",
+    "text": "なるほど、そう考えると少し理解しやすいかも。練習してみるよ。",
+    "start_time": 111.0,
+    "end_time": 118.0
+    },
+    {
+    "utterance_id": "utt_5014",
+    "speaker_id": "speaker_1",
+    "text": "うん、最初はシンプルな例から試すといいよ。無理に複雑なことをやろうとしなくても大丈夫。",
+    "start_time": 119.0,
+    "end_time": 129.0
+    },
+    {
+    "utterance_id": "utt_5015",
+    "speaker_id": "speaker_0",
+    "text": "助かる。あと、処理速度ってfor文と内包表記で結構変わるもの？",
+    "start_time": 130.0,
+    "end_time": 138.0
+    },
+    {
+    "utterance_id": "utt_5016",
+    "speaker_id": "speaker_1",
+    "text": "ケースによるけど、一般的には内包表記のほうが少し速いことが多いかな。でも可読性も大事だからバランスが大事。",
+    "start_time": 139.0,
+    "end_time": 151.0
+    },
+    {
+    "utterance_id": "utt_5017",
+    "speaker_id": "speaker_0",
+    "text": "確かに、読みやすさも大事だよね。チーム開発だと特に。",
+    "start_time": 152.0,
+    "end_time": 158.0
+    },
+    {
+    "utterance_id": "utt_5018",
+    "speaker_id": "speaker_1",
+    "text": "そうそう。他の人が読んで理解しやすいコードを書くのも大切なスキルだよ。",
+    "start_time": 159.0,
+    "end_time": 167.0
+    },
+    {
+    "utterance_id": "utt_5019",
+    "speaker_id": "speaker_0",
+    "text": "すごく勉強になったよ。少しずつ書き方の引き出し増やしていきたいな。",
+    "start_time": 168.0,
+    "end_time": 175.0
+    },
+    {
+    "utterance_id": "utt_5020",
+    "speaker_id": "speaker_1",
+    "text": "いいね。その調子でやっていけば確実に身についていくよ。何かあればまた聞いて。",
+    "start_time": 176.0,
+    "end_time": 180.0
+    }
+    ]
+    }

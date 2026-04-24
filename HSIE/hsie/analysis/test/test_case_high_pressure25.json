@@ -1,0 +1,165 @@
+{
+    "case_id": "HSIE_TEST_106",
+    "description": "質問の連続と評価保留を用いた思考停止誘導型の心理的圧迫ハラスメント",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 185.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_701",
+        "speaker_id": "speaker_1",
+        "text": "今回の提案資料についてですが、まず全体の意図を簡潔に説明してください。",
+        "start_time": 0.0,
+        "end_time": 6.0
+      },
+      {
+        "utterance_id": "utt_702",
+        "speaker_id": "speaker_0",
+        "text": "はい。今回の提案は、コスト削減と業務効率化を目的としたものです。",
+        "start_time": 7.0,
+        "end_time": 14.0
+      },
+      {
+        "utterance_id": "utt_703",
+        "speaker_id": "speaker_1",
+        "text": "その目的設定ですが、なぜその2点に絞ったのですか。他の観点は検討していますか？",
+        "start_time": 15.0,
+        "end_time": 23.0
+      },
+      {
+        "utterance_id": "utt_704",
+        "speaker_id": "speaker_0",
+        "text": "はい、一応検討はしましたが、優先度としてこの2点が高いと判断しました。",
+        "start_time": 24.0,
+        "end_time": 32.0
+      },
+      {
+        "utterance_id": "utt_705",
+        "speaker_id": "speaker_1",
+        "text": "一応というのはどういう意味ですか。具体的にどの観点を、どの程度の深さで検討したのか説明できますか？",
+        "start_time": 33.0,
+        "end_time": 43.0
+      },
+      {
+        "utterance_id": "utt_706",
+        "speaker_id": "speaker_0",
+        "text": "ええと…リスク面と運用面について簡単に整理しました。",
+        "start_time": 44.0,
+        "end_time": 51.0
+      },
+      {
+        "utterance_id": "utt_707",
+        "speaker_id": "speaker_1",
+        "text": "簡単に、ですか。それで十分だと判断した根拠は何ですか？",
+        "start_time": 52.0,
+        "end_time": 60.0
+      },
+      {
+        "utterance_id": "utt_708",
+        "speaker_id": "speaker_0",
+        "text": "過去の類似案件を参考にして判断しました。",
+        "start_time": 61.0,
+        "end_time": 67.0
+      },
+      {
+        "utterance_id": "utt_709",
+        "speaker_id": "speaker_1",
+        "text": "その“類似案件”ですが、今回と条件は本当に一致していますか？違いは認識していますか？",
+        "start_time": 68.0,
+        "end_time": 78.0
+      },
+      {
+        "utterance_id": "utt_710",
+        "speaker_id": "speaker_0",
+        "text": "完全には一致していませんが、参考になる部分があると考えました。",
+        "start_time": 79.0,
+        "end_time": 87.0
+      },
+      {
+        "utterance_id": "utt_711",
+        "speaker_id": "speaker_1",
+        "text": "一致していない前提で、その判断を採用した理由を説明してください。",
+        "start_time": 88.0,
+        "end_time": 96.0
+      },
+      {
+        "utterance_id": "utt_712",
+        "speaker_id": "speaker_0",
+        "text": "ええと…適用可能だと考えたためです。",
+        "start_time": 97.0,
+        "end_time": 103.0
+      },
+      {
+        "utterance_id": "utt_713",
+        "speaker_id": "speaker_1",
+        "text": "“考えたため”では説明になっていませんね。判断プロセスを順序立てて話せますか？",
+        "start_time": 104.0,
+        "end_time": 113.0
+      },
+      {
+        "utterance_id": "utt_714",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません、整理して説明します。",
+        "start_time": 114.0,
+        "end_time": 120.0
+      },
+      {
+        "utterance_id": "utt_715",
+        "speaker_id": "speaker_1",
+        "text": "今この場でお願いします。後からでは意味がありません。",
+        "start_time": 121.0,
+        "end_time": 129.0
+      },
+      {
+        "utterance_id": "utt_716",
+        "speaker_id": "speaker_0",
+        "text": "はい……まず前提条件として、既存プロセスとの共通点があり…",
+        "start_time": 130.0,
+        "end_time": 139.0
+      },
+      {
+        "utterance_id": "utt_717",
+        "speaker_id": "speaker_1",
+        "text": "共通点“がある”ではなく、“どこがどう同じか”を具体的に述べてください。",
+        "start_time": 140.0,
+        "end_time": 149.0
+      },
+      {
+        "utterance_id": "utt_718",
+        "speaker_id": "speaker_0",
+        "text": "はい……業務フローの一部が似ており…",
+        "start_time": 150.0,
+        "end_time": 158.0
+      },
+      {
+        "utterance_id": "utt_719",
+        "speaker_id": "speaker_1",
+        "text": "“一部”とはどの範囲ですか。曖昧な表現が多いですが、自覚はありますか？",
+        "start_time": 159.0,
+        "end_time": 169.0
+      },
+      {
+        "utterance_id": "utt_720",
+        "speaker_id": "speaker_0",
+        "text": "……申し訳ありません。",
+        "start_time": 170.0,
+        "end_time": 172.0
+      },
+      {
+        "utterance_id": "utt_721",
+        "speaker_id": "speaker_1",
+        "text": "謝罪ではなく、説明を求めています。この状態で承認できると思いますか？",
+        "start_time": 173.0,
+        "end_time": 181.0
+      },
+      {
+        "utterance_id": "utt_722",
+        "speaker_id": "speaker_0",
+        "text": "難しいと思います……。",
+        "start_time": 182.0,
+        "end_time": 185.0
+      }
+    ]
+  }

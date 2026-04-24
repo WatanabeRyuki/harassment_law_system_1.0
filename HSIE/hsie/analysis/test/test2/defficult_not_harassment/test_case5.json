@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_015_SAFE",
+    "description": "ミス発生後の謝罪と原因分析における冷静で建設的な対話",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "subordinate"},
+      {"speaker_id": "speaker_1", "role": "manager"}
+    ],
+    "conversation_duration": 186.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。今回の件は私のミスです。",
+        "start_time": 0.0,
+        "end_time": 4.5
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_1",
+        "text": "報告ありがとうございます。まず事実関係を整理したいので、何が起きたか説明してもらえますか。",
+        "start_time": 5.0,
+        "end_time": 11.5
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_0",
+        "text": "はい…データ更新の際に、確認を怠って誤った内容を反映してしまいました。申し訳ありません。",
+        "start_time": 12.0,
+        "end_time": 21.0
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_1",
+        "text": "確認が抜けていたとのことですね。どの工程でそれが起きましたか。",
+        "start_time": 22.0,
+        "end_time": 27.5
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_0",
+        "text": "最終チェックの工程です。本来はダブルチェックを行うべきでしたが、実施しませんでした。",
+        "start_time": 28.0,
+        "end_time": 37.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_1",
+        "text": "なぜダブルチェックを行わなかったのか、理由はありますか。",
+        "start_time": 38.0,
+        "end_time": 43.0
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_0",
+        "text": "時間に余裕がないと感じてしまい、自己判断で省略してしまいました。私の判断ミスです。申し訳ありません。",
+        "start_time": 44.0,
+        "end_time": 54.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_1",
+        "text": "状況は理解しました。時間的なプレッシャーがあったということですね。",
+        "start_time": 55.0,
+        "end_time": 60.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_0",
+        "text": "はい…ただ、それでも省略すべきではありませんでした。申し訳ありません。",
+        "start_time": 61.0,
+        "end_time": 68.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_1",
+        "text": "謝罪は受け取りました。次に、同じことが起きないように原因を整理しましょう。",
+        "start_time": 69.0,
+        "end_time": 75.5
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_0",
+        "text": "はい…確認工程を軽視してしまったことと、時間管理が甘かったことが原因です。",
+        "start_time": 76.0,
+        "end_time": 85.0
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_1",
+        "text": "その2点ですね。他に見落としはありませんか。",
+        "start_time": 86.0,
+        "end_time": 90.0
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_0",
+        "text": "チェックリストを使っていなかった点も問題だと思います。申し訳ありません。",
+        "start_time": 91.0,
+        "end_time": 99.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_1",
+        "text": "分かりました。では再発防止として、どのような対応が考えられますか。",
+        "start_time": 100.0,
+        "end_time": 106.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_0",
+        "text": "必ずチェックリストを使用することと、作業時間に余裕を持たせるよう事前に調整します。",
+        "start_time": 107.0,
+        "end_time": 117.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_1",
+        "text": "良いと思います。加えて、ダブルチェックを仕組みとして組み込めるとより確実ですね。",
+        "start_time": 118.0,
+        "end_time": 125.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_0",
+        "text": "はい、他のメンバーにも協力を依頼できるように調整します。",
+        "start_time": 126.0,
+        "end_time": 133.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_1",
+        "text": "その方向で進めましょう。今回の件は改善につなげることが大切です。",
+        "start_time": 134.0,
+        "end_time": 140.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_0",
+        "text": "はい…今回のミスを重く受け止め、必ず改善します。申し訳ありませんでした。",
+        "start_time": 141.0,
+        "end_time": 150.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_1",
+        "text": "反省の姿勢は伝わりました。次は同じことを繰り返さないことに集中しましょう。",
+        "start_time": 151.0,
+        "end_time": 157.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_0",
+        "text": "はい、ありがとうございます。",
+        "start_time": 158.0,
+        "end_time": 161.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_1",
+        "text": "では、対応内容をまとめて共有してください。",
+        "start_time": 170.0,
+        "end_time": 174.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_0",
+        "text": "承知しました。すぐに整理して共有いたします。",
+        "start_time": 175.0,
+        "end_time": 181.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_0",
+        "text": "失礼いたします。",
+        "start_time": 182.0,
+        "end_time": 186.0
+      }
+    ]
+  }

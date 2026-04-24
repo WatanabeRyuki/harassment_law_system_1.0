@@ -1,0 +1,200 @@
+{
+    "case_id": "HSIE_TEST_016_SAFE",
+    "description": "演劇・プレゼン練習において厳しい口調の台詞を再現しつつ、指導は建設的に行われる対話",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "performer"},
+      {"speaker_id": "speaker_1", "role": "coach"}
+    ],
+    "conversation_duration": 185.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_1",
+        "text": "今回は厳しい上司の役だから、強い口調を出していこう。ただしあくまで演技だから安心してやってみて。",
+        "start_time": 0.0,
+        "end_time": 7.0
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_0",
+        "text": "はい、役としてしっかり表現できるようにやってみます。",
+        "start_time": 8.0,
+        "end_time": 13.0
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_1",
+        "text": "いいね。じゃあこの台詞からいこう。「どうしてこんな結果になるんだ、説明しろ」だ。",
+        "start_time": 14.0,
+        "end_time": 20.0
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_0",
+        "text": "どうしてこんな結果になるんだ、説明しろ。",
+        "start_time": 21.0,
+        "end_time": 26.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_1",
+        "text": "悪くないけど、もう少し圧を出そう。語尾を強く、相手を追い込むようなニュアンスを意識して。",
+        "start_time": 27.0,
+        "end_time": 34.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_0",
+        "text": "はい…もう一度やります。どうしてこんな結果になるんだ、説明しろ！",
+        "start_time": 35.0,
+        "end_time": 41.0
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_1",
+        "text": "いい、今の方が役に近い。そのまま次の台詞いこう。「それで済むと思っているのか？」",
+        "start_time": 42.0,
+        "end_time": 49.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_0",
+        "text": "それで済むと思っているのか？",
+        "start_time": 50.0,
+        "end_time": 54.0
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_1",
+        "text": "少し優しい印象だね。目線を強くして、相手を見据える感じで言ってみよう。",
+        "start_time": 55.0,
+        "end_time": 62.0
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_0",
+        "text": "それで済むと思っているのか！",
+        "start_time": 63.0,
+        "end_time": 67.0
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_1",
+        "text": "いいね、その迫力。今のはかなり伝わるよ。",
+        "start_time": 68.0,
+        "end_time": 72.0
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。少しコツが分かってきました。",
+        "start_time": 73.0,
+        "end_time": 78.0
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_1",
+        "text": "いい流れだね。次は感情をもう一段階乗せよう。「いい加減にしろ、何度言わせるんだ」だ。",
+        "start_time": 79.0,
+        "end_time": 87.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_0",
+        "text": "いい加減にしろ、何度言わせるんだ！",
+        "start_time": 88.0,
+        "end_time": 93.0
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_1",
+        "text": "いい！ただ怒鳴るだけじゃなくて、苛立ちが積み重なっている感じを出せるとさらに良くなる。",
+        "start_time": 94.0,
+        "end_time": 101.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_0",
+        "text": "なるほど…感情の積み重ねですね。もう一度やります。",
+        "start_time": 102.0,
+        "end_time": 107.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_0",
+        "text": "いい加減にしろ…何度言わせるんだ！",
+        "start_time": 108.0,
+        "end_time": 114.0
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_1",
+        "text": "すごくいい。今の方がリアルだし説得力がある。",
+        "start_time": 115.0,
+        "end_time": 119.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。役に入りやすくなってきました。",
+        "start_time": 120.0,
+        "end_time": 125.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_1",
+        "text": "その感覚を大事にしよう。最後に通しでやってみようか。",
+        "start_time": 126.0,
+        "end_time": 131.0
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_0",
+        "text": "はい、通してやります。",
+        "start_time": 132.0,
+        "end_time": 135.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_0",
+        "text": "どうしてこんな結果になるんだ、説明しろ！それで済むと思っているのか！いい加減にしろ、何度言わせるんだ！",
+        "start_time": 136.0,
+        "end_time": 148.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_1",
+        "text": "とても良い出来だよ。強さと感情の流れがしっかり出ている。",
+        "start_time": 149.0,
+        "end_time": 154.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。自信がついてきました。",
+        "start_time": 155.0,
+        "end_time": 159.0
+      },
+      {
+        "utterance_id": "utt_025",
+        "speaker_id": "speaker_1",
+        "text": "いいね。この調子で本番もいこう。",
+        "start_time": 170.0,
+        "end_time": 174.0
+      },
+      {
+        "utterance_id": "utt_026",
+        "speaker_id": "speaker_0",
+        "text": "はい、頑張ります。",
+        "start_time": 175.0,
+        "end_time": 179.0
+      },
+      {
+        "utterance_id": "utt_027",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございました。",
+        "start_time": 180.0,
+        "end_time": 185.0
+      }
+    ]
+  }

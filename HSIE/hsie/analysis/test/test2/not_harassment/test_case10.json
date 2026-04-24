@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_210",
+    "description": "共同作業における簡潔で明確な進捗共有と相互確認（非ハラスメント・効率的コミュニケーション）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "participant"},
+    {"speaker_id": "speaker_1", "role": "participant"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_10001",
+    "speaker_id": "speaker_0",
+    "text": "今のタスク一区切りついたので、次は資料の最終確認に入りますね。",
+    "start_time": 0.0,
+    "end_time": 7.0
+    },
+    {
+    "utterance_id": "utt_10002",
+    "speaker_id": "speaker_1",
+    "text": "了解です。進めていただいて大丈夫です。",
+    "start_time": 8.0,
+    "end_time": 13.0
+    },
+    {
+    "utterance_id": "utt_10003",
+    "speaker_id": "speaker_0",
+    "text": "ありがとうございます。誤字や表現も含めて一通り見直します。",
+    "start_time": 14.0,
+    "end_time": 21.0
+    },
+    {
+    "utterance_id": "utt_10004",
+    "speaker_id": "speaker_1",
+    "text": "助かります。気になる点があれば共有お願いします。",
+    "start_time": 22.0,
+    "end_time": 28.0
+    },
+    {
+    "utterance_id": "utt_10005",
+    "speaker_id": "speaker_0",
+    "text": "はい、見つけたものはコメントで残しておきますね。",
+    "start_time": 29.0,
+    "end_time": 35.0
+    },
+    {
+    "utterance_id": "utt_10006",
+    "speaker_id": "speaker_1",
+    "text": "ありがとうございます。こちらも並行してデータ整理進めておきます。",
+    "start_time": 36.0,
+    "end_time": 43.0
+    },
+    {
+    "utterance_id": "utt_10007",
+    "speaker_id": "speaker_0",
+    "text": "了解です。進捗あればまた共有します。",
+    "start_time": 44.0,
+    "end_time": 49.0
+    },
+    {
+    "utterance_id": "utt_10008",
+    "speaker_id": "speaker_1",
+    "text": "お願いします。こちらも完了したら報告しますね。",
+    "start_time": 50.0,
+    "end_time": 56.0
+    },
+    {
+    "utterance_id": "utt_10009",
+    "speaker_id": "speaker_0",
+    "text": "今ざっと見たところ、大きな修正はなさそうですが細かい点をもう少し確認します。",
+    "start_time": 57.0,
+    "end_time": 66.0
+    },
+    {
+    "utterance_id": "utt_10010",
+    "speaker_id": "speaker_1",
+    "text": "ありがとうございます。細部まで見ていただけると安心です。",
+    "start_time": 67.0,
+    "end_time": 73.0
+    },
+    {
+    "utterance_id": "utt_10011",
+    "speaker_id": "speaker_0",
+    "text": "一通り確認できたら、最終版として共有しますね。",
+    "start_time": 74.0,
+    "end_time": 80.0
+    },
+    {
+    "utterance_id": "utt_10012",
+    "speaker_id": "speaker_1",
+    "text": "了解です。受け取り次第こちらでも確認します。",
+    "start_time": 81.0,
+    "end_time": 87.0
+    },
+    {
+    "utterance_id": "utt_10013",
+    "speaker_id": "speaker_0",
+    "text": "ありがとうございます。ではこのまま進めます。",
+    "start_time": 88.0,
+    "end_time": 93.0
+    },
+    {
+    "utterance_id": "utt_10014",
+    "speaker_id": "speaker_1",
+    "text": "お願いします。こちらも作業続けます。",
+    "start_time": 94.0,
+    "end_time": 99.0
+    },
+    {
+    "utterance_id": "utt_10015",
+    "speaker_id": "speaker_0",
+    "text": "最終確認終わりました。いくつか軽微な修正を反映しています。",
+    "start_time": 100.0,
+    "end_time": 108.0
+    },
+    {
+    "utterance_id": "utt_10016",
+    "speaker_id": "speaker_1",
+    "text": "お疲れさまです。共有いただけますか？",
+    "start_time": 109.0,
+    "end_time": 114.0
+    },
+    {
+    "utterance_id": "utt_10017",
+    "speaker_id": "speaker_0",
+    "text": "はい、今送付しましたのでご確認お願いします。",
+    "start_time": 115.0,
+    "end_time": 120.0
+    },
+    {
+    "utterance_id": "utt_10018",
+    "speaker_id": "speaker_1",
+    "text": "受け取りました。これから確認します。",
+    "start_time": 121.0,
+    "end_time": 126.0
+    },
+    {
+    "utterance_id": "utt_10019",
+    "speaker_id": "speaker_0",
+    "text": "何かあればすぐ対応しますので遠慮なく言ってください。",
+    "start_time": 127.0,
+    "end_time": 134.0
+    },
+    {
+    "utterance_id": "utt_10020",
+    "speaker_id": "speaker_1",
+    "text": "ありがとうございます。今のところ問題なさそうです。",
+    "start_time": 135.0,
+    "end_time": 141.0
+    },
+    {
+    "utterance_id": "utt_10021",
+    "speaker_id": "speaker_0",
+    "text": "よかったです。それではこの内容で進めますね。",
+    "start_time": 142.0,
+    "end_time": 148.0
+    },
+    {
+    "utterance_id": "utt_10022",
+    "speaker_id": "speaker_1",
+    "text": "はい、その方向でお願いします。",
+    "start_time": 149.0,
+    "end_time": 153.0
+    },
+    {
+    "utterance_id": "utt_10023",
+    "speaker_id": "speaker_0",
+    "text": "引き続きよろしくお願いします。",
+    "start_time": 154.0,
+    "end_time": 158.0
+    },
+    {
+    "utterance_id": "utt_10024",
+    "speaker_id": "speaker_1",
+    "text": "こちらこそ、よろしくお願いします。",
+    "start_time": 159.0,
+    "end_time": 180.0
+    }
+    ]
+    }

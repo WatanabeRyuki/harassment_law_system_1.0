@@ -1,0 +1,242 @@
+{
+    "case_id": "HSIE_TEST_209",
+    "description": "複数人の前で特定個人のミスを過度に強調し、逃げ場のない状況で心理的圧迫を与える公開処刑型ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 192.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_001",
+    "speaker_id": "speaker_0",
+    "text": "じゃあ会議始めるけど、その前に一ついい？今回のミス、誰がやったか分かってるよな。",
+    "start_time": 0.0,
+    "end_time": 6.0
+    },
+    {
+    "utterance_id": "utt_002",
+    "speaker_id": "speaker_1",
+    "text": "……私です。申し訳ありませんでした。",
+    "start_time": 7.0,
+    "end_time": 11.5
+    },
+    {
+    "utterance_id": "utt_003",
+    "speaker_id": "speaker_0",
+    "text": "そう、この人ね。全員聞いて。今回の遅延、完全にこの人の確認不足だから。",
+    "start_time": 12.5,
+    "end_time": 19.5
+    },
+    {
+    "utterance_id": "utt_004",
+    "speaker_id": "speaker_1",
+    "text": "ご迷惑をおかけして申し訳ありません。",
+    "start_time": 20.5,
+    "end_time": 24.5
+    },
+    {
+    "utterance_id": "utt_005",
+    "speaker_id": "speaker_0",
+    "text": "いや謝ればいいって話じゃないんだよ。どれだけ影響出たか分かってる？",
+    "start_time": 25.5,
+    "end_time": 31.5
+    },
+    {
+    "utterance_id": "utt_006",
+    "speaker_id": "speaker_1",
+    "text": "はい、認識しております。",
+    "start_time": 32.5,
+    "end_time": 35.5
+    },
+    {
+    "utterance_id": "utt_007",
+    "speaker_id": "speaker_0",
+    "text": "じゃあ説明してみてよ。どうしてこんな初歩的なミスしたのか。",
+    "start_time": 36.5,
+    "end_time": 42.0
+    },
+    {
+    "utterance_id": "utt_008",
+    "speaker_id": "speaker_1",
+    "text": "確認工程が不十分で、優先順位の判断を誤りました。",
+    "start_time": 43.0,
+    "end_time": 49.0
+    },
+    {
+    "utterance_id": "utt_009",
+    "speaker_id": "speaker_0",
+    "text": "ほらね、こんなレベルの話なんだよ。全員どう思う？これで仕事任せられる？",
+    "start_time": 50.0,
+    "end_time": 57.5
+    },
+    {
+    "utterance_id": "utt_010",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 58.5,
+    "end_time": 61.0
+    },
+    {
+    "utterance_id": "utt_011",
+    "speaker_id": "speaker_0",
+    "text": "黙ってないで答えろよ。自分の問題なんだからさ。",
+    "start_time": 62.0,
+    "end_time": 67.0
+    },
+    {
+    "utterance_id": "utt_012",
+    "speaker_id": "speaker_1",
+    "text": "信頼を損ねたと感じています。",
+    "start_time": 68.0,
+    "end_time": 72.0
+    },
+    {
+    "utterance_id": "utt_013",
+    "speaker_id": "speaker_0",
+    "text": "感じています、じゃなくて事実だよ。実際、みんな困ってるから。",
+    "start_time": 73.0,
+    "end_time": 79.0
+    },
+    {
+    "utterance_id": "utt_014",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません……。",
+    "start_time": 80.0,
+    "end_time": 83.0
+    },
+    {
+    "utterance_id": "utt_015",
+    "speaker_id": "speaker_0",
+    "text": "この人さ、前も似たようなミスしてるんだよね。覚えてる人いる？",
+    "start_time": 84.0,
+    "end_time": 90.5
+    },
+    {
+    "utterance_id": "utt_016",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 91.5,
+    "end_time": 94.0
+    },
+    {
+    "utterance_id": "utt_017",
+    "speaker_id": "speaker_0",
+    "text": "こうやって繰り返すんだよ。学習しない典型例ってやつ。",
+    "start_time": 95.0,
+    "end_time": 101.0
+    },
+    {
+    "utterance_id": "utt_018",
+    "speaker_id": "speaker_1",
+    "text": "改善に努めます。",
+    "start_time": 102.0,
+    "end_time": 105.0
+    },
+    {
+    "utterance_id": "utt_019",
+    "speaker_id": "speaker_0",
+    "text": "その言葉、もう聞き飽きたよ。具体的に何するの？ここで言ってみて。",
+    "start_time": 106.0,
+    "end_time": 113.0
+    },
+    {
+    "utterance_id": "utt_020",
+    "speaker_id": "speaker_1",
+    "text": "チェックリストを作成し、ダブルチェック体制を導入します。",
+    "start_time": 114.0,
+    "end_time": 120.0
+    },
+    {
+    "utterance_id": "utt_021",
+    "speaker_id": "speaker_0",
+    "text": "それ前も言ってたよね？で、結果これだよね？意味なくない？",
+    "start_time": 121.0,
+    "end_time": 127.5
+    },
+    {
+    "utterance_id": "utt_022",
+    "speaker_id": "speaker_1",
+    "text": "運用が徹底できていませんでした。",
+    "start_time": 128.5,
+    "end_time": 132.5
+    },
+    {
+    "utterance_id": "utt_023",
+    "speaker_id": "speaker_0",
+    "text": "つまりやってないのと同じ。全員、こういう状態だとどうなるか分かるよね？",
+    "start_time": 133.5,
+    "end_time": 140.5
+    },
+    {
+    "utterance_id": "utt_024",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 141.5,
+    "end_time": 144.0
+    },
+    {
+    "utterance_id": "utt_025",
+    "speaker_id": "speaker_0",
+    "text": "沈黙か。ほんと都合悪くなると黙るよな。",
+    "start_time": 145.0,
+    "end_time": 150.0
+    },
+    {
+    "utterance_id": "utt_026",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません。",
+    "start_time": 151.0,
+    "end_time": 153.5
+    },
+    {
+    "utterance_id": "utt_027",
+    "speaker_id": "speaker_0",
+    "text": "謝罪いらないって言ってるだろ。行動で示せって何回言えば分かるの？",
+    "start_time": 154.5,
+    "end_time": 161.0
+    },
+    {
+    "utterance_id": "utt_028",
+    "speaker_id": "speaker_1",
+    "text": "はい……。",
+    "start_time": 162.0,
+    "end_time": 164.0
+    },
+    {
+    "utterance_id": "utt_029",
+    "speaker_id": "speaker_0",
+    "text": "正直さ、このままだとまた同じこと起きると思ってる。みんなもそう思ってるよ。",
+    "start_time": 165.0,
+    "end_time": 172.5
+    },
+    {
+    "utterance_id": "utt_030",
+    "speaker_id": "speaker_1",
+    "text": "再発防止に全力で取り組みます。",
+    "start_time": 173.5,
+    "end_time": 178.5
+    },
+    {
+    "utterance_id": "utt_031",
+    "speaker_id": "speaker_0",
+    "text": "その“全力”が信用されてないって話してるんだよ。分かる？",
+    "start_time": 179.5,
+    "end_time": 185.5
+    },
+    {
+    "utterance_id": "utt_032",
+    "speaker_id": "speaker_1",
+    "text": "……はい。",
+    "start_time": 186.5,
+    "end_time": 188.5
+    },
+    {
+    "utterance_id": "utt_033",
+    "speaker_id": "speaker_0",
+    "text": "じゃあ会議戻るけど、この件ちゃんと覚えておいて。次はないから。",
+    "start_time": 189.0,
+    "end_time": 192.0
+    }
+    ]
+    }

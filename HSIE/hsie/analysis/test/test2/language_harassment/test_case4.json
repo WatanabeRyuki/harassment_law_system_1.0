@@ -1,0 +1,235 @@
+{
+    "case_id": "HSIE_TEST_204",
+    "description": "出身校や前職といった経歴を貶め、能力を一方的に否定することで劣等感を植え付ける学歴・経歴差別型ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 187.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_001",
+    "speaker_id": "speaker_0",
+    "text": "この資料さ、ほんとレベル低いよね。どこの学校出たんだっけ？",
+    "start_time": 0.0,
+    "end_time": 5.5
+    },
+    {
+    "utterance_id": "utt_002",
+    "speaker_id": "speaker_1",
+    "text": "〇〇大学です。",
+    "start_time": 6.5,
+    "end_time": 9.0
+    },
+    {
+    "utterance_id": "utt_003",
+    "speaker_id": "speaker_0",
+    "text": "あー、やっぱりね。そのレベルならこんなもんか。",
+    "start_time": 10.0,
+    "end_time": 14.5
+    },
+    {
+    "utterance_id": "utt_004",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません、修正いたします。",
+    "start_time": 15.5,
+    "end_time": 19.5
+    },
+    {
+    "utterance_id": "utt_005",
+    "speaker_id": "speaker_0",
+    "text": "いや修正とか以前にさ、基礎ができてないよね。そういうのって学校で習わなかったの？",
+    "start_time": 20.5,
+    "end_time": 27.5
+    },
+    {
+    "utterance_id": "utt_006",
+    "speaker_id": "speaker_1",
+    "text": "至らない点があり申し訳ありません。",
+    "start_time": 28.5,
+    "end_time": 32.5
+    },
+    {
+    "utterance_id": "utt_007",
+    "speaker_id": "speaker_0",
+    "text": "ほんとさ、なんで採用されたのか不思議なんだよね。うちってもう少しレベル高いと思ってたんだけど。",
+    "start_time": 33.5,
+    "end_time": 41.0
+    },
+    {
+    "utterance_id": "utt_008",
+    "speaker_id": "speaker_1",
+    "text": "……努力します。",
+    "start_time": 42.0,
+    "end_time": 44.5
+    },
+    {
+    "utterance_id": "utt_009",
+    "speaker_id": "speaker_0",
+    "text": "努力ねえ。前職も大したことなかったんでしょ？どこだっけ。",
+    "start_time": 45.5,
+    "end_time": 50.5
+    },
+    {
+    "utterance_id": "utt_010",
+    "speaker_id": "speaker_1",
+    "text": "中小企業で事務職をしておりました。",
+    "start_time": 51.5,
+    "end_time": 56.0
+    },
+    {
+    "utterance_id": "utt_011",
+    "speaker_id": "speaker_0",
+    "text": "あー、やっぱり。だからこのレベルなんだ。ぬるい環境にいたんだろうね。",
+    "start_time": 57.0,
+    "end_time": 63.5
+    },
+    {
+    "utterance_id": "utt_012",
+    "speaker_id": "speaker_1",
+    "text": "環境の違いはあるかと思いますが、こちらで通用するように努力します。",
+    "start_time": 64.5,
+    "end_time": 71.0
+    },
+    {
+    "utterance_id": "utt_013",
+    "speaker_id": "speaker_0",
+    "text": "通用するように、って簡単に言うけどさ、基礎の差って簡単に埋まらないんだよ？",
+    "start_time": 72.0,
+    "end_time": 78.5
+    },
+    {
+    "utterance_id": "utt_014",
+    "speaker_id": "speaker_1",
+    "text": "はい、理解しています。",
+    "start_time": 79.5,
+    "end_time": 82.5
+    },
+    {
+    "utterance_id": "utt_015",
+    "speaker_id": "speaker_0",
+    "text": "理解してるならもっとまともなアウトプット出してよ。正直、足引っ張られてるんだけど。",
+    "start_time": 83.5,
+    "end_time": 90.0
+    },
+    {
+    "utterance_id": "utt_016",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません……。",
+    "start_time": 91.0,
+    "end_time": 94.0
+    },
+    {
+    "utterance_id": "utt_017",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、その考え方も古いよね。前職のやり方引きずってる感じ。",
+    "start_time": 95.0,
+    "end_time": 101.0
+    },
+    {
+    "utterance_id": "utt_018",
+    "speaker_id": "speaker_1",
+    "text": "改善していきます。",
+    "start_time": 102.0,
+    "end_time": 105.0
+    },
+    {
+    "utterance_id": "utt_019",
+    "speaker_id": "speaker_0",
+    "text": "その“改善”って言葉便利だよね。中身ないけど。",
+    "start_time": 106.0,
+    "end_time": 111.0
+    },
+    {
+    "utterance_id": "utt_020",
+    "speaker_id": "speaker_1",
+    "text": "具体的な改善策を提示いたします。",
+    "start_time": 112.0,
+    "end_time": 116.5
+    },
+    {
+    "utterance_id": "utt_021",
+    "speaker_id": "speaker_0",
+    "text": "提示するだけじゃ意味ないって分かる？実行できないなら意味ないから。",
+    "start_time": 117.5,
+    "end_time": 123.5
+    },
+    {
+    "utterance_id": "utt_022",
+    "speaker_id": "speaker_1",
+    "text": "はい、実行まで徹底します。",
+    "start_time": 124.5,
+    "end_time": 128.5
+    },
+    {
+    "utterance_id": "utt_023",
+    "speaker_id": "speaker_0",
+    "text": "ほんとかね。正直、期待値かなり低いけど。",
+    "start_time": 129.5,
+    "end_time": 134.0
+    },
+    {
+    "utterance_id": "utt_024",
+    "speaker_id": "speaker_1",
+    "text": "結果でお示しできるよう努めます。",
+    "start_time": 135.0,
+    "end_time": 139.5
+    },
+    {
+    "utterance_id": "utt_025",
+    "speaker_id": "speaker_0",
+    "text": "結果ねえ…。まあ出せたら評価してあげるよ、無理だと思うけど。",
+    "start_time": 140.5,
+    "end_time": 147.0
+    },
+    {
+    "utterance_id": "utt_026",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 148.0,
+    "end_time": 151.0
+    },
+    {
+    "utterance_id": "utt_027",
+    "speaker_id": "speaker_0",
+    "text": "黙ってるだけじゃ何も変わらないよ？ほんと受け身だね、そういうとこもダメ。",
+    "start_time": 152.0,
+    "end_time": 158.5
+    },
+    {
+    "utterance_id": "utt_028",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません、考えを整理して発言いたします。",
+    "start_time": 159.5,
+    "end_time": 165.5
+    },
+    {
+    "utterance_id": "utt_029",
+    "speaker_id": "speaker_0",
+    "text": "遅いんだよ、その時点で。やっぱり基礎からやり直した方がいいんじゃない？",
+    "start_time": 166.5,
+    "end_time": 173.0
+    },
+    {
+    "utterance_id": "utt_030",
+    "speaker_id": "speaker_1",
+    "text": "はい……見直します。",
+    "start_time": 174.0,
+    "end_time": 177.0
+    },
+    {
+    "utterance_id": "utt_031",
+    "speaker_id": "speaker_0",
+    "text": "まあいいや、とりあえずやり直してきて。今のままだと話にならないから。",
+    "start_time": 178.0,
+    "end_time": 184.5
+    },
+    {
+    "utterance_id": "utt_032",
+    "speaker_id": "speaker_1",
+    "text": "失礼いたします。",
+    "start_time": 185.5,
+    "end_time": 187.0
+    }
+    ]
+    }

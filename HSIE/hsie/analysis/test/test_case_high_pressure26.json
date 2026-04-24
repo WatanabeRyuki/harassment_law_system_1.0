@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_108",
+    "description": "敬語を用いながら割り込みと評価否定を繰り返し、謝罪ループに誘導する構造的ハラスメント",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 178.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_901",
+        "speaker_id": "speaker_1",
+        "text": "恐れ入りますが、今回の件について簡潔にご説明いただけますか。",
+        "start_time": 0.0,
+        "end_time": 4.5
+      },
+      {
+        "utterance_id": "utt_902",
+        "speaker_id": "speaker_0",
+        "text": "はい、今回の遅延は私の確認不足により発生したものでして—",
+        "start_time": 5.5,
+        "end_time": 10.0
+      },
+      {
+        "utterance_id": "utt_903",
+        "speaker_id": "speaker_1",
+        "text": "申し訳ありません、少し長いですね。結論からお願いできますか。",
+        "start_time": 9.5,
+        "end_time": 13.0
+      },
+      {
+        "utterance_id": "utt_904",
+        "speaker_id": "speaker_0",
+        "text": "失礼いたしました。原因は確認不足でございます。",
+        "start_time": 14.0,
+        "end_time": 17.5
+      },
+      {
+        "utterance_id": "utt_905",
+        "speaker_id": "speaker_1",
+        "text": "ありがとうございます。ただ、そのご説明は前回も伺っておりますよね。",
+        "start_time": 18.0,
+        "end_time": 23.0
+      },
+      {
+        "utterance_id": "utt_906",
+        "speaker_id": "speaker_0",
+        "text": "はい申し訳ございません。",
+        "start_time": 24.0,
+        "end_time": 26.5
+      },
+      {
+        "utterance_id": "utt_907",
+        "speaker_id": "speaker_1",
+        "text": "では、改善策について具体的にお聞かせください。抽象的な表現は不要です。",
+        "start_time": 27.0,
+        "end_time": 32.5
+      },
+      {
+        "utterance_id": "utt_908",
+        "speaker_id": "speaker_0",
+        "text": "はい、チェック体制を強化し",
+        "start_time": 33.5,
+        "end_time": 36.5
+      },
+      {
+        "utterance_id": "utt_909",
+        "speaker_id": "speaker_1",
+        "text": "“強化”とは具体的にどのような意味でしょうか。",
+        "start_time": 36.0,
+        "end_time": 40.0
+      },
+      {
+        "utterance_id": "utt_910",
+        "speaker_id": "speaker_0",
+        "text": "確認回数を増やし",
+        "start_time": 41.0,
+        "end_time": 44.0
+      },
+      {
+        "utterance_id": "utt_911",
+        "speaker_id": "speaker_1",
+        "text": "回数の問題ではないように思われますが、その点はいかがでしょうか。",
+        "start_time": 43.5,
+        "end_time": 49.0
+      },
+      {
+        "utterance_id": "utt_912",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ございません。",
+        "start_time": 50.0,
+        "end_time": 52.0
+      },
+      {
+        "utterance_id": "utt_913",
+        "speaker_id": "speaker_1",
+        "text": "いえ、謝罪ではなくご説明をお願いしたいのですが。",
+        "start_time": 53.0,
+        "end_time": 57.0
+      },
+      {
+        "utterance_id": "utt_914",
+        "speaker_id": "speaker_0",
+        "text": "失礼いたしました。では、事前共有の徹底を—",
+        "start_time": 58.0,
+        "end_time": 63.0
+      },
+      {
+        "utterance_id": "utt_915",
+        "speaker_id": "speaker_1",
+        "text": "その点も既に伺っておりますね。",
+        "start_time": 62.5,
+        "end_time": 65.5
+      },
+      {
+        "utterance_id": "utt_916",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ございません。",
+        "start_time": 66.5,
+        "end_time": 68.5
+      },
+      {
+        "utterance_id": "utt_917",
+        "speaker_id": "speaker_1",
+        "text": "少し整理しますと、現時点で新しい視点は特にない、という理解でよろしいでしょうか。",
+        "start_time": 69.0,
+        "end_time": 76.0
+      },
+      {
+        "utterance_id": "utt_918",
+        "speaker_id": "speaker_0",
+        "text": "はい。",
+        "start_time": 77.0,
+        "end_time": 78.5
+      },
+      {
+        "utterance_id": "utt_919",
+        "speaker_id": "speaker_1",
+        "text": "承知しました。その状態で本件を継続されるご判断には、どのような根拠がございますか。",
+        "start_time": 79.0,
+        "end_time": 87.0
+      },
+      {
+        "utterance_id": "utt_920",
+        "speaker_id": "speaker_0",
+        "text": "ええと現時点では明確にお答えできません。",
+        "start_time": 88.0,
+        "end_time": 94.0
+      },
+      {
+        "utterance_id": "utt_921",
+        "speaker_id": "speaker_1",
+        "text": "そうしますと、現状では継続の妥当性が説明できない、ということでしょうか。",
+        "start_time": 95.0,
+        "end_time": 102.0
+      },
+      {
+        "utterance_id": "utt_922",
+        "speaker_id": "speaker_0",
+        "text": "はいその通りです。",
+        "start_time": 103.0,
+        "end_time": 106.0
+      },
+      {
+        "utterance_id": "utt_923",
+        "speaker_id": "speaker_1",
+        "text": "かしこまりました。では、一度すべて整理されたうえで、改めてご説明いただけますか。",
+        "start_time": 107.0,
+        "end_time": 115.0
+      },
+      {
+        "utterance_id": "utt_924",
+        "speaker_id": "speaker_0",
+        "text": "承知いたしました。",
+        "start_time": 116.0,
+        "end_time": 118.0
+      }
+    ]
+  }

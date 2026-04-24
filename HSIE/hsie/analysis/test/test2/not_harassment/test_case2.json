@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_202",
+    "description": "ランチの誘いにおける配慮と相互尊重を伴う自然な合意形成（非ハラスメント・協調的対話）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "participant"},
+    {"speaker_id": "speaker_1", "role": "participant"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_2001",
+    "speaker_id": "speaker_0",
+    "text": "今日のお昼、もしよかったら一緒に行かない？ちょっと外の空気も吸いたくてさ。",
+    "start_time": 0.0,
+    "end_time": 8.0
+    },
+    {
+    "utterance_id": "utt_2002",
+    "speaker_id": "speaker_1",
+    "text": "いいね、ちょうど気分転換したかったところ。どこか行きたいお店ある？",
+    "start_time": 9.0,
+    "end_time": 16.0
+    },
+    {
+    "utterance_id": "utt_2003",
+    "speaker_id": "speaker_0",
+    "text": "最近できた定食屋が気になってるんだけど、どうかな？でも他に希望があればそっちでも全然大丈夫だよ。",
+    "start_time": 17.0,
+    "end_time": 28.0
+    },
+    {
+    "utterance_id": "utt_2004",
+    "speaker_id": "speaker_1",
+    "text": "定食屋いいね。和食って落ち着くし。混んでなければそこ行ってみたいな。",
+    "start_time": 29.0,
+    "end_time": 36.0
+    },
+    {
+    "utterance_id": "utt_2005",
+    "speaker_id": "speaker_0",
+    "text": "じゃあ一応時間少しずらす？ピーク避けたほうが入りやすいかも。",
+    "start_time": 37.0,
+    "end_time": 44.0
+    },
+    {
+    "utterance_id": "utt_2006",
+    "speaker_id": "speaker_1",
+    "text": "そうだね、12時半くらいに出る感じならちょうどよさそう。",
+    "start_time": 45.0,
+    "end_time": 51.0
+    },
+    {
+    "utterance_id": "utt_2007",
+    "speaker_id": "speaker_0",
+    "text": "了解。その時間に合わせて仕事区切れるようにしておくよ。",
+    "start_time": 52.0,
+    "end_time": 58.0
+    },
+    {
+    "utterance_id": "utt_2008",
+    "speaker_id": "speaker_1",
+    "text": "ありがとう。もし急ぎの対応入ったら遠慮なく言ってね、別日にしても大丈夫だから。",
+    "start_time": 59.0,
+    "end_time": 68.0
+    },
+    {
+    "utterance_id": "utt_2009",
+    "speaker_id": "speaker_0",
+    "text": "うん、その時はちゃんと連絡するね。逆にそっちも無理しないで。",
+    "start_time": 69.0,
+    "end_time": 76.0
+    },
+    {
+    "utterance_id": "utt_2010",
+    "speaker_id": "speaker_1",
+    "text": "ありがとう。そういうふうに言ってもらえると安心する。",
+    "start_time": 77.0,
+    "end_time": 83.0
+    },
+    {
+    "utterance_id": "utt_2011",
+    "speaker_id": "speaker_0",
+    "text": "ちなみにそのお店、魚と肉どっちも選べるみたいなんだよね。",
+    "start_time": 84.0,
+    "end_time": 90.0
+    },
+    {
+    "utterance_id": "utt_2012",
+    "speaker_id": "speaker_1",
+    "text": "へえ、それはいいね。最近魚あんまり食べてなかったからちょうどいいかも。",
+    "start_time": 91.0,
+    "end_time": 99.0
+    },
+    {
+    "utterance_id": "utt_2013",
+    "speaker_id": "speaker_0",
+    "text": "健康的でいいよね。バランス取れるし。",
+    "start_time": 100.0,
+    "end_time": 105.0
+    },
+    {
+    "utterance_id": "utt_2014",
+    "speaker_id": "speaker_1",
+    "text": "こういう機会があると、ちゃんと食事見直そうって思えるなあ。",
+    "start_time": 106.0,
+    "end_time": 113.0
+    },
+    {
+    "utterance_id": "utt_2015",
+    "speaker_id": "speaker_0",
+    "text": "わかる。普段忙しいとつい適当になりがちだしね。",
+    "start_time": 114.0,
+    "end_time": 120.0
+    },
+    {
+    "utterance_id": "utt_2016",
+    "speaker_id": "speaker_1",
+    "text": "うん。でもこうやって一緒に行くとちゃんと楽しめるし。",
+    "start_time": 121.0,
+    "end_time": 127.0
+    },
+    {
+    "utterance_id": "utt_2017",
+    "speaker_id": "speaker_0",
+    "text": "じゃあ12時半にエントランス集合でいいかな？",
+    "start_time": 128.0,
+    "end_time": 134.0
+    },
+    {
+    "utterance_id": "utt_2018",
+    "speaker_id": "speaker_1",
+    "text": "うん、大丈夫。その前に一区切りつけておくね。",
+    "start_time": 135.0,
+    "end_time": 141.0
+    },
+    {
+    "utterance_id": "utt_2019",
+    "speaker_id": "speaker_0",
+    "text": "了解。楽しみにしてる。",
+    "start_time": 142.0,
+    "end_time": 146.0
+    },
+    {
+    "utterance_id": "utt_2020",
+    "speaker_id": "speaker_1",
+    "text": "私も。ちょっとしたリフレッシュになりそうだね。",
+    "start_time": 147.0,
+    "end_time": 153.0
+    },
+    {
+    "utterance_id": "utt_2021",
+    "speaker_id": "speaker_0",
+    "text": "午後も頑張れそうだしね。いい時間にしよう。",
+    "start_time": 154.0,
+    "end_time": 160.0
+    },
+    {
+    "utterance_id": "utt_2022",
+    "speaker_id": "speaker_1",
+    "text": "うん、よろしくね。",
+    "start_time": 161.0,
+    "end_time": 165.0
+    },
+    {
+    "utterance_id": "utt_2023",
+    "speaker_id": "speaker_0",
+    "text": "じゃあまたあとで。",
+    "start_time": 166.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_2024",
+    "speaker_id": "speaker_1",
+    "text": "はい、またあとで。",
+    "start_time": 171.0,
+    "end_time": 180.0
+    }
+    ]
+    }

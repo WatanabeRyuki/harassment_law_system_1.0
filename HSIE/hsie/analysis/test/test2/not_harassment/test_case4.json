@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_204",
+    "description": "旅行の思い出共有における相互共感と文化的興味を深める対話（非ハラスメント・ポジティブコミュニケーション）",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "participant"},
+    {"speaker_id": "speaker_1", "role": "participant"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_4001",
+    "speaker_id": "speaker_0",
+    "text": "この前の休みに、久しぶりに地方へ旅行に行ってきたんだ。すごくリフレッシュできたよ。",
+    "start_time": 0.0,
+    "end_time": 8.0
+    },
+    {
+    "utterance_id": "utt_4002",
+    "speaker_id": "speaker_1",
+    "text": "いいね、どこに行ったの？最近旅行行けてないから気になるな。",
+    "start_time": 9.0,
+    "end_time": 16.0
+    },
+    {
+    "utterance_id": "utt_4003",
+    "speaker_id": "speaker_0",
+    "text": "今回は東北のほうに行ってきたよ。自然も豊かで、食べ物も美味しかった。",
+    "start_time": 17.0,
+    "end_time": 26.0
+    },
+    {
+    "utterance_id": "utt_4004",
+    "speaker_id": "speaker_1",
+    "text": "東北いいなあ。具体的にはどんなもの食べたの？",
+    "start_time": 27.0,
+    "end_time": 33.0
+    },
+    {
+    "utterance_id": "utt_4005",
+    "speaker_id": "speaker_0",
+    "text": "海鮮がすごく新鮮でね、特にお刺身が印象的だった。あと地元のお米もすごく美味しかったよ。",
+    "start_time": 34.0,
+    "end_time": 45.0
+    },
+    {
+    "utterance_id": "utt_4006",
+    "speaker_id": "speaker_1",
+    "text": "それは贅沢だね。やっぱり現地で食べると違うんだろうな。",
+    "start_time": 46.0,
+    "end_time": 52.0
+    },
+    {
+    "utterance_id": "utt_4007",
+    "speaker_id": "speaker_0",
+    "text": "うん、全然違うよ。空気もいいし、その土地の雰囲気込みで味わえる感じ。",
+    "start_time": 53.0,
+    "end_time": 61.0
+    },
+    {
+    "utterance_id": "utt_4008",
+    "speaker_id": "speaker_1",
+    "text": "いいなあ。他にも名産品とかあった？",
+    "start_time": 62.0,
+    "end_time": 67.0
+    },
+    {
+    "utterance_id": "utt_4009",
+    "speaker_id": "speaker_0",
+    "text": "地元の和菓子があって、それがすごく上品な甘さで美味しかった。お土産にも買ってきたよ。",
+    "start_time": 68.0,
+    "end_time": 78.0
+    },
+    {
+    "utterance_id": "utt_4010",
+    "speaker_id": "speaker_1",
+    "text": "いいね、それ。見た目も綺麗そう。",
+    "start_time": 79.0,
+    "end_time": 83.0
+    },
+    {
+    "utterance_id": "utt_4011",
+    "speaker_id": "speaker_0",
+    "text": "そうそう、季節のモチーフが使われてて、食べるのがもったいないくらいだった。",
+    "start_time": 84.0,
+    "end_time": 92.0
+    },
+    {
+    "utterance_id": "utt_4012",
+    "speaker_id": "speaker_1",
+    "text": "そういうのいいよね。味だけじゃなくて、文化も感じられるし。",
+    "start_time": 93.0,
+    "end_time": 100.0
+    },
+    {
+    "utterance_id": "utt_4013",
+    "speaker_id": "speaker_0",
+    "text": "まさにそれ。あと地元の市場も行ったんだけど、人も温かくて印象に残ってる。",
+    "start_time": 101.0,
+    "end_time": 110.0
+    },
+    {
+    "utterance_id": "utt_4014",
+    "speaker_id": "speaker_1",
+    "text": "人の雰囲気って大事だよね。旅の満足度にかなり影響すると思う。",
+    "start_time": 111.0,
+    "end_time": 118.0
+    },
+    {
+    "utterance_id": "utt_4015",
+    "speaker_id": "speaker_0",
+    "text": "うん、本当にそう思う。ちょっとした会話でもすごく心に残るし。",
+    "start_time": 119.0,
+    "end_time": 126.0
+    },
+    {
+    "utterance_id": "utt_4016",
+    "speaker_id": "speaker_1",
+    "text": "聞いてるだけで行きたくなってきたなあ。",
+    "start_time": 127.0,
+    "end_time": 131.0
+    },
+    {
+    "utterance_id": "utt_4017",
+    "speaker_id": "speaker_0",
+    "text": "ぜひ行ってみてほしい。季節によってまた違った魅力もあると思うし。",
+    "start_time": 132.0,
+    "end_time": 140.0
+    },
+    {
+    "utterance_id": "utt_4018",
+    "speaker_id": "speaker_1",
+    "text": "おすすめの時期とかある？",
+    "start_time": 141.0,
+    "end_time": 145.0
+    },
+    {
+    "utterance_id": "utt_4019",
+    "speaker_id": "speaker_0",
+    "text": "今回行ったのは春だったけど、秋の紅葉シーズンも良さそうだなって思ったよ。",
+    "start_time": 146.0,
+    "end_time": 154.0
+    },
+    {
+    "utterance_id": "utt_4020",
+    "speaker_id": "speaker_1",
+    "text": "確かに、紅葉と美味しい食べ物の組み合わせは最高だね。",
+    "start_time": 155.0,
+    "end_time": 161.0
+    },
+    {
+    "utterance_id": "utt_4021",
+    "speaker_id": "speaker_0",
+    "text": "うん、また違う季節にも行ってみたいなと思ってる。",
+    "start_time": 162.0,
+    "end_time": 168.0
+    },
+    {
+    "utterance_id": "utt_4022",
+    "speaker_id": "speaker_1",
+    "text": "そのときはまた話聞かせてね。",
+    "start_time": 169.0,
+    "end_time": 173.0
+    },
+    {
+    "utterance_id": "utt_4023",
+    "speaker_id": "speaker_0",
+    "text": "もちろん。またおすすめも共有するよ。",
+    "start_time": 174.0,
+    "end_time": 178.0
+    },
+    {
+    "utterance_id": "utt_4024",
+    "speaker_id": "speaker_1",
+    "text": "楽しみにしてる。",
+    "start_time": 179.0,
+    "end_time": 180.0
+    }
+    ]
+    }

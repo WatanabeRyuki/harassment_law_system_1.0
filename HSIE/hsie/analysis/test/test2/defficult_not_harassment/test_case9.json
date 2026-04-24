@@ -1,0 +1,193 @@
+{
+    "case_id": "HSIE_TEST_019_SAFE",
+    "description": "漫才における誇張表現とツッコミを用いたユーモラスな対話（合意された関係性内での表現）",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "boke"},
+      {"speaker_id": "speaker_1", "role": "tsukkomi"}
+    ],
+    "conversation_duration": 184.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_001",
+        "speaker_id": "speaker_0",
+        "text": "いや〜昨日さ、ついに宇宙旅行してきてん。",
+        "start_time": 0.0,
+        "end_time": 4.5
+      },
+      {
+        "utterance_id": "utt_002",
+        "speaker_id": "speaker_1",
+        "text": "なんでやねん！急にスケールでかすぎるやろ！",
+        "start_time": 5.0,
+        "end_time": 9.5
+      },
+      {
+        "utterance_id": "utt_003",
+        "speaker_id": "speaker_0",
+        "text": "いやほんまやって。コンビニ行くノリでロケット乗ってきたわ。",
+        "start_time": 10.0,
+        "end_time": 16.0
+      },
+      {
+        "utterance_id": "utt_004",
+        "speaker_id": "speaker_1",
+        "text": "いい加減にしろ！どんなコンビニやねん！",
+        "start_time": 17.0,
+        "end_time": 21.0
+      },
+      {
+        "utterance_id": "utt_005",
+        "speaker_id": "speaker_0",
+        "text": "いや、店員さんが『ポイントカードは地球外でも使えます』って言うてな。",
+        "start_time": 22.0,
+        "end_time": 29.0
+      },
+      {
+        "utterance_id": "utt_006",
+        "speaker_id": "speaker_1",
+        "text": "なんでやねん！宇宙でポイント貯めてどうすんねん！",
+        "start_time": 30.0,
+        "end_time": 35.0
+      },
+      {
+        "utterance_id": "utt_007",
+        "speaker_id": "speaker_0",
+        "text": "でな、月でおにぎり食べたらちょっと浮いてん。",
+        "start_time": 36.0,
+        "end_time": 41.0
+      },
+      {
+        "utterance_id": "utt_008",
+        "speaker_id": "speaker_1",
+        "text": "そらそうやろ！重力少ないんやから！そこは合ってるわ！",
+        "start_time": 42.0,
+        "end_time": 47.5
+      },
+      {
+        "utterance_id": "utt_009",
+        "speaker_id": "speaker_0",
+        "text": "でもツナマヨだけ重かったで。",
+        "start_time": 48.0,
+        "end_time": 51.5
+      },
+      {
+        "utterance_id": "utt_010",
+        "speaker_id": "speaker_1",
+        "text": "なんでやねん！ツナマヨに重力関係あらへんやろ！",
+        "start_time": 52.0,
+        "end_time": 56.5
+      },
+      {
+        "utterance_id": "utt_011",
+        "speaker_id": "speaker_0",
+        "text": "あれやな、マヨネーズが頑張ってたんやと思う。",
+        "start_time": 57.0,
+        "end_time": 61.5
+      },
+      {
+        "utterance_id": "utt_012",
+        "speaker_id": "speaker_1",
+        "text": "いい加減にしろ！マヨネーズに意思ないわ！",
+        "start_time": 62.0,
+        "end_time": 66.5
+      },
+      {
+        "utterance_id": "utt_013",
+        "speaker_id": "speaker_0",
+        "text": "で、帰りはブラックホール経由で帰ってきてん。",
+        "start_time": 67.0,
+        "end_time": 72.0
+      },
+      {
+        "utterance_id": "utt_014",
+        "speaker_id": "speaker_1",
+        "text": "なんでやねん！帰ってこれへんやろ普通！",
+        "start_time": 73.0,
+        "end_time": 77.5
+      },
+      {
+        "utterance_id": "utt_015",
+        "speaker_id": "speaker_0",
+        "text": "いや、ショートカットできて便利やで。",
+        "start_time": 78.0,
+        "end_time": 82.0
+      },
+      {
+        "utterance_id": "utt_016",
+        "speaker_id": "speaker_1",
+        "text": "いい加減にしろ！人生ごとショートカットしてまうわ！",
+        "start_time": 83.0,
+        "end_time": 88.0
+      },
+      {
+        "utterance_id": "utt_017",
+        "speaker_id": "speaker_0",
+        "text": "でもな、帰ってきたら冷蔵庫のプリンなくなっててん。",
+        "start_time": 89.0,
+        "end_time": 94.5
+      },
+      {
+        "utterance_id": "utt_018",
+        "speaker_id": "speaker_1",
+        "text": "なんでやねん！そこだけ現実的な被害やめろ！",
+        "start_time": 95.0,
+        "end_time": 100.0
+      },
+      {
+        "utterance_id": "utt_019",
+        "speaker_id": "speaker_0",
+        "text": "やっぱ宇宙より家の中の方が危険やな。",
+        "start_time": 101.0,
+        "end_time": 105.0
+      },
+      {
+        "utterance_id": "utt_020",
+        "speaker_id": "speaker_1",
+        "text": "いい加減にしろ！オチそこなんかい！",
+        "start_time": 106.0,
+        "end_time": 110.5
+      },
+      {
+        "utterance_id": "utt_021",
+        "speaker_id": "speaker_0",
+        "text": "ということで宇宙旅行おすすめやで。",
+        "start_time": 111.0,
+        "end_time": 115.0
+      },
+      {
+        "utterance_id": "utt_022",
+        "speaker_id": "speaker_1",
+        "text": "なんでやねん！誰が行くか！",
+        "start_time": 116.0,
+        "end_time": 120.0
+      },
+      {
+        "utterance_id": "utt_023",
+        "speaker_id": "speaker_0",
+        "text": "いやでも、プリンは気をつけや。",
+        "start_time": 121.0,
+        "end_time": 125.0
+      },
+      {
+        "utterance_id": "utt_024",
+        "speaker_id": "speaker_1",
+        "text": "最後までそれかい！もうええわ！",
+        "start_time": 126.0,
+        "end_time": 130.0
+      },
+      {
+        "utterance_id": "utt_025",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございました。",
+        "start_time": 170.0,
+        "end_time": 174.0
+      },
+      {
+        "utterance_id": "utt_026",
+        "speaker_id": "speaker_1",
+        "text": "ありがとうございました。",
+        "start_time": 175.0,
+        "end_time": 184.0
+      }
+    ]
+  }

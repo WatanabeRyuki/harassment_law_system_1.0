@@ -1,0 +1,235 @@
+{
+    "case_id": "HSIE_TEST_210",
+    "description": "業務と無関係な私的用事を強要し、拒否しづらい立場を利用して従わせる不必要な私用命令型ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 188.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_001",
+    "speaker_id": "speaker_0",
+    "text": "おい、ちょっといいか。今手空いてるよな？",
+    "start_time": 0.0,
+    "end_time": 4.0
+    },
+    {
+    "utterance_id": "utt_002",
+    "speaker_id": "speaker_1",
+    "text": "はい、今は一段落しております。",
+    "start_time": 5.0,
+    "end_time": 9.0
+    },
+    {
+    "utterance_id": "utt_003",
+    "speaker_id": "speaker_0",
+    "text": "じゃあさ、俺の靴ちょっと汚れてるから磨いといてくれる？今日大事な打ち合わせあるんだよ。",
+    "start_time": 10.0,
+    "end_time": 17.5
+    },
+    {
+    "utterance_id": "utt_004",
+    "speaker_id": "speaker_1",
+    "text": "あの……それは業務の範囲外かと思うのですが。",
+    "start_time": 18.5,
+    "end_time": 23.5
+    },
+    {
+    "utterance_id": "utt_005",
+    "speaker_id": "speaker_0",
+    "text": "は？そのくらいやれよ。上司のサポートも仕事のうちだろ。",
+    "start_time": 24.5,
+    "end_time": 30.0
+    },
+    {
+    "utterance_id": "utt_006",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありませんが、業務内容とは異なるため難しいです。",
+    "start_time": 31.0,
+    "end_time": 36.5
+    },
+    {
+    "utterance_id": "utt_007",
+    "speaker_id": "speaker_0",
+    "text": "難しいって何？そんな大したことじゃないだろ。これくらいで断るの？",
+    "start_time": 37.5,
+    "end_time": 44.0
+    },
+    {
+    "utterance_id": "utt_008",
+    "speaker_id": "speaker_1",
+    "text": "業務に集中したいと考えております。",
+    "start_time": 45.0,
+    "end_time": 49.0
+    },
+    {
+    "utterance_id": "utt_009",
+    "speaker_id": "speaker_0",
+    "text": "業務ねえ。その業務、誰のおかげでできてると思ってるの？",
+    "start_time": 50.0,
+    "end_time": 56.0
+    },
+    {
+    "utterance_id": "utt_010",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 57.0,
+    "end_time": 59.5
+    },
+    {
+    "utterance_id": "utt_011",
+    "speaker_id": "speaker_0",
+    "text": "黙るなよ。指示に従うのが部下だろ。",
+    "start_time": 60.5,
+    "end_time": 65.0
+    },
+    {
+    "utterance_id": "utt_012",
+    "speaker_id": "speaker_1",
+    "text": "業務指示であれば対応いたしますが……。",
+    "start_time": 66.0,
+    "end_time": 70.5
+    },
+    {
+    "utterance_id": "utt_013",
+    "speaker_id": "speaker_0",
+    "text": "だから指示してるだろ。細かいこと言うなよ。",
+    "start_time": 71.5,
+    "end_time": 76.0
+    },
+    {
+    "utterance_id": "utt_014",
+    "speaker_id": "speaker_1",
+    "text": "……承知しかねます。",
+    "start_time": 77.0,
+    "end_time": 80.5
+    },
+    {
+    "utterance_id": "utt_015",
+    "speaker_id": "speaker_0",
+    "text": "へえ、断るんだ。なかなか強気だな。評価どうなるか分かってる？",
+    "start_time": 81.5,
+    "end_time": 88.5
+    },
+    {
+    "utterance_id": "utt_016",
+    "speaker_id": "speaker_1",
+    "text": "そのような形での評価には疑問があります。",
+    "start_time": 89.5,
+    "end_time": 94.5
+    },
+    {
+    "utterance_id": "utt_017",
+    "speaker_id": "speaker_0",
+    "text": "疑問とか関係ないんだよ。上がどう見るかで決まるんだから。",
+    "start_time": 95.5,
+    "end_time": 101.0
+    },
+    {
+    "utterance_id": "utt_018",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 102.0,
+    "end_time": 104.5
+    },
+    {
+    "utterance_id": "utt_019",
+    "speaker_id": "speaker_0",
+    "text": "まあいいや、じゃあコーヒー買ってきてよ。ついでに昼飯も。",
+    "start_time": 105.5,
+    "end_time": 112.0
+    },
+    {
+    "utterance_id": "utt_020",
+    "speaker_id": "speaker_1",
+    "text": "それも業務外かと思いますが……。",
+    "start_time": 113.0,
+    "end_time": 117.5
+    },
+    {
+    "utterance_id": "utt_021",
+    "speaker_id": "speaker_0",
+    "text": "いちいちうるさいな。柔軟に対応できないの？だから評価低いんだよ。",
+    "start_time": 118.5,
+    "end_time": 125.5
+    },
+    {
+    "utterance_id": "utt_022",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありませんが、お受けできません。",
+    "start_time": 126.5,
+    "end_time": 130.5
+    },
+    {
+    "utterance_id": "utt_023",
+    "speaker_id": "speaker_0",
+    "text": "ほんと使えないな。これくらい気を利かせろよ。",
+    "start_time": 131.5,
+    "end_time": 136.5
+    },
+    {
+    "utterance_id": "utt_024",
+    "speaker_id": "speaker_1",
+    "text": "業務に関係する形で貢献できればと思います。",
+    "start_time": 137.5,
+    "end_time": 142.5
+    },
+    {
+    "utterance_id": "utt_025",
+    "speaker_id": "speaker_0",
+    "text": "だからそれが硬いんだよ。上司の意図汲めないやつは伸びないぞ。",
+    "start_time": 143.5,
+    "end_time": 149.5
+    },
+    {
+    "utterance_id": "utt_026",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 150.5,
+    "end_time": 153.0
+    },
+    {
+    "utterance_id": "utt_027",
+    "speaker_id": "speaker_0",
+    "text": "まあいい、もういいよ。別のやつに頼むから。",
+    "start_time": 154.0,
+    "end_time": 158.5
+    },
+    {
+    "utterance_id": "utt_028",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません。",
+    "start_time": 159.5,
+    "end_time": 162.0
+    },
+    {
+    "utterance_id": "utt_029",
+    "speaker_id": "speaker_0",
+    "text": "その代わりさ、今回の件ちゃんと覚えとけよ。評価に影響するからな。",
+    "start_time": 163.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_030",
+    "speaker_id": "speaker_1",
+    "text": "……承知しました。",
+    "start_time": 171.0,
+    "end_time": 174.0
+    },
+    {
+    "utterance_id": "utt_031",
+    "speaker_id": "speaker_0",
+    "text": "ほんと融通効かないやつだな。もう少し空気読めよ。",
+    "start_time": 175.0,
+    "end_time": 181.0
+    },
+    {
+    "utterance_id": "utt_032",
+    "speaker_id": "speaker_1",
+    "text": "失礼いたします。",
+    "start_time": 182.0,
+    "end_time": 188.0
+    }
+    ]
+    }

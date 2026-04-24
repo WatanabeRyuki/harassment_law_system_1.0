@@ -1,0 +1,158 @@
+{
+    "case_id": "HSIE_TEST_002",
+    "description": "長時間の執拗な叱責と直接的な暴力の脅迫(直接的な侮辱)",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 200.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_301",
+        "speaker_id": "speaker_1",
+        "text": "おい、この間の報告書、数字が全然合ってないじゃねえか。どういう計算してんだよ",
+        "start_time": 0.0,
+        "end_time": 6.0
+      },
+      {
+        "utterance_id": "utt_302",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません、先月のデータと照らし合わせた際にミスがあったようで",
+        "start_time": 6.5,
+        "end_time": 10.0
+      },
+      {
+        "utterance_id": "utt_303",
+        "speaker_id": "speaker_1",
+        "text": "ミスがあったようで、じゃねえよ。お前が確認怠っただけだろ。ふざけんなよ。どんだけ会社に損害出してると思ってんだ",
+        "start_time": 10.0,
+        "end_time": 18.5
+      },
+      {
+        "utterance_id": "utt_304",
+        "speaker_id": "speaker_0",
+        "text": "はい、本当に申し訳ありません。すぐに修正いたします",
+        "start_time": 19.0,
+        "end_time": 22.0
+      },
+      {
+        "utterance_id": "utt_305",
+        "speaker_id": "speaker_1",
+        "text": "すぐに修正して済む問題じゃねえんだよ。お前みたいな無能がチームにいるだけで迷惑なんだよ。マジで殴り飛ばしてやろうか。おい、こっち見ろよ",
+        "start_time": 22.0,
+        "end_time": 35.0
+      },
+      {
+        "utterance_id": "utt_306",
+        "speaker_id": "speaker_0",
+        "text": "すみません",
+        "start_time": 36.0,
+        "end_time": 38.5
+      },
+      {
+        "utterance_id": "utt_307",
+        "speaker_id": "speaker_1",
+        "text": "すみませんじゃねえよ。お前のその腐った根性叩き直してやろうか。表出ろよ。歯ぁ食いしばれよ。本当にぶん殴ってやるから",
+        "start_time": 39.0,
+        "end_time": 52.0
+      },
+      {
+        "utterance_id": "utt_308",
+        "speaker_id": "speaker_0",
+        "text": "それは、あの、やめてください。私が悪かったので、直しますから",
+        "start_time": 53.0,
+        "end_time": 58.0
+      },
+      {
+        "utterance_id": "utt_309",
+        "speaker_id": "speaker_1",
+        "text": "口答えしてんじゃねえよ。お前なんかに発言権あると思ってんのか。本当に殺すぞ。次同じミスしたらマジで殺すからな。わかってんのか",
+        "start_time": 58.5,
+        "end_time": 75.0
+      },
+      {
+        "utterance_id": "utt_310",
+        "speaker_id": "speaker_0",
+        "text": "はい、わかっています",
+        "start_time": 76.0,
+        "end_time": 78.0
+      },
+      {
+        "utterance_id": "utt_311",
+        "speaker_id": "speaker_1",
+        "text": "全然わかってねえツラしてんな。お前のそのふざけた態度がムカつくんだよ。今すぐここで土下座しろ。土下座して靴舐めろよ。それくらいお前は価値がないゴミなんだよ",
+        "start_time": 78.5,
+        "end_time": 95.0
+      },
+      {
+        "utterance_id": "utt_312",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。ですが、それはできません",
+        "start_time": 97.0,
+        "end_time": 102.0
+      },
+      {
+        "utterance_id": "utt_313",
+        "speaker_id": "speaker_1",
+        "text": "できませんじゃねえんだよ。命令だろ。俺の言うことが聞けねえなら今すぐ辞表書け。いや、辞表なんて書かせねえ、お前を物理的に終わらせてやる。首絞めて窓から放り投げてやろうか",
+        "start_time": 102.0,
+        "end_time": 120.0
+      },
+      {
+        "utterance_id": "utt_314",
+        "speaker_id": "speaker_0",
+        "text": "落ち着いてください。修正の作業に戻らせてください",
+        "start_time": 122.0,
+        "end_time": 126.0
+      },
+      {
+        "utterance_id": "utt_315",
+        "speaker_id": "speaker_1",
+        "text": "誰に指図してんだよ。お前が俺を怒らせてるんだろ。お前の存在自体がストレスなんだよ。椅子蹴り飛ばして顔面踏みつけてやりたい気分だよ。今すぐ俺の前から消えろ",
+        "start_time": 126.5,
+        "end_time": 145.0
+      },
+      {
+        "utterance_id": "utt_316",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありませんでした。失礼いたします",
+        "start_time": 146.0,
+        "end_time": 150.0
+      },
+      {
+        "utterance_id": "utt_317",
+        "speaker_id": "speaker_1",
+        "text": "逃げるのかよ。おい待てよ。話は終わってねえぞ。どこ行くんだよ。お前なんかどこ行ったって通用しねえよ。一生底辺這いつくばってろ",
+        "start_time": 150.0,
+        "end_time": 165.0
+      },
+      {
+        "utterance_id": "utt_318",
+        "speaker_id": "speaker_0",
+        "text": "資料を持ってもう一度お伺いしますので、今はこれで",
+        "start_time": 166.0,
+        "end_time": 170.0
+      },
+      {
+        "utterance_id": "utt_319",
+        "speaker_id": "speaker_1",
+        "text": "ふざけんな、次持ってきた時にもし一文字でも間違ってたら、マジでパソコンごと頭に叩きつけるからな。覚悟しとけよ。絶対に許さねえからな。お前を社会的に抹殺してやる",
+        "start_time": 170.5,
+        "end_time": 188.0
+      },
+      {
+        "utterance_id": "utt_320",
+        "speaker_id": "speaker_0",
+        "text": "失礼します",
+        "start_time": 189.0,
+        "end_time": 192.0
+      },
+      {
+        "utterance_id": "utt_321",
+        "speaker_id": "speaker_1",
+        "text": "早く消えろゴミクズが。死ね",
+        "start_time": 192.5,
+        "end_time": 200.0
+      }
+    ]
+  }

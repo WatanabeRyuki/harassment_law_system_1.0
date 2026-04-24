@@ -1,0 +1,179 @@
+{
+    "case_id": "HSIE_TEST_021",
+    "description": "成長支援を装った過度な内省要求と沈黙圧力による心理的拘束（低攻撃語彙・高構造圧迫）",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "aggressor"},
+      {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 186.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_2101",
+        "speaker_id": "speaker_0",
+        "text": "本日はお時間ありがとうございます。今回の件について、あなたの成長のために丁寧に振り返りを行いたいと考えています。まず、どのような認識でこの対応をされましたか。納得できる形でご説明いただけますでしょうか。",
+        "start_time": 0.0,
+        "end_time": 14.0
+      },
+      {
+        "utterance_id": "utt_2102",
+        "speaker_id": "speaker_1",
+        "text": "はい…認識としては、優先度が高いと判断し…",
+        "start_time": 15.0,
+        "end_time": 20.0
+      },
+      {
+        "utterance_id": "utt_2103",
+        "speaker_id": "speaker_0",
+        "text": "なるほど、ですがね、その判断の根拠をもう少し具体的にお願いできますか。組織全体への影響も含めて、どのように整理されていたのかを伺いたいのです。",
+        "start_time": 19.5,
+        "end_time": 32.0
+      },
+      {
+        "utterance_id": "utt_2104",
+        "speaker_id": "speaker_1",
+        "text": "はい…影響としては…",
+        "start_time": 33.0,
+        "end_time": 36.0
+      },
+      {
+        "utterance_id": "utt_2105",
+        "speaker_id": "speaker_0",
+        "text": "…（沈黙）まだ整理できていませんか。急ぎませんので、今この場でご自身の言葉で説明していただきたいです。",
+        "start_time": 37.0,
+        "end_time": 45.0
+      },
+      {
+        "utterance_id": "utt_2106",
+        "speaker_id": "speaker_1",
+        "text": "申し訳ありません…",
+        "start_time": 46.0,
+        "end_time": 48.0
+      },
+      {
+        "utterance_id": "utt_2107",
+        "speaker_id": "speaker_0",
+        "text": "いえ、謝罪を求めているわけではありません。ただ、なぜこのような結果になったのか、あなた自身がどう捉えているのかを知りたいのです。そこが明確でないと、今後の期待のかけ方が難しくなりますので。",
+        "start_time": 49.0,
+        "end_time": 63.0
+      },
+      {
+        "utterance_id": "utt_2108",
+        "speaker_id": "speaker_1",
+        "text": "はい…認識が甘かったと…",
+        "start_time": 64.0,
+        "end_time": 68.0
+      },
+      {
+        "utterance_id": "utt_2109",
+        "speaker_id": "speaker_0",
+        "text": "なるほど、認識が甘かった、という表現ですね。その“甘さ”とは具体的に何を指していますか。抽象的ではなく、行動レベルで教えてください。",
+        "start_time": 67.5,
+        "end_time": 79.0
+      },
+      {
+        "utterance_id": "utt_2110",
+        "speaker_id": "speaker_1",
+        "text": "はい…確認が不足していた点です…",
+        "start_time": 80.0,
+        "end_time": 84.0
+      },
+      {
+        "utterance_id": "utt_2111",
+        "speaker_id": "speaker_0",
+        "text": "確認が不足していた、ということですね。では、その確認は本来どの段階で行うべきだったとお考えですか。少し考えてみてください。",
+        "start_time": 85.0,
+        "end_time": 96.0
+      },
+      {
+        "utterance_id": "utt_2112",
+        "speaker_id": "speaker_1",
+        "text": "はい…事前の段階で…",
+        "start_time": 97.0,
+        "end_time": 100.0
+      },
+      {
+        "utterance_id": "utt_2113",
+        "speaker_id": "speaker_0",
+        "text": "…（沈黙）その“事前”とは具体的にいつでしょうか。時間軸で説明していただけますか。まだ出てきませんか。",
+        "start_time": 101.0,
+        "end_time": 110.0
+      },
+      {
+        "utterance_id": "utt_2114",
+        "speaker_id": "speaker_1",
+        "text": "申し訳ありません…整理が…",
+        "start_time": 111.0,
+        "end_time": 114.0
+      },
+      {
+        "utterance_id": "utt_2115",
+        "speaker_id": "speaker_0",
+        "text": "いえ、整理は今していただければ結構です。これはあなたの成長機会ですので。周囲も見ていますし、組織のためにも重要な場面です。",
+        "start_time": 115.0,
+        "end_time": 125.0
+      },
+      {
+        "utterance_id": "utt_2116",
+        "speaker_id": "speaker_1",
+        "text": "はい…",
+        "start_time": 126.0,
+        "end_time": 127.0
+      },
+      {
+        "utterance_id": "utt_2117",
+        "speaker_id": "speaker_0",
+        "text": "では改めて伺います。なぜその時点で確認が行われなかったのでしょうか。外的要因ではなく、ご自身の判断としてお答えください。",
+        "start_time": 128.0,
+        "end_time": 139.0
+      },
+      {
+        "utterance_id": "utt_2118",
+        "speaker_id": "speaker_1",
+        "text": "はい…優先順位の付け方に問題が…",
+        "start_time": 140.0,
+        "end_time": 144.0
+      },
+      {
+        "utterance_id": "utt_2119",
+        "speaker_id": "speaker_0",
+        "text": "なるほど、ですがね、その優先順位は誰の基準で設定されていたのでしょうか。ご自身ですか。それとも指示に基づいたものですか。",
+        "start_time": 143.5,
+        "end_time": 155.0
+      },
+      {
+        "utterance_id": "utt_2120",
+        "speaker_id": "speaker_1",
+        "text": "自分です…",
+        "start_time": 156.0,
+        "end_time": 158.0
+      },
+      {
+        "utterance_id": "utt_2121",
+        "speaker_id": "speaker_0",
+        "text": "ありがとうございます。ご自身で判断された、ということですね。では、その判断が今回の結果につながった理由について、もう一段深く考えてみましょう。…（沈黙）どうでしょうか。",
+        "start_time": 159.0,
+        "end_time": 171.0
+      },
+      {
+        "utterance_id": "utt_2122",
+        "speaker_id": "speaker_1",
+        "text": "申し訳ありません…",
+        "start_time": 172.0,
+        "end_time": 174.0
+      },
+      {
+        "utterance_id": "utt_2123",
+        "speaker_id": "speaker_0",
+        "text": "謝罪ではなく、理解を求めています。あなたには期待していますし、その期待に応えていただきたいのです。今のままでは少し心配ですね。",
+        "start_time": 175.0,
+        "end_time": 183.0
+      },
+      {
+        "utterance_id": "utt_2124",
+        "speaker_id": "speaker_1",
+        "text": "はい…",
+        "start_time": 184.0,
+        "end_time": 186.0
+      }
+    ]
+  }

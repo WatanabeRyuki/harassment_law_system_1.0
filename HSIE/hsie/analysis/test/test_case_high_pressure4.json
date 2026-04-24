@@ -1,0 +1,123 @@
+{
+    "case_id": "HSIE_TEST_003",
+    "description": "婉曲的侮辱（能力の否定、他者との比較、過剰な皮肉による心理的圧迫）",
+    "speakers": [
+      {"speaker_id": "speaker_0", "role": "target"},
+      {"speaker_id": "speaker_1", "role": "aggressor"}
+    ],
+    "conversation_duration": 200.0,
+    "utterances": [
+      {
+        "utterance_id": "utt_401",
+        "speaker_id": "speaker_1",
+        "text": "あー、昨日頼んでおいたこの資料なんだけどさ。うん、君なりに一生懸命作ってくれたってことは、すごくよく伝わってくるんだよね",
+        "start_time": 0.0,
+        "end_time": 10.5
+      },
+      {
+        "utterance_id": "utt_402",
+        "speaker_id": "speaker_0",
+        "text": "はい。ご指示いただいた要件に沿ってまとめたつもりです",
+        "start_time": 12.0,
+        "end_time": 16.5
+      },
+      {
+        "utterance_id": "utt_403",
+        "speaker_id": "speaker_1",
+        "text": "うーん、日本語って難しいよね。僕の伝え方が悪かったのかなあ。普通の社会人なら、あの説明だけで十分意図を汲み取ってくれるんだけど。君には少しハードルが高すぎたみたいだね",
+        "start_time": 18.0,
+        "end_time": 35.0
+      },
+      {
+        "utterance_id": "utt_404",
+        "speaker_id": "speaker_0",
+        "text": "申し訳ありません。どの部分の認識がずれていたでしょうか",
+        "start_time": 37.0,
+        "end_time": 41.5
+      },
+      {
+        "utterance_id": "utt_405",
+        "speaker_id": "speaker_1",
+        "text": "どこがっていうか、根本的な部分から全部かな。学生のレポートならこれで及第点かもしれないけどさ、ここ、会社なんだよね。プロとしての自覚を持ってもらわないと、正直みんな困っちゃうんだよね",
+        "start_time": 44.0,
+        "end_time": 62.0
+      },
+      {
+        "utterance_id": "utt_406",
+        "speaker_id": "speaker_0",
+        "text": "はい、以後気をつけます。すぐに修正箇所をお伺いしてやり直します",
+        "start_time": 64.0,
+        "end_time": 69.5
+      },
+      {
+        "utterance_id": "utt_407",
+        "speaker_id": "speaker_1",
+        "text": "いや、いいよいいよ。君にこれ以上直してもらっても、また僕が手直しする時間が増えちゃって非効率的だから。君の貴重な時間をこれ以上奪うのも忍びないしね。この件は僕の方で巻き取らせてもらうよ",
+        "start_time": 71.0,
+        "end_time": 90.0
+      },
+      {
+        "utterance_id": "utt_408",
+        "speaker_id": "speaker_0",
+        "text": "いえ、それは申し訳ないです。私が責任を持って最後までやりますので",
+        "start_time": 92.0,
+        "end_time": 97.0
+      },
+      {
+        "utterance_id": "utt_409",
+        "speaker_id": "speaker_1",
+        "text": "責任感があるのは素晴らしいことだと思うよ。でもさ、結果が伴わない責任感って、厳しい言い方になっちゃうけど、周りから見たらただの自己満足でしかないんだよね。これが現実だからね。わかるかな",
+        "start_time": 99.0,
+        "end_time": 118.0
+      },
+      {
+        "utterance_id": "utt_410",
+        "speaker_id": "speaker_0",
+        "text": "はい。おっしゃる通りです",
+        "start_time": 120.0,
+        "end_time": 122.5
+      },
+      {
+        "utterance_id": "utt_411",
+        "speaker_id": "speaker_1",
+        "text": "まあ、最初から君にこのレベルの業務を振った僕のマネジメント不足でもあるからさ、そこは謝るよ。次はもうちょっと、君の能力に見合った、誰にでもできるような簡単な作業を探しておくから安心してよ",
+        "start_time": 125.0,
+        "end_time": 145.0
+      },
+      {
+        "utterance_id": "utt_412",
+        "speaker_id": "speaker_0",
+        "text": "いえ、次もぜひ挑戦させてください。必ず改善しますので",
+        "start_time": 147.0,
+        "end_time": 152.0
+      },
+      {
+        "utterance_id": "utt_413",
+        "speaker_id": "speaker_1",
+        "text": "向上心は買うけどさあ。努力でカバーできる範囲と、根本的なセンスの問題ってあるじゃない。君のペースで成長してくれればいいんだけど、会社は学校じゃないからね。少しは周りのことも考えて行動してほしいな",
+        "start_time": 154.0,
+        "end_time": 175.0
+      },
+      {
+        "utterance_id": "utt_414",
+        "speaker_id": "speaker_0",
+        "text": "本当に申し訳ございません",
+        "start_time": 177.0,
+        "end_time": 179.5
+      },
+      {
+        "utterance_id": "utt_415",
+        "speaker_id": "speaker_1",
+        "text": "謝ってほしいわけじゃないんだよ。僕は君のためを思って言ってるんだから。まあ、この業界に向いてるかどうかも含めて、一度ゆっくり自分のキャリアを見つめ直してみるのもいいかもしれないね。じゃあ、下がっていいよ",
+        "start_time": 181.0,
+        "end_time": 196.5
+      },
+      {
+        "utterance_id": "utt_416",
+        "speaker_id": "speaker_0",
+        "text": "失礼いたします",
+        "start_time": 197.5,
+        "end_time": 200.0
+      }
+    ]
+  }

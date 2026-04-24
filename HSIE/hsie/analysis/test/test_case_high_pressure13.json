@@ -1,0 +1,158 @@
+{
+    "case_id": "HSIE_TEST_024",
+    "description": "長時間の詰問と矛盾した指示により自己否定へ追い込む圧迫型ハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 180.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_801",
+    "speaker_id": "speaker_0",
+    "text": "昨日の対応、なんでああなったのか説明して。",
+    "start_time": 0.0,
+    "end_time": 4.0
+    },
+    {
+    "utterance_id": "utt_802",
+    "speaker_id": "speaker_1",
+    "text": "はい、クライアントからの追加要望に対して、優先順位の判断を誤り、対応が遅れてしまいました。",
+    "start_time": 5.0,
+    "end_time": 16.0
+    },
+    {
+    "utterance_id": "utt_803",
+    "speaker_id": "speaker_0",
+    "text": "“誤り”って軽く言うけどさ、それでどれだけ迷惑かかったか分かってる？",
+    "start_time": 17.0,
+    "end_time": 24.0
+    },
+    {
+    "utterance_id": "utt_804",
+    "speaker_id": "speaker_1",
+    "text": "はい、深く反省しております。再発防止としてタスク管理を見直し——",
+    "start_time": 25.0,
+    "end_time": 34.0
+    },
+    {
+    "utterance_id": "utt_805",
+    "speaker_id": "speaker_0",
+    "text": "反省はいらない。具体策を言えって言ってるんだよ。",
+    "start_time": 35.0,
+    "end_time": 41.0
+    },
+    {
+    "utterance_id": "utt_806",
+    "speaker_id": "speaker_1",
+    "text": "はい、まずはタスクの可視化を強化し、優先順位を朝の時点で明確化いたします。",
+    "start_time": 42.0,
+    "end_time": 52.0
+    },
+    {
+    "utterance_id": "utt_807",
+    "speaker_id": "speaker_0",
+    "text": "それ前も言ってなかった？結局できてないじゃん。",
+    "start_time": 53.0,
+    "end_time": 59.0
+    },
+    {
+    "utterance_id": "utt_808",
+    "speaker_id": "speaker_1",
+    "text": "運用が徹底できていなかった点については私の責任です。改善します。",
+    "start_time": 60.0,
+    "end_time": 69.0
+    },
+    {
+    "utterance_id": "utt_809",
+    "speaker_id": "speaker_0",
+    "text": "改善しますって何回目？口だけなら誰でも言えるよ。",
+    "start_time": 70.0,
+    "end_time": 77.0
+    },
+    {
+    "utterance_id": "utt_810",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません……具体的な運用ルールを文書化し、チーム内でも共有いたします。",
+    "start_time": 78.0,
+    "end_time": 88.0
+    },
+    {
+    "utterance_id": "utt_811",
+    "speaker_id": "speaker_0",
+    "text": "いや、それやると遅くなるよね？スピード落ちるじゃん。",
+    "start_time": 89.0,
+    "end_time": 95.0
+    },
+    {
+    "utterance_id": "utt_812",
+    "speaker_id": "speaker_1",
+    "text": "では簡易的な形で運用し、スピードと精度の両立を図ります。",
+    "start_time": 96.0,
+    "end_time": 105.0
+    },
+    {
+    "utterance_id": "utt_813",
+    "speaker_id": "speaker_0",
+    "text": "中途半端だね。どっちもできないタイプって一番困るんだよ。",
+    "start_time": 106.0,
+    "end_time": 113.0
+    },
+    {
+    "utterance_id": "utt_814",
+    "speaker_id": "speaker_1",
+    "text": "……申し訳ありません。より明確な改善案を再度検討いたします。",
+    "start_time": 114.0,
+    "end_time": 122.0
+    },
+    {
+    "utterance_id": "utt_815",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、なんで昨日報告しなかったの？隠そうとした？",
+    "start_time": 123.0,
+    "end_time": 130.0
+    },
+    {
+    "utterance_id": "utt_816",
+    "speaker_id": "speaker_1",
+    "text": "いえ、対応に追われてしまい報告が遅れました。意図的ではありません。",
+    "start_time": 131.0,
+    "end_time": 139.0
+    },
+    {
+    "utterance_id": "utt_817",
+    "speaker_id": "speaker_0",
+    "text": "結果として隠してるのと同じだから。信用落ちたよ。",
+    "start_time": 140.0,
+    "end_time": 146.0
+    },
+    {
+    "utterance_id": "utt_818",
+    "speaker_id": "speaker_1",
+    "text": "信頼を回復できるよう、今後は即時報告を徹底いたします。",
+    "start_time": 147.0,
+    "end_time": 155.0
+    },
+    {
+    "utterance_id": "utt_819",
+    "speaker_id": "speaker_0",
+    "text": "それ本当にできる？どうせまた同じことするでしょ。",
+    "start_time": 156.0,
+    "end_time": 162.0
+    },
+    {
+    "utterance_id": "utt_820",
+    "speaker_id": "speaker_1",
+    "text": "同じことを繰り返さないよう、具体的な行動に落とし込みます。",
+    "start_time": 163.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_821",
+    "speaker_id": "speaker_0",
+    "text": "まあ期待してないけどね。とりあえず、今日中に今回の件の詳細レポート出して。原因分析も再発防止も全部入れて。",
+    "start_time": 171.0,
+    "end_time": 180.0
+    }
+    ]
+    }

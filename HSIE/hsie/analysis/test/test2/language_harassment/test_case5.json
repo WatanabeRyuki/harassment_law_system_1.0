@@ -1,0 +1,242 @@
+{
+    "case_id": "HSIE_TEST_205",
+    "description": "家族や私生活に踏み込み否定的評価を行うことで人格全体を攻撃し、心理的圧迫を与えるハラスメント",
+    "speakers": [
+    {"speaker_id": "speaker_0", "role": "aggressor"},
+    {"speaker_id": "speaker_1", "role": "target"}
+    ],
+    "conversation_duration": 189.0,
+    "utterances": [
+    {
+    "utterance_id": "utt_001",
+    "speaker_id": "speaker_0",
+    "text": "最近また遅刻してるよな。ちゃんとした生活してるの？",
+    "start_time": 0.0,
+    "end_time": 5.5
+    },
+    {
+    "utterance_id": "utt_002",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません、体調管理が甘く……。",
+    "start_time": 6.5,
+    "end_time": 11.0
+    },
+    {
+    "utterance_id": "utt_003",
+    "speaker_id": "speaker_0",
+    "text": "体調管理っていうかさ、そもそも生活がだらしないんじゃないの？",
+    "start_time": 12.0,
+    "end_time": 17.5
+    },
+    {
+    "utterance_id": "utt_004",
+    "speaker_id": "speaker_1",
+    "text": "改善できるよう努めます。",
+    "start_time": 18.5,
+    "end_time": 21.5
+    },
+    {
+    "utterance_id": "utt_005",
+    "speaker_id": "speaker_0",
+    "text": "そういうのってさ、家庭でどう育てられたか出るよね。時間守るの普通に教わらなかったの？",
+    "start_time": 22.5,
+    "end_time": 30.0
+    },
+    {
+    "utterance_id": "utt_006",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 31.0,
+    "end_time": 34.0
+    },
+    {
+    "utterance_id": "utt_007",
+    "speaker_id": "speaker_0",
+    "text": "黙ってるってことは図星？やっぱりそういう家庭だったんだ。",
+    "start_time": 35.0,
+    "end_time": 40.5
+    },
+    {
+    "utterance_id": "utt_008",
+    "speaker_id": "speaker_1",
+    "text": "そのような言い方は控えていただけると……。",
+    "start_time": 41.5,
+    "end_time": 46.5
+    },
+    {
+    "utterance_id": "utt_009",
+    "speaker_id": "speaker_0",
+    "text": "何、都合悪いの？でも実際そうでしょ。生活乱れてる人ってだいたい背景も似てるし。",
+    "start_time": 47.5,
+    "end_time": 54.5
+    },
+    {
+    "utterance_id": "utt_010",
+    "speaker_id": "speaker_1",
+    "text": "業務と関係のない話は控えていただけると助かります。",
+    "start_time": 55.5,
+    "end_time": 60.5
+    },
+    {
+    "utterance_id": "utt_011",
+    "speaker_id": "speaker_0",
+    "text": "関係あるよ。そういう生活態度が仕事に出てるんだから。",
+    "start_time": 61.5,
+    "end_time": 66.5
+    },
+    {
+    "utterance_id": "utt_012",
+    "speaker_id": "speaker_1",
+    "text": "改善いたします。",
+    "start_time": 67.5,
+    "end_time": 70.0
+    },
+    {
+    "utterance_id": "utt_013",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、休日何してるの？夜遅くまで遊んでるんじゃないの？",
+    "start_time": 71.0,
+    "end_time": 76.5
+    },
+    {
+    "utterance_id": "utt_014",
+    "speaker_id": "speaker_1",
+    "text": "プライベートについてはお答えできません。",
+    "start_time": 77.5,
+    "end_time": 82.0
+    },
+    {
+    "utterance_id": "utt_015",
+    "speaker_id": "speaker_0",
+    "text": "答えられないってことはやましいことあるんだろ。だから朝起きれないんだよ。",
+    "start_time": 83.0,
+    "end_time": 89.5
+    },
+    {
+    "utterance_id": "utt_016",
+    "speaker_id": "speaker_1",
+    "text": "そのようなことはありません。",
+    "start_time": 90.5,
+    "end_time": 93.5
+    },
+    {
+    "utterance_id": "utt_017",
+    "speaker_id": "speaker_0",
+    "text": "じゃあなんで遅刻するの？説明できる？結局だらしないだけでしょ。",
+    "start_time": 94.5,
+    "end_time": 100.5
+    },
+    {
+    "utterance_id": "utt_018",
+    "speaker_id": "speaker_1",
+    "text": "体調管理の不足です……。",
+    "start_time": 101.5,
+    "end_time": 105.0
+    },
+    {
+    "utterance_id": "utt_019",
+    "speaker_id": "speaker_0",
+    "text": "ほらね。自己管理もできないってことは、基本的な躾ができてないんだよ。",
+    "start_time": 106.0,
+    "end_time": 112.5
+    },
+    {
+    "utterance_id": "utt_020",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 113.5,
+    "end_time": 116.0
+    },
+    {
+    "utterance_id": "utt_021",
+    "speaker_id": "speaker_0",
+    "text": "その無言もよくないよ。ちゃんと反省してるように見えないし。",
+    "start_time": 117.0,
+    "end_time": 122.5
+    },
+    {
+    "utterance_id": "utt_022",
+    "speaker_id": "speaker_1",
+    "text": "申し訳ありません……。",
+    "start_time": 123.5,
+    "end_time": 126.5
+    },
+    {
+    "utterance_id": "utt_023",
+    "speaker_id": "speaker_0",
+    "text": "謝ればいいって問題じゃない。生活全部見直した方がいいよ、本当に。",
+    "start_time": 127.5,
+    "end_time": 134.0
+    },
+    {
+    "utterance_id": "utt_024",
+    "speaker_id": "speaker_1",
+    "text": "はい、見直します。",
+    "start_time": 135.0,
+    "end_time": 138.0
+    },
+    {
+    "utterance_id": "utt_025",
+    "speaker_id": "speaker_0",
+    "text": "あとさ、家族にもちゃんと注意された方がいいんじゃない？そのままだと恥かくよ。",
+    "start_time": 139.0,
+    "end_time": 146.0
+    },
+    {
+    "utterance_id": "utt_026",
+    "speaker_id": "speaker_1",
+    "text": "……。",
+    "start_time": 147.0,
+    "end_time": 150.0
+    },
+    {
+    "utterance_id": "utt_027",
+    "speaker_id": "speaker_0",
+    "text": "なんか言えよ。やっぱり自覚ないのか。",
+    "start_time": 151.0,
+    "end_time": 155.5
+    },
+    {
+    "utterance_id": "utt_028",
+    "speaker_id": "speaker_1",
+    "text": "改善に努めます。",
+    "start_time": 156.5,
+    "end_time": 159.5
+    },
+    {
+    "utterance_id": "utt_029",
+    "speaker_id": "speaker_0",
+    "text": "そればっかりだな。本当に変わる気あるのか疑問だわ。",
+    "start_time": 160.5,
+    "end_time": 166.0
+    },
+    {
+    "utterance_id": "utt_030",
+    "speaker_id": "speaker_1",
+    "text": "努力いたします。",
+    "start_time": 167.0,
+    "end_time": 170.0
+    },
+    {
+    "utterance_id": "utt_031",
+    "speaker_id": "speaker_0",
+    "text": "まあいい、とにかく次遅刻したら評価に響くからな。ちゃんと自分の生活見直せ。",
+    "start_time": 171.0,
+    "end_time": 178.0
+    },
+    {
+    "utterance_id": "utt_032",
+    "speaker_id": "speaker_1",
+    "text": "はい……失礼いたします。",
+    "start_time": 179.0,
+    "end_time": 183.5
+    },
+    {
+    "utterance_id": "utt_033",
+    "speaker_id": "speaker_0",
+    "text": "ほんと頼むよ、これ以上だらしないところ見せないでくれ。",
+    "start_time": 184.5,
+    "end_time": 189.0
+    }
+    ]
+    }
