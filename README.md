@@ -89,37 +89,109 @@ Analysis層設計・実装（S完全構築完了）
       |-Analysis Score（フォルダ）
 
           |-Analysis Score 詳細設計書  
-     
+
+↓
+
+|-　HSIResult層(フォルダ)
+
+     |-HSIResult詳細設計書
+
+↓
+
+|-LegalRetrieval層(フォルダ)
+
+     |-LegalRetrieval詳細設計書 
+
 
 実装済みプログラム内容：
 HSIEフォルダ内
 
-音声入力 → ASR → Evidence(JSON) 生成までの End-to-End 実行確認済み
+EntoryPoint：音声入力 → ASR → Evidence(JSON) 
+
+↓
+
+PreprocessedEvidence：話者分離・波形生成(現在はオフ)・ASR後処理(誤字修正ロジック)
+
+↓
+
+Analysis：
+
+  言語攻撃性ロジック：
+  　独自AIモデルによる７指標評価(直接的侮辱・婉曲的侮辱・責任転嫁・拒否不能命令・人格否定・能力否定・価値否定)
+   
+   30秒ごとスコアリング
+   
+   総合スコアリング
+
+  会話構造性ロジック：
+  
+  　ターン占有率算出
+   
+   会話構造否定度算出
+
+   割り込み度算出
+
+   反転ロジック可否算出
+
+   独自シグモンドで活性化
+
+   180秒窓算出
+
+   統合スコアリング
+
+  Analysis Score統合：ロジック：
+  
+   コンディション算出
+   
+   エビデンス算出
+
+   コンディションにおけるスコア統合
+
+↓
+
+HSIResult：
+
+　エビデンス変換
+
+ 算出理由エビデンス生成
+ 
+ クエリ生成
+
+ 人間説明用サマリー生成
+
+↓
+
+LegalRetrieval：
+
+ 法律タグ生成
+
+ e-Govによる法令検索
+
+ 採択法令決定
+
+ 法令エビデンスマッチング生成
+
+↓
+
+API化
+
+ 
+
+エンジン一貫しての生成までの End-to-End 実行確認済み
+
+fainal_evidence/JSONに全ての実行結果及び過程とそのタグを記録・保存済み
 
 Evidence は immutable なスナップショットとして保存
 
 
 
+🔵 今後改良予定
 
-🟡 設計完了・実装準備中
+language独自AIモデルの特化モデルの生成・データの拡充
 
-4.2 前処理層 設計書
+ASR精度の向上
 
-全体フロー図に反映済み（assets フォルダ）
-
-話者分離・セグメント再構成・前処理 Evidence 生成を担う層
-
-EntryPoint 層で生成された Evidence を入力とする設計
-
-前処理層（話者分離・再ラベリング・構造正規化）
-
-分析層（S分析：会話構造性分析）
-
-
-🔵 今後実装予定
-
-HSI Result層の設計
-
+Analysis別指標の生成
 
 🧠 Architectural Philosophy
 
@@ -135,6 +207,5 @@ EntryPoint 層は **「事実の収集のみ」**を行う
 
 話者識別（speaker diarization）は EntryPoint 層では行いません
 
-speaker_id は前処理層にて再付与される想定です
+speaker_id は前処理層にて再付与されています
 
-現在の Evidence JSON は Raw Evidence と位置付けています
